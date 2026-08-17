@@ -1,0 +1,10 @@
+{
+  "name": "600",
+  "version": "1.0.0",
+  "description": "Daily 600-word discovery reader for Ayaan",
+  "scripts": {
+    "generate": "node scripts/generate-week.js",
+    "preview": "npx serve ."
+  },
+  "private": true
+}

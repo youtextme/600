@@ -1,0 +1,33 @@
+name: Weekly Refresh — 600
+
+on:
+  schedule:
+    # Sunday 8:00 AM KST = Saturday 23:00 UTC
+    - cron: '0 23 * * 6'
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  generate-week:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Setup Node
+        uses: actions/setup-node@v4
+        with:
+          node-version: '20'
+
+      - name: Generate new week
+        run: node 600/scripts/generate-week.js
+
+      - name: Commit updated week
+        run: |
+          git config user.name "600 Bot"
+          git config user.email "600-bot@users.noreply.github.com"
+          git add 600/data/week.json 600/data/meta.json 600/data/state.json
+          git diff --staged --quiet || git commit -m "chore(600): weekly essay refresh [skip ci]"
+          git push
