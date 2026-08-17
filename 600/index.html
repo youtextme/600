@@ -2,73 +2,88 @@
 <html lang="en">
 <head>
   <meta charset="UTF-8">
-  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0, viewport-fit=cover, user-scalable=no">
   <meta name="base-path" content="./">
-  <title>600 — Daily Discovery</title>
+  <meta name="theme-color" content="#000000">
+  <meta name="apple-mobile-web-app-capable" content="yes">
+  <meta name="apple-mobile-web-app-status-bar-style" content="black-translucent">
+  <meta name="apple-mobile-web-app-title" content="600">
+  <title>600</title>
+  <link rel="manifest" href="manifest.json">
+  <link rel="apple-touch-icon" href="icons/icon-192.svg">
   <link rel="preconnect" href="https://fonts.googleapis.com">
   <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-  <link href="https://fonts.googleapis.com/css2?family=DM+Sans:ital,opsz,wght@0,9..40,400;0,9..40,500;0,9..40,600;0,9..40,700;1,9..40,400&family=Literata:ital,opsz,wght@0,7..72,400;0,7..72,600;0,7..72,700;1,7..72,400&display=swap" rel="stylesheet">
+  <link href="https://fonts.googleapis.com/css2?family=Nunito:wght@600;700;800;900&family=Literata:ital,opsz,wght@0,7..72,400;0,7..72,600;1,7..72,400&display=swap" rel="stylesheet">
   <link rel="stylesheet" href="css/style.css">
 </head>
 <body>
+  <header class="app-header">
+    <div class="header-row">
+      <div>
+        <div class="logo">600</div>
+        <div class="logo-sub">Daily discovery</div>
+      </div>
+      <div class="streak-badge" id="streak-badge">🎯 Mission</div>
+    </div>
+  </header>
+
   <div class="container">
-    <header>
-      <div class="logo">600</div>
-      <p class="tagline">Six hundred words. Five powerful words. One curious mind.</p>
-    </header>
-
-    <div id="countdown" class="countdown hidden"></div>
+    <div class="week-label">This week · Mon → Sun</div>
     <div id="week-strip" class="week-strip"></div>
+    <div id="countdown" class="countdown hidden"></div>
 
-    <div id="loading" class="loading">Loading today's discovery…</div>
+    <div id="loading" class="loading">Loading your mission<span class="loading-dots"></span></div>
 
     <main id="main-content" class="hidden">
       <article class="card" id="essay-card">
+        <span class="mission-tag" id="mission-tag">Today's mission</span>
         <h2 id="essay-title"></h2>
-        <div id="vocab-bar" class="vocab-bar"></div>
+
+        <div class="vocab-section">
+          <h3>⚡ Power words — use these today!</h3>
+          <div id="vocab-bar" class="vocab-bar"></div>
+        </div>
+
         <div id="passage" class="passage"></div>
-        <div id="grammar-note" class="grammar-note"></div>
+
         <div class="curiosity" id="curiosity-section">
-          <h3>Go deeper — ask someone you love</h3>
+          <h3>Ask someone you love 🤔</h3>
           <ul id="curiosity-list"></ul>
         </div>
       </article>
 
       <section class="card quiz-section" id="quiz-section">
-        <h2>Comprehension Check</h2>
-        <p style="color:var(--text-muted);font-size:0.9rem;margin-bottom:1rem;">
-          Find your answers in the passage. Use hints if you're stuck — that's how great questioners think.
-        </p>
+        <div class="quiz-header">
+          <h2>🧠 Quick quiz</h2>
+          <p>Tap your answer. Wrong? No stress — try again!</p>
+        </div>
         <div id="questions"></div>
       </section>
 
-      <section class="card report-card hidden" id="report-card">
-        <h2>Your Report Card</h2>
-        <div class="score-ring" id="score-display">—</div>
-        <p id="score-message"></p>
+      <section class="card done-banner hidden" id="report-card">
+        <div class="done-circle">✓</div>
+        <h2>Mission complete!</h2>
+        <p id="score-message">You crushed today's reading.</p>
         <div class="report-stats">
           <div class="stat-box">
             <div class="num" id="first-try-count">0</div>
-            <div class="label">First try ✓</div>
+            <div class="label">First try 🎯</div>
           </div>
           <div class="stat-box">
             <div class="num" id="retry-count">0</div>
-            <div class="label">Needed hints / retries</div>
+            <div class="label">Took 2 tries 💪</div>
           </div>
         </div>
         <div class="actions">
-          <button class="btn btn-primary" id="share-btn">📋 Share on WhatsApp</button>
-          <button class="btn btn-secondary" id="retry-quiz-btn">Try again</button>
+          <button class="btn btn-primary" id="share-btn">📋 Share with family</button>
+          <button class="btn btn-secondary" id="retry-quiz-btn">Try quiz again</button>
         </div>
       </section>
     </main>
   </div>
 
   <div id="toast" class="toast"></div>
-
-  <footer>
-  600 · New essay unlocks daily at 3:00 PM (Korea time) · Fresh week every Sunday
-  </footer>
+  <footer class="app-footer">New story at 3 PM · Fresh week every Sunday</footer>
 
   <script src="js/app.js" type="module"></script>
 </body>

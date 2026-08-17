@@ -1,8 +1,8 @@
 #!/usr/bin/env node
 /**
  * generate-week.js
- * Picks 7 unused essays, assigns Sun–Sat dates, updates state.
- * Run every Sunday 8:00 AM KST via GitHub Actions.
+ * Picks 7 unused essays, assigns Mon–Sun dates, updates state.
+ * Run every Sunday 8:00 AM KST via GitHub Actions (week ahead starts Monday).
  */
 
 const fs = require('fs');
@@ -24,10 +24,12 @@ function formatDate(d) {
   return `${y}-${m}-${day}`;
 }
 
-function getWeekStartSunday(d = getKSTDate()) {
+/** Week runs Monday → Sunday. On Sunday refresh, start from tomorrow (Monday). */
+function getWeekStartMonday(d = getKSTDate()) {
   const copy = new Date(d);
-  const day = copy.getDay(); // 0 = Sunday
-  copy.setDate(copy.getDate() - day);
+  const day = copy.getDay(); // 0=Sun, 1=Mon, ...
+  const daysSinceMonday = day === 0 ? 6 : day - 1;
+  copy.setDate(copy.getDate() - daysSinceMonday);
   copy.setHours(0, 0, 0, 0);
   return copy;
 }
@@ -73,7 +75,7 @@ function main() {
   }
 
   const selected = available.slice(0, 7);
-  const weekStart = getWeekStartSunday();
+  const weekStart = getWeekStartMonday();
   const weekId = getISOWeekId(weekStart);
 
   const days = selected.map((essay, i) => {

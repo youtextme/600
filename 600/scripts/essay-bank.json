@@ -5,24 +5,29 @@
     "topic": "Bioluminescence",
     "words": [
       {
-        "word": "luminescent",
-        "definition": "Producing light without heat, as certain living organisms do"
+        "word": "fascinating",
+        "definition": "Extremely interesting — makes you want to learn more",
+        "exampleSentence": "\"That is fascinating, Ms. Luz!\" I told my teacher."
       },
       {
-        "word": "phosphorescent",
-        "definition": "Emitting a soft glow that continues after the light source is removed"
+        "word": "observe",
+        "definition": "To watch carefully and notice details",
+        "exampleSentence": "I observe how the fish glow when Dad turns off the lights."
       },
       {
-        "word": "abyssal",
-        "definition": "Relating to the deepest parts of the ocean"
+        "word": "remarkable",
+        "definition": "Worthy of attention — surprisingly impressive",
+        "exampleSentence": "Grandpa said fireflies are a remarkable invention of nature."
       },
       {
-        "word": "symbiotic",
-        "definition": "Involving two different organisms living together for mutual benefit"
+        "word": "collaborate",
+        "definition": "To work together toward the same goal",
+        "exampleSentence": "The squid and bacteria collaborate to survive."
       },
       {
-        "word": "translucent",
-        "definition": "Allowing light to pass through but not clear enough to see through fully"
+        "word": "definitely",
+        "definition": "Without any doubt — for sure",
+        "exampleSentence": "I will definitely ask Dad about glowing ocean water."
       }
     ],
     "grammarRules": [
@@ -44,61 +49,72 @@
       {
         "id": "q1",
         "question": "What chemical process allows living things to produce light without heat?",
-        "hint": "Think about luciferin and oxygen.",
-        "answers": [
-          "bioluminescence",
-          "a chemical reaction with luciferin and oxygen",
-          "luciferin reacting with oxygen"
+        "options": [
+          "For no reason",
+          "That it was a lifeless desert",
+          "To sleep better",
+          "Bioluminescence"
         ],
-        "explanation": "Bioluminescence is a chemical reaction where luciferin combines with oxygen, catalyzed by an enzyme, producing light without heat."
+        "correctIndex": 3,
+        "revealHint": "The story said: \"Think about luciferin and oxygen.\" — the answer is **Bioluminescence**.",
+        "explanation": "Bioluminescence is a chemical reaction where luciferin combines with oxygen, catalyzed by an enzyme, producing light without heat.",
+        "hint": "Think about luciferin and oxygen."
       },
       {
         "id": "q2",
         "question": "Why does the Hawaiian bobtail squid keep bioluminescent bacteria in its body?",
-        "hint": "Consider what the glow does when viewed from below.",
-        "answers": [
-          "camouflage",
-          "invisibility",
-          "to match the sky and hide from predators below",
-          "counter-illumination"
+        "options": [
+          "One year exactly",
+          "Glow continues after the source stops",
+          "Magnetic fields",
+          "Camouflage"
         ],
-        "explanation": "The symbiotic bacteria light the squid's belly to match moonlight from above, making the squid harder for predators below to see."
+        "correctIndex": 3,
+        "revealHint": "The story said: \"Consider what the glow does when viewed from below.\" — the answer is **Camouflage**.",
+        "explanation": "The symbiotic bacteria light the squid's belly to match moonlight from above, making the squid harder for predators below to see.",
+        "hint": "Consider what the glow does when viewed from below."
       },
       {
         "id": "q3",
         "question": "What did early deep-sea explorers wrongly believe about the abyssal zone?",
-        "hint": "They used nets before cameras.",
-        "answers": [
-          "it was empty",
-          "a desert",
-          "that it was a lifeless desert",
-          "that nothing lived there"
+        "options": [
+          "Only in summer",
+          "Counter-illumination",
+          "Never",
+          "It was empty"
         ],
-        "explanation": "Nets often missed delicate glowing creatures, so scientists initially thought the deep ocean was barren until cameras revealed abundant bioluminescent life."
+        "correctIndex": 3,
+        "revealHint": "The story said: \"They used nets before cameras.\" — the answer is **It was empty**.",
+        "explanation": "Nets often missed delicate glowing creatures, so scientists initially thought the deep ocean was barren until cameras revealed abundant bioluminescent life.",
+        "hint": "They used nets before cameras."
       },
       {
         "id": "q4",
         "question": "How do fireflies use their light differently from deep-sea fish?",
-        "hint": "One uses timed patterns on land.",
-        "answers": [
-          "mating signals",
-          "species-specific blink patterns",
-          "to identify mates",
-          "timed flashes as a code"
+        "options": [
+          "To match the sky and hide from predators below",
+          "Mating signals",
+          "Magnetic fields",
+          "To sleep better"
         ],
-        "explanation": "Fireflies flash in species-specific patterns to attract mates, while many deep-sea animals use light for defense, hunting, or communication in darkness."
+        "correctIndex": 1,
+        "revealHint": "The story said: \"One uses timed patterns on land.\" — the answer is **Mating signals**.",
+        "explanation": "Fireflies flash in species-specific patterns to attract mates, while many deep-sea animals use light for defense, hunting, or communication in darkness.",
+        "hint": "One uses timed patterns on land."
       },
       {
         "id": "q5",
         "question": "What does it mean when light is described as phosphorescent in the passage?",
-        "hint": "Think about glow that lingers.",
-        "answers": [
-          "glow continues after the source stops",
-          "soft lingering glow",
-          "emits light that persists",
-          "glow that hangs like ghosts"
+        "options": [
+          "Only in summer",
+          "Plastic pollution",
+          "To match the sky and hide from predators below",
+          "Glow continues after the source stops"
         ],
-        "explanation": "Phosphorescent light continues to glow softly even after the initial energy source is gone, like squid ink clouds that linger in the water."
+        "correctIndex": 3,
+        "revealHint": "The story said: \"Think about glow that lingers.\" — the answer is **Glow continues after the source stops**.",
+        "explanation": "Phosphorescent light continues to glow softly even after the initial energy source is gone, like squid ink clouds that linger in the water.",
+        "hint": "Think about glow that lingers."
       }
     ],
     "curiosityHooks": [
@@ -115,23 +131,28 @@
     "words": [
       {
         "word": "mycelium",
-        "definition": "The branching, thread-like body of a fungus that spreads underground or inside other organisms"
+        "definition": "The branching, thread-like body of a fungus that spreads underground or inside other organisms",
+        "exampleSentence": "Try saying: \"That is truly mycelium.\""
       },
       {
         "word": "arboreal",
-        "definition": "Relating to trees or living in trees"
+        "definition": "Relating to trees or living in trees",
+        "exampleSentence": "Try saying: \"That is truly arboreal.\""
       },
       {
         "word": "nutrient",
-        "definition": "A substance that provides nourishment essential for growth and maintenance"
+        "definition": "A substance that provides nourishment essential for growth and maintenance",
+        "exampleSentence": "Try saying: \"That is truly nutrient.\""
       },
       {
         "word": "hyphae",
-        "definition": "The individual microscopic threads that make up a fungus body"
+        "definition": "The individual microscopic threads that make up a fungus body",
+        "exampleSentence": "Try saying: \"That is truly hyphae.\""
       },
       {
         "word": "interconnected",
-        "definition": "Connected with one another so that each part affects the whole"
+        "definition": "Connected with one another so that each part affects the whole",
+        "exampleSentence": "Try saying: \"That is truly interconnected.\""
       }
     ],
     "grammarRules": [
@@ -153,60 +174,72 @@
       {
         "id": "q1",
         "question": "How did Suzanne Simard prove that trees share resources?",
-        "hint": "She used a radioactive tracer.",
-        "answers": [
-          "radioactive carbon",
-          "fed radioactive carbon to birch trees",
-          "traced carbon moving to firs",
-          "labeled carbon appeared in nearby trees"
+        "options": [
+          "To make noise",
+          "Radioactive carbon",
+          "Burning wood",
+          "Exchange for nutrients later"
         ],
-        "explanation": "Simard fed radioactive carbon to birch trees and detected it later in nearby firs, showing carbon moved between trees through fungal connections."
+        "correctIndex": 1,
+        "revealHint": "The story said: \"She used a radioactive tracer.\" — the answer is **Radioactive carbon**.",
+        "explanation": "Simard fed radioactive carbon to birch trees and detected it later in nearby firs, showing carbon moved between trees through fungal connections.",
+        "hint": "She used a radioactive tracer."
       },
       {
         "id": "q2",
         "question": "What is the difference between hyphae and mycelium?",
-        "hint": "One is a single thread; one is the whole network.",
-        "answers": [
-          "hyphae are individual threads, mycelium is the whole network",
-          "hyphae are threads that form mycelium",
-          "single threads vs the full mesh"
+        "options": [
+          "Fungi do not photosynthesize",
+          "Wind and storms",
+          "Hyphae are individual threads, mycelium is the whole network",
+          "They compete only"
         ],
-        "explanation": "Hyphae are individual microscopic fungal threads, while mycelium is the entire branching network those threads form underground."
+        "correctIndex": 2,
+        "revealHint": "The story said: \"One is a single thread; one is the whole network.\" — the answer is **Hyphae are individual threads, mycelium is the whole network**.",
+        "explanation": "Hyphae are individual microscopic fungal threads, while mycelium is the entire branching network those threads form underground.",
+        "hint": "One is a single thread; one is the whole network."
       },
       {
         "id": "q3",
         "question": "Why might an older tree send sugar to a shaded seedling?",
-        "hint": "Think about what the seedling returns later.",
-        "answers": [
-          "mutual benefit",
-          "exchange for nutrients later",
-          "cooperation through fungus",
-          "the seedling may share nitrogen and water later"
+        "options": [
+          "Mutual benefit",
+          "For no reason",
+          "They compete only",
+          "Other trees prepared defenses early"
         ],
-        "explanation": "The older tree shares surplus carbon with struggling seedlings through fungi, and may receive nutrients like nitrogen and water in return—a cooperative exchange."
+        "correctIndex": 0,
+        "revealHint": "The story said: \"Think about what the seedling returns later.\" — the answer is **Mutual benefit**.",
+        "explanation": "The older tree shares surplus carbon with struggling seedlings through fungi, and may receive nutrients like nitrogen and water in return—a cooperative exchange.",
+        "hint": "Think about what the seedling returns later."
       },
       {
         "id": "q4",
         "question": "What happened when insects attacked one tree in a connected forest?",
-        "hint": "Neighbors responded before pests arrived.",
-        "answers": [
-          "warning signals spread",
-          "neighboring trees boosted defenses",
-          "chemical alarms traveled through the network",
-          "other trees prepared defenses early"
+        "options": [
+          "Solar panels",
+          "Radio waves",
+          "Empty space",
+          "Warning signals spread"
         ],
-        "explanation": "Chemical warning signals traveled through the fungal network, prompting neighboring trees to increase defensive chemicals before insects reached them."
+        "correctIndex": 3,
+        "revealHint": "The story said: \"Neighbors responded before pests arrived.\" — the answer is **Warning signals spread**.",
+        "explanation": "Chemical warning signals traveled through the fungal network, prompting neighboring trees to increase defensive chemicals before insects reached them.",
+        "hint": "Neighbors responded before pests arrived."
       },
       {
         "id": "q5",
         "question": "Why are fungi described as different from plants in the passage?",
-        "hint": "Plants make food from sunlight; fungi do not.",
-        "answers": [
-          "fungi do not photosynthesize",
-          "they cannot make food from sunlight",
-          "fungi don't photosynthesize"
+        "options": [
+          "Computer code",
+          "Fungi do not photosynthesize",
+          "Radio waves",
+          "Single threads vs the full mesh"
         ],
-        "explanation": "Unlike plants, fungi cannot photosynthesize; they extend hyphae through soil and exchange nutrients with tree roots instead of making their own food from sunlight."
+        "correctIndex": 1,
+        "revealHint": "The story said: \"Plants make food from sunlight; fungi do not.\" — the answer is **Fungi do not photosynthesize**.",
+        "explanation": "Unlike plants, fungi cannot photosynthesize; they extend hyphae through soil and exchange nutrients with tree roots instead of making their own food from sunlight.",
+        "hint": "Plants make food from sunlight; fungi do not."
       }
     ],
     "curiosityHooks": [
@@ -223,23 +256,28 @@
     "words": [
       {
         "word": "chromatic",
-        "definition": "Relating to colors or the full range of colors in light"
+        "definition": "Relating to colors or the full range of colors in light",
+        "exampleSentence": "Try saying: \"That is truly chromatic.\""
       },
       {
         "word": "compound",
-        "definition": "Made up of several parts combined into a whole"
+        "definition": "Made up of several parts combined into a whole",
+        "exampleSentence": "Try saying: \"That is truly compound.\""
       },
       {
         "word": "velocity",
-        "definition": "The speed of something in a given direction"
+        "definition": "The speed of something in a given direction",
+        "exampleSentence": "Try saying: \"That is truly velocity.\""
       },
       {
         "word": "resilient",
-        "definition": "Able to recover quickly or withstand difficult conditions"
+        "definition": "Able to recover quickly or withstand difficult conditions",
+        "exampleSentence": "Try saying: \"That is truly resilient.\""
       },
       {
         "word": "formidable",
-        "definition": "Inspiring fear or respect through being powerful or capable"
+        "definition": "Inspiring fear or respect through being powerful or capable",
+        "exampleSentence": "Try saying: \"That is truly formidable.\""
       }
     ],
     "grammarRules": [
@@ -261,62 +299,72 @@
       {
         "id": "q1",
         "question": "What physical phenomenon creates a flash of heat and light when the mantis shrimp strikes?",
-        "hint": "It involves bubbles in water.",
-        "answers": [
-          "cavitation",
-          "collapsing bubbles",
-          "water boiling briefly",
-          "cavitation bubbles collapsing"
+        "options": [
+          "Cavitation",
+          "16",
+          "Computer code",
+          "They never change"
         ],
-        "explanation": "The club moves so fast it creates cavitation bubbles in water; when those bubbles collapse, they produce a brief flash of heat and light."
+        "correctIndex": 0,
+        "revealHint": "The story said: \"It involves bubbles in water.\" — the answer is **Cavitation**.",
+        "explanation": "The club moves so fast it creates cavitation bubbles in water; when those bubbles collapse, they produce a brief flash of heat and light.",
+        "hint": "It involves bubbles in water."
       },
       {
         "id": "q2",
         "question": "How many color receptors do mantis shrimp eyes have compared to humans?",
-        "hint": "Humans have three.",
-        "answers": [
-          "sixteen",
-          "16",
-          "sixteen compared to our three",
-          "16 color receptors"
+        "options": [
+          "They stay silent",
+          "Shock absorption",
+          "Sixteen",
+          "Only on land"
         ],
-        "explanation": "Mantis shrimp have sixteen color receptors, while humans have only three, allowing them to detect ultraviolet and polarized light."
+        "correctIndex": 2,
+        "revealHint": "The story said: \"Humans have three.\" — the answer is **Sixteen**.",
+        "explanation": "Mantis shrimp have sixteen color receptors, while humans have only three, allowing them to detect ultraviolet and polarized light.",
+        "hint": "Humans have three."
       },
       {
         "id": "q3",
         "question": "Why have engineers copied the structure of the mantis shrimp's club?",
-        "hint": "Think about armor and helmets.",
-        "answers": [
-          "shock absorption",
-          "lightweight armor",
-          "compound layered structure",
-          "for helmets and armor design"
+        "options": [
+          "Detect rather than blend hues",
+          "Shock absorption",
+          "Electric light bulbs",
+          "Plastic pollution"
         ],
-        "explanation": "The club's compound layered structure resists cracking under repeated high-impact strikes, inspiring designs for armor and sports helmets."
+        "correctIndex": 1,
+        "revealHint": "The story said: \"Think about armor and helmets.\" — the answer is **Shock absorption**.",
+        "explanation": "The club's compound layered structure resists cracking under repeated high-impact strikes, inspiring designs for armor and sports helmets.",
+        "hint": "Think about armor and helmets."
       },
       {
         "id": "q4",
         "question": "What is the difference between 'smashers' and 'spearers'?",
-        "hint": "One strikes shells; one snatches fish.",
-        "answers": [
-          "smashers use clubs, spearers use barbed arms",
-          "different hunting appendages",
-          "club vs spear arms",
-          "smashers break shells, spearers catch fish"
+        "options": [
+          "For helmets and armor design",
+          "Radio waves",
+          "Smashers use clubs, spearers use barbed arms",
+          "Empty space"
         ],
-        "explanation": "Smasher species use hinged clubs to shatter hard shells, while spearer species use barbed appendages to snatch softer prey like fish."
+        "correctIndex": 2,
+        "revealHint": "The story said: \"One strikes shells; one snatches fish.\" — the answer is **Smashers use clubs, spearers use barbed arms**.",
+        "explanation": "Smasher species use hinged clubs to shatter hard shells, while spearer species use barbed appendages to snatch softer prey like fish.",
+        "hint": "One strikes shells; one snatches fish."
       },
       {
         "id": "q5",
         "question": "Why might mantis shrimp process color differently from humans despite having more receptors?",
-        "hint": "Like a scanner, not a painter.",
-        "answers": [
-          "quick scanning not blending",
-          "process color fast like a scanner",
-          "detect rather than blend hues",
-          "rapid color detection for prey"
+        "options": [
+          "16",
+          "Quick scanning not blending",
+          "Collapsing bubbles",
+          "Solar panels"
         ],
-        "explanation": "Research suggests mantis shrimp may rapidly scan color information to detect prey rather than blending hues into rich pictures the way human vision does."
+        "correctIndex": 1,
+        "revealHint": "The story said: \"Like a scanner, not a painter.\" — the answer is **Quick scanning not blending**.",
+        "explanation": "Research suggests mantis shrimp may rapidly scan color information to detect prey rather than blending hues into rich pictures the way human vision does.",
+        "hint": "Like a scanner, not a painter."
       }
     ],
     "curiosityHooks": [
@@ -333,23 +381,28 @@
     "words": [
       {
         "word": "preservative",
-        "definition": "A substance used to keep food from spoiling or decaying"
+        "definition": "A substance used to keep food from spoiling or decaying",
+        "exampleSentence": "Try saying: \"That is truly preservative.\""
       },
       {
         "word": "archaeologist",
-        "definition": "A scientist who studies human history by excavating and analyzing artifacts"
+        "definition": "A scientist who studies human history by excavating and analyzing artifacts",
+        "exampleSentence": "Try saying: \"That is truly archaeologist.\""
       },
       {
         "word": "crystallized",
-        "definition": "Formed into solid crystals, often making a liquid thick or grainy"
+        "definition": "Formed into solid crystals, often making a liquid thick or grainy",
+        "exampleSentence": "Try saying: \"That is truly crystallized.\""
       },
       {
         "word": "edible",
-        "definition": "Safe and suitable to be eaten"
+        "definition": "Safe and suitable to be eaten",
+        "exampleSentence": "Try saying: \"That is truly edible.\""
       },
       {
         "word": "excavation",
-        "definition": "The process of digging carefully to uncover buried remains or artifacts"
+        "definition": "The process of digging carefully to uncover buried remains or artifacts",
+        "exampleSentence": "Try saying: \"That is truly excavation.\""
       }
     ],
     "grammarRules": [
@@ -371,61 +424,72 @@
       {
         "id": "q1",
         "question": "Why does honey resist spoiling for thousands of years?",
-        "hint": "Think about sugar and water.",
-        "answers": [
-          "low water and high sugar",
-          "sugar binds water",
-          "natural preservative chemistry",
-          "hydrogen peroxide and low moisture"
+        "options": [
+          "Photosynthesis only",
+          "Echoes and sound",
+          "Low water and high sugar",
+          "Honey"
         ],
-        "explanation": "Honey's low moisture and high sugar bind water so bacteria cannot grow; enzymes also produce hydrogen peroxide that inhibits microbes."
+        "correctIndex": 2,
+        "revealHint": "The story said: \"Think about sugar and water.\" — the answer is **Low water and high sugar**.",
+        "explanation": "Honey's low moisture and high sugar bind water so bacteria cannot grow; enzymes also produce hydrogen peroxide that inhibits microbes.",
+        "hint": "Think about sugar and water."
       },
       {
         "id": "q2",
         "question": "What did archaeologists find in Tutankhamun's tomb that was still edible?",
-        "hint": "It was in clay vessels.",
-        "answers": [
-          "honey",
-          "three-thousand-year-old honey",
-          "honey in clay vessels"
+        "options": [
+          "They never change",
+          "Natural preservative chemistry",
+          "Honey",
+          "Volcanic eruptions"
         ],
-        "explanation": "Clay vessels in Tutankhamun's tomb contained honey that remained recognizable and edible after approximately three thousand years."
+        "correctIndex": 2,
+        "revealHint": "The story said: \"It was in clay vessels.\" — the answer is **Honey**.",
+        "explanation": "Clay vessels in Tutankhamun's tomb contained honey that remained recognizable and edible after approximately three thousand years.",
+        "hint": "It was in clay vessels."
       },
       {
         "id": "q3",
         "question": "Is crystallized honey spoiled?",
-        "hint": "Heating can reverse it.",
-        "answers": [
-          "no",
-          "no it is natural",
-          "crystallization is natural not spoilage",
-          "not spoiled"
+        "options": [
+          "No",
+          "Plastic pollution",
+          "For no reason",
+          "Natural preservative chemistry"
         ],
-        "explanation": "Crystallization is a natural process where sugar forms grains; gently warming the honey dissolves crystals and does not indicate spoilage."
+        "correctIndex": 0,
+        "revealHint": "The story said: \"Heating can reverse it.\" — the answer is **No**.",
+        "explanation": "Crystallization is a natural process where sugar forms grains; gently warming the honey dissolves crystals and does not indicate spoilage.",
+        "hint": "Heating can reverse it."
       },
       {
         "id": "q4",
         "question": "How did ancient people use honey besides eating it?",
-        "hint": "Roman soldiers and wound care.",
-        "answers": [
-          "medicine",
-          "wound dressing",
-          "field rations",
-          "offerings to gods and healing wounds"
+        "options": [
+          "Ancient myths only",
+          "Medicine",
+          "Crystallization is natural not spoilage",
+          "Only on land"
         ],
-        "explanation": "Ancient cultures used honey as food rations, religious offerings, and wound dressings because its preservative and antimicrobial properties aided healing."
+        "correctIndex": 1,
+        "revealHint": "The story said: \"Roman soldiers and wound care.\" — the answer is **Medicine**.",
+        "explanation": "Ancient cultures used honey as food rations, religious offerings, and wound dressings because its preservative and antimicrobial properties aided healing.",
+        "hint": "Roman soldiers and wound care."
       },
       {
         "id": "q5",
         "question": "What evidence shows humans harvested honey before written history?",
-        "hint": "Paintings and Georgian jars.",
-        "answers": [
-          "cave paintings",
-          "5000-year-old residues in Georgia",
-          "Spanish cave art of climbing for hives",
-          "ancient burial jar residues"
+        "options": [
+          "Wound dressing",
+          "Cave paintings",
+          "To make noise",
+          "Radio waves"
         ],
-        "explanation": "Spanish cave paintings depict honey gathering, and Georgian excavations found five-thousand-year-old honey residues, proving early honey harvesting."
+        "correctIndex": 1,
+        "revealHint": "The story said: \"Paintings and Georgian jars.\" — the answer is **Cave paintings**.",
+        "explanation": "Spanish cave paintings depict honey gathering, and Georgian excavations found five-thousand-year-old honey residues, proving early honey harvesting.",
+        "hint": "Paintings and Georgian jars."
       }
     ],
     "curiosityHooks": [
@@ -442,23 +506,28 @@
     "words": [
       {
         "word": "microscopic",
-        "definition": "Too small to be seen clearly without a microscope"
+        "definition": "Too small to be seen clearly without a microscope",
+        "exampleSentence": "Try saying: \"That is truly microscopic.\""
       },
       {
         "word": "cryptobiosis",
-        "definition": "A state where metabolism nearly stops, allowing survival in extreme conditions"
+        "definition": "A state where metabolism nearly stops, allowing survival in extreme conditions",
+        "exampleSentence": "Try saying: \"That is truly cryptobiosis.\""
       },
       {
         "word": "extremophile",
-        "definition": "An organism that thrives in physically or chemically extreme environments"
+        "definition": "An organism that thrives in physically or chemically extreme environments",
+        "exampleSentence": "Try saying: \"That is truly extremophile.\""
       },
       {
         "word": "indestructible",
-        "definition": "Impossible or very difficult to destroy"
+        "definition": "Impossible or very difficult to destroy",
+        "exampleSentence": "Try saying: \"That is truly indestructible.\""
       },
       {
         "word": "desiccation",
-        "definition": "The process of becoming completely dried out"
+        "definition": "The process of becoming completely dried out",
+        "exampleSentence": "Try saying: \"That is truly desiccation.\""
       }
     ],
     "grammarRules": [
@@ -480,59 +549,72 @@
       {
         "id": "q1",
         "question": "What is cryptobiosis in tardigrades?",
-        "hint": "Think deathlike pause with almost no metabolism.",
-        "answers": [
-          "metabolism nearly stops",
-          "a dried tun state",
-          "deathlike suspended animation",
-          "paused state waiting for water"
+        "options": [
+          "Predators still eat them",
+          "Metabolism nearly stops",
+          "Ancient myths only",
+          "Random luck"
         ],
-        "explanation": "Cryptobiosis is a state where tardigrades lose most of their water and nearly stop metabolism, allowing them to survive harsh conditions until water returns."
+        "correctIndex": 1,
+        "revealHint": "The story said: \"Think deathlike pause with almost no metabolism.\" — the answer is **Metabolism nearly stops**.",
+        "explanation": "Cryptobiosis is a state where tardigrades lose most of their water and nearly stop metabolism, allowing them to survive harsh conditions until water returns.",
+        "hint": "Think deathlike pause with almost no metabolism."
       },
       {
         "id": "q2",
         "question": "How have tardigrades survived exposure to space?",
-        "hint": "Special proteins form a glass-like matrix.",
-        "answers": [
-          "protective proteins replace water",
-          "glass-like matrix protects DNA",
-          "tun formation",
-          "desiccation proteins shield cells"
+        "options": [
+          "Protective proteins replace water",
+          "They don't actively live in boiling acid",
+          "Empty space",
+          "Only on land"
         ],
-        "explanation": "In their tun state, special proteins replace water in cells, forming a protective glass-like matrix that shields DNA and organs from vacuum and radiation."
+        "correctIndex": 0,
+        "revealHint": "The story said: \"Special proteins form a glass-like matrix.\" — the answer is **Protective proteins replace water**.",
+        "explanation": "In their tun state, special proteins replace water in cells, forming a protective glass-like matrix that shields DNA and organs from vacuum and radiation.",
+        "hint": "Special proteins form a glass-like matrix."
       },
       {
         "id": "q3",
         "question": "Who first described 'little water bears' in 1773?",
-        "hint": "A German pastor with a microscope.",
-        "answers": [
+        "options": [
+          "Predators still eat them",
+          "Solar panels",
           "Johann August Ephraim Goeze",
-          "Goeze",
-          "pastor Goeze"
+          "Gravity alone"
         ],
-        "explanation": "German pastor Johann August Ephraim Goeze first described tardigrades in 1773, naming them 'little water bears' for their appearance."
+        "correctIndex": 2,
+        "revealHint": "The story said: \"A German pastor with a microscope.\" — the answer is **Johann August Ephraim Goeze**.",
+        "explanation": "German pastor Johann August Ephraim Goeze first described tardigrades in 1773, naming them 'little water bears' for their appearance.",
+        "hint": "A German pastor with a microscope."
       },
       {
         "id": "q4",
         "question": "Why are tardigrades not considered classic extremophiles despite surviving extremes?",
-        "hint": "They tolerate extremes but don't thrive in them.",
-        "answers": [
-          "they tolerate but don't thrive in extremes",
-          "they don't actively live in boiling acid",
-          "survival not thriving in harsh conditions"
+        "options": [
+          "They tolerate but don't thrive in extremes",
+          "Burning wood",
+          "Gravity alone",
+          "Paused state waiting for water"
         ],
-        "explanation": "Extremophiles actively thrive in extreme environments; tardigrades endure harsh conditions in cryptobiosis but normally live in mild moss and soil habitats."
+        "correctIndex": 0,
+        "revealHint": "The story said: \"They tolerate extremes but don't thrive in them.\" — the answer is **They tolerate but don't thrive in extremes**.",
+        "explanation": "Extremophiles actively thrive in extreme environments; tardigrades endure harsh conditions in cryptobiosis but normally live in mild moss and soil habitats.",
+        "hint": "They tolerate extremes but don't thrive in them."
       },
       {
         "id": "q5",
         "question": "What limits the idea that tardigrades are truly indestructible?",
-        "hint": "Small predators in moss.",
-        "answers": [
-          "eaten by nematodes and amoebas",
-          "predators still eat them",
-          "nematodes and amoebas prey on them"
+        "options": [
+          "Survival not thriving in harsh conditions",
+          "Wind and storms",
+          "Eaten by nematodes and amoebas",
+          "Volcanic eruptions"
         ],
-        "explanation": "Despite extreme tolerance, tardigrades can still be eaten by nematodes and amoebas in their normal moss habitats—they survive conditions, not all predators."
+        "correctIndex": 2,
+        "revealHint": "The story said: \"Small predators in moss.\" — the answer is **Eaten by nematodes and amoebas**.",
+        "explanation": "Despite extreme tolerance, tardigrades can still be eaten by nematodes and amoebas in their normal moss habitats—they survive conditions, not all predators.",
+        "hint": "Small predators in moss."
       }
     ],
     "curiosityHooks": [
@@ -549,23 +631,28 @@
     "words": [
       {
         "word": "navigational",
-        "definition": "Relating to finding direction and planning a route for travel"
+        "definition": "Relating to finding direction and planning a route for travel",
+        "exampleSentence": "Try saying: \"That is truly navigational.\""
       },
       {
         "word": "polarized",
-        "definition": "Light waves vibrating in a single plane rather than in all directions"
+        "definition": "Light waves vibrating in a single plane rather than in all directions",
+        "exampleSentence": "Try saying: \"That is truly polarized.\""
       },
       {
         "word": "calcite",
-        "definition": "A transparent mineral that splits light into two images and affects polarized light"
+        "definition": "A transparent mineral that splits light into two images and affects polarized light",
+        "exampleSentence": "Try saying: \"That is truly calcite.\""
       },
       {
         "word": "mariner",
-        "definition": "A sailor or person who navigates the sea"
+        "definition": "A sailor or person who navigates the sea",
+        "exampleSentence": "Try saying: \"That is truly mariner.\""
       },
       {
         "word": "horizon",
-        "definition": "The line where the earth's surface appears to meet the sky"
+        "definition": "The line where the earth's surface appears to meet the sky",
+        "exampleSentence": "Try saying: \"That is truly horizon.\""
       }
     ],
     "grammarRules": [
@@ -587,60 +674,72 @@
       {
         "id": "q1",
         "question": "How does a calcite sunstone reveal the sun's position on cloudy days?",
-        "hint": "It splits light into two images.",
-        "answers": [
-          "detects polarized light",
-          "rotating crystal until twin images match",
-          "polarization patterns from hidden sun",
-          "brightness equalizes when aligned with sun"
+        "options": [
+          "To look pretty",
+          "Detects polarized light",
+          "Ancient myths only",
+          "Computer code"
         ],
-        "explanation": "Calcite splits skylight into two images whose brightness equalizes when rotated to align with the sun's polarized light pattern, even behind clouds."
+        "correctIndex": 1,
+        "revealHint": "The story said: \"It splits light into two images.\" — the answer is **Detects polarized light**.",
+        "explanation": "Calcite splits skylight into two images whose brightness equalizes when rotated to align with the sun's polarized light pattern, even behind clouds.",
+        "hint": "It splits light into two images."
       },
       {
         "id": "q2",
         "question": "Why couldn't Viking sailors rely on compasses during their Atlantic crossings?",
-        "hint": "Think about when compasses reached Europe.",
-        "answers": [
-          "compasses did not exist yet",
-          "no compass in Europe yet",
-          "compass had not been invented"
+        "options": [
+          "Gravity alone",
+          "Compasses did not exist yet",
+          "Only on land",
+          "To sleep better"
         ],
-        "explanation": "European sailors in the Viking Age did not yet have magnetic compasses, so they needed other methods like sun position and possibly sunstones."
+        "correctIndex": 1,
+        "revealHint": "The story said: \"Think about when compasses reached Europe.\" — the answer is **Compasses did not exist yet**.",
+        "explanation": "European sailors in the Viking Age did not yet have magnetic compasses, so they needed other methods like sun position and possibly sunstones.",
+        "hint": "Think about when compasses reached Europe."
       },
       {
         "id": "q3",
         "question": "What evidence supports sunstones beyond Viking sagas?",
-        "hint": "2011 ship experiment and a wreck find.",
-        "answers": [
+        "options": [
+          "Empty space",
+          "Gravity alone",
           "2011 ship experiment",
-          "calcite found on Elizabethan wreck",
-          "successful tests in overcast fog",
-          "Alderney wreck calcite"
+          "Volcanic eruptions"
         ],
-        "explanation": "Researchers successfully tested calcite navigation aboard ships in overcast conditions, and calcite was found on the Alderney Elizabethan wreck, supporting historical use."
+        "correctIndex": 2,
+        "revealHint": "The story said: \"2011 ship experiment and a wreck find.\" — the answer is **2011 ship experiment**.",
+        "explanation": "Researchers successfully tested calcite navigation aboard ships in overcast conditions, and calcite was found on the Alderney Elizabethan wreck, supporting historical use.",
+        "hint": "2011 ship experiment and a wreck find."
       },
       {
         "id": "q4",
         "question": "What is polarized light?",
-        "hint": "Waves aligned in one plane.",
-        "answers": [
-          "light waves in a single plane",
-          "waves vibrating one direction",
-          "aligned light waves not scattered all directions"
+        "options": [
+          "Compasses did not exist yet",
+          "Wind and storms",
+          "Light waves in a single plane",
+          "Repeatable crossings needed precise heading"
         ],
-        "explanation": "Polarized light has waves vibrating primarily in one plane, creating patterns in skylight that shift with the sun's position even when clouds hide it."
+        "correctIndex": 2,
+        "revealHint": "The story said: \"Waves aligned in one plane.\" — the answer is **Light waves in a single plane**.",
+        "explanation": "Polarized light has waves vibrating primarily in one plane, creating patterns in skylight that shift with the sun's position even when clouds hide it.",
+        "hint": "Waves aligned in one plane."
       },
       {
         "id": "q5",
         "question": "Why was accurate daylight navigation especially important for reaching Greenland?",
-        "hint": "Missing a fjord by a day's drift.",
-        "answers": [
-          "missing fjords by drifting off course",
-          "longitude was guesswork",
-          "small navigation errors meant missing land",
-          "repeatable crossings needed precise heading"
+        "options": [
+          "Plastic pollution",
+          "Missing fjords by drifting off course",
+          "They compete only",
+          "2011 ship experiment"
         ],
-        "explanation": "Greenland crossings required precise headings because even small drift over a day could cause ships to miss narrow fjords entirely in open ocean."
+        "correctIndex": 1,
+        "revealHint": "The story said: \"Missing a fjord by a day's drift.\" — the answer is **Missing fjords by drifting off course**.",
+        "explanation": "Greenland crossings required precise headings because even small drift over a day could cause ships to miss narrow fjords entirely in open ocean.",
+        "hint": "Missing a fjord by a day's drift."
       }
     ],
     "curiosityHooks": [
@@ -657,23 +756,28 @@
     "words": [
       {
         "word": "torpor",
-        "definition": "A state of lowered body temperature and slowed metabolism to conserve energy"
+        "definition": "A state of lowered body temperature and slowed metabolism to conserve energy",
+        "exampleSentence": "Try saying: \"That is truly torpor.\""
       },
       {
         "word": "nectarivorous",
-        "definition": "Feeding primarily on nectar from flowers"
+        "definition": "Feeding primarily on nectar from flowers",
+        "exampleSentence": "Try saying: \"That is truly nectarivorous.\""
       },
       {
         "word": "metabolic",
-        "definition": "Relating to the chemical processes that produce energy in living organisms"
+        "definition": "Relating to the chemical processes that produce energy in living organisms",
+        "exampleSentence": "Try saying: \"That is truly metabolic.\""
       },
       {
         "word": "iridescent",
-        "definition": "Showing shifting rainbow-like colors that change with the angle of light"
+        "definition": "Showing shifting rainbow-like colors that change with the angle of light",
+        "exampleSentence": "Try saying: \"That is truly iridescent.\""
       },
       {
         "word": "hovering",
-        "definition": "Remaining suspended in the air without moving forward or landing"
+        "definition": "Remaining suspended in the air without moving forward or landing",
+        "exampleSentence": "Try saying: \"That is truly hovering.\""
       }
     ],
     "grammarRules": [
@@ -695,62 +799,72 @@
       {
         "id": "q1",
         "question": "Why must hummingbirds enter torpor at night?",
-        "hint": "Their metabolism is extremely high during the day.",
-        "answers": [
-          "conserve energy",
-          "slow metabolism when they can't feed",
-          "prevent starvation overnight",
-          "lower heart rate and body temperature"
+        "options": [
+          "They compete only",
+          "Conserve energy",
+          "Insects for protein",
+          "To sleep better"
         ],
-        "explanation": "Hummingbirds burn energy so fast they risk starving within hours; torpor lowers body temperature and heart rate dramatically to survive nights without feeding."
+        "correctIndex": 1,
+        "revealHint": "The story said: \"Their metabolism is extremely high during the day.\" — the answer is **Conserve energy**.",
+        "explanation": "Hummingbirds burn energy so fast they risk starving within hours; torpor lowers body temperature and heart rate dramatically to survive nights without feeding.",
+        "hint": "Their metabolism is extremely high during the day."
       },
       {
         "id": "q2",
         "question": "What makes hummingbird hovering different from other birds' flight?",
-        "hint": "Their wings move in figure-eights.",
-        "answers": [
-          "wings rotate in both directions",
-          "figure-eight wing motion",
-          "sustained hovering with reversed wing strokes",
-          "rotate wings not just flap"
+        "options": [
+          "Wings rotate in both directions",
+          "Radio waves",
+          "Prevent starvation overnight",
+          "Light angle changes color"
         ],
-        "explanation": "Hummingbirds rotate their wings in figure-eight patterns in both directions, generating lift on upstroke and downstroke—unique among birds for sustained hovering."
+        "correctIndex": 0,
+        "revealHint": "The story said: \"Their wings move in figure-eights.\" — the answer is **Wings rotate in both directions**.",
+        "explanation": "Hummingbirds rotate their wings in figure-eight patterns in both directions, generating lift on upstroke and downstroke—unique among birds for sustained hovering.",
+        "hint": "Their wings move in figure-eights."
       },
       {
         "id": "q3",
         "question": "How do ruby-throated hummingbirds prepare for crossing the Gulf of Mexico?",
-        "hint": "They nearly double their weight.",
-        "answers": [
-          "gorge on food and store fat",
-          "double their weight in fat",
-          "fatten before migration",
-          "eat until they nearly double weight"
+        "options": [
+          "To look pretty",
+          "They avoid water",
+          "Gorge on food and store fat",
+          "For no reason"
         ],
-        "explanation": "Before the five-hundred-mile nonstop Gulf crossing, ruby-throated hummingbirds gorge until they nearly double body weight, storing fat as fuel for the journey."
+        "correctIndex": 2,
+        "revealHint": "The story said: \"They nearly double their weight.\" — the answer is **Gorge on food and store fat**.",
+        "explanation": "Before the five-hundred-mile nonstop Gulf crossing, ruby-throated hummingbirds gorge until they nearly double body weight, storing fat as fuel for the journey.",
+        "hint": "They nearly double their weight."
       },
       {
         "id": "q4",
         "question": "Why do iridescent throat feathers change color when you move your head?",
-        "hint": "Not pigment—microscopic structures.",
-        "answers": [
-          "microscopic platelets bend light",
-          "structural color not pigment",
-          "light angle changes color",
-          "platelets shift colors with angle"
+        "options": [
+          "Gnats because nectar lacks protein",
+          "Burning wood",
+          "Computer code",
+          "Microscopic platelets bend light"
         ],
-        "explanation": "Iridescent feathers use microscopic platelets that bend light rather than pigment, so colors shift with viewing angle—a structural optical effect."
+        "correctIndex": 3,
+        "revealHint": "The story said: \"Not pigment—microscopic structures.\" — the answer is **Microscopic platelets bend light**.",
+        "explanation": "Iridescent feathers use microscopic platelets that bend light rather than pigment, so colors shift with viewing angle—a structural optical effect.",
+        "hint": "Not pigment—microscopic structures."
       },
       {
         "id": "q5",
         "question": "Besides nectar, what do hummingbirds eat and why?",
-        "hint": "Nectar lacks something essential.",
-        "answers": [
-          "insects for protein",
-          "small insects and gnats",
-          "protein from insects",
-          "gnats because nectar lacks protein"
+        "options": [
+          "Eat until they nearly double weight",
+          "Insects for protein",
+          "Wings rotate in both directions",
+          "Never"
         ],
-        "explanation": "Nectar provides sugar energy but little protein, so hummingbirds also catch small insects and gnats to meet their protein needs."
+        "correctIndex": 1,
+        "revealHint": "The story said: \"Nectar lacks something essential.\" — the answer is **Insects for protein**.",
+        "explanation": "Nectar provides sugar energy but little protein, so hummingbirds also catch small insects and gnats to meet their protein needs.",
+        "hint": "Nectar lacks something essential."
       }
     ],
     "curiosityHooks": [
@@ -767,23 +881,28 @@
     "words": [
       {
         "word": "cephalopod",
-        "definition": "A marine mollusk such as an octopus or squid with a large head and tentacles"
+        "definition": "A marine mollusk such as an octopus or squid with a large head and tentacles",
+        "exampleSentence": "Try saying: \"That is truly cephalopod.\""
       },
       {
         "word": "cognition",
-        "definition": "The mental process of acquiring knowledge through thought, experience, and senses"
+        "definition": "The mental process of acquiring knowledge through thought, experience, and senses",
+        "exampleSentence": "Try saying: \"That is truly cognition.\""
       },
       {
         "word": "chromatophore",
-        "definition": "A pigment cell that allows some animals to change color by expanding or contracting"
+        "definition": "A pigment cell that allows some animals to change color by expanding or contracting",
+        "exampleSentence": "Try saying: \"That is truly chromatophore.\""
       },
       {
         "word": "dexterous",
-        "definition": "Skillful and coordinated, especially with the hands or limbs"
+        "definition": "Skillful and coordinated, especially with the hands or limbs",
+        "exampleSentence": "Try saying: \"That is truly dexterous.\""
       },
       {
         "word": "invertebrate",
-        "definition": "An animal without a backbone, such as an octopus, insect, or jellyfish"
+        "definition": "An animal without a backbone, such as an octopus, insect, or jellyfish",
+        "exampleSentence": "Try saying: \"That is truly invertebrate.\""
       }
     ],
     "grammarRules": [
@@ -805,62 +924,72 @@
       {
         "id": "q1",
         "question": "How did Inky the octopus escape from the New Zealand aquarium?",
-        "hint": "Think drainpipe and tank lid.",
-        "answers": [
-          "through a drainpipe",
-          "squeezed through tank lid into drain",
-          "crossed floor and slid down drainpipe to sea",
-          "escaped via drainpipe to the ocean"
+        "options": [
+          "Coconut shell shelters",
+          "Solar panels",
+          "Through a drainpipe",
+          "Radio waves"
         ],
-        "explanation": "Inky squeezed through a gap in his tank lid, crossed the floor, and slid down a fifty-meter drainpipe to reach the open sea."
+        "correctIndex": 2,
+        "revealHint": "The story said: \"Think drainpipe and tank lid.\" — the answer is **Through a drainpipe**.",
+        "explanation": "Inky squeezed through a gap in his tank lid, crossed the floor, and slid down a fifty-meter drainpipe to reach the open sea.",
+        "hint": "Think drainpipe and tank lid."
       },
       {
         "id": "q2",
         "question": "What are chromatophores and what do they allow octopuses to do?",
-        "hint": "Pigment cells under the skin.",
-        "answers": [
-          "pigment cells for color change",
-          "change color and camouflage",
-          "expand and contract to match surroundings",
-          "color-changing skin cells"
+        "options": [
+          "Solar panels",
+          "Electric light bulbs",
+          "Pigment cells for color change",
+          "Volcanic eruptions"
         ],
-        "explanation": "Chromatophores are pigment cells beneath the skin that expand and contract, letting octopuses change color and camouflage in under a second."
+        "correctIndex": 2,
+        "revealHint": "The story said: \"Pigment cells under the skin.\" — the answer is **Pigment cells for color change**.",
+        "explanation": "Chromatophores are pigment cells beneath the skin that expand and contract, letting octopuses change color and camouflage in under a second.",
+        "hint": "Pigment cells under the skin."
       },
       {
         "id": "q3",
         "question": "Why is it unusual that so many octopus neurons are in the arms?",
-        "hint": "Arms partly think for themselves.",
-        "answers": [
-          "each arm partly thinks independently",
-          "neurons in arms not just the brain",
-          "tentacles process information locally",
-          "distributed intelligence in limbs"
+        "options": [
+          "Each arm partly thinks independently",
+          "To sleep better",
+          "They stay silent",
+          "Plastic pollution"
         ],
-        "explanation": "About two-thirds of an octopus's neurons are in its arms, so each tentacle can process information and act with partial independence while coordinating with the body."
+        "correctIndex": 0,
+        "revealHint": "The story said: \"Arms partly think for themselves.\" — the answer is **Each arm partly thinks independently**.",
+        "explanation": "About two-thirds of an octopus's neurons are in its arms, so each tentacle can process information and act with partial independence while coordinating with the body.",
+        "hint": "Arms partly think for themselves."
       },
       {
         "id": "q4",
         "question": "What evidence showed octopuses use tools in the wild?",
-        "hint": "Coconut shells and rocks.",
-        "answers": [
-          "coconut shell shelters",
-          "carrying coconut halves",
-          "stacking rocks to barricade dens",
-          "using shells and rocks as tools"
+        "options": [
+          "Distributed intelligence in limbs",
+          "Only at night",
+          "Empty space",
+          "Coconut shell shelters"
         ],
-        "explanation": "Researchers documented octopuses carrying coconut shell halves as portable shelters and stacking rocks to barricade their dens—behaviors classified as tool use."
+        "correctIndex": 3,
+        "revealHint": "The story said: \"Coconut shells and rocks.\" — the answer is **Coconut shell shelters**.",
+        "explanation": "Researchers documented octopuses carrying coconut shell halves as portable shelters and stacking rocks to barricade their dens—behaviors classified as tool use.",
+        "hint": "Coconut shells and rocks."
       },
       {
         "id": "q5",
         "question": "What does the passage suggest about cognition and backbones?",
-        "hint": "Invertebrates can still be smart.",
-        "answers": [
-          "cognition doesn't require a backbone",
-          "invertebrates can be intelligent",
-          "no skeleton needed for complex thinking",
-          "cephalopods challenge old assumptions"
+        "options": [
+          "Using shells and rocks as tools",
+          "Pigment cells for color change",
+          "Through a drainpipe",
+          "Cognition doesn't require a backbone"
         ],
-        "explanation": "Octopus intelligence shows that advanced cognition does not require a backbone or a familiar brain layout—challenging assumptions that only vertebrates think in complex ways."
+        "correctIndex": 3,
+        "revealHint": "The story said: \"Invertebrates can still be smart.\" — the answer is **Cognition doesn't require a backbone**.",
+        "explanation": "Octopus intelligence shows that advanced cognition does not require a backbone or a familiar brain layout—challenging assumptions that only vertebrates think in complex ways.",
+        "hint": "Invertebrates can still be smart."
       }
     ],
     "curiosityHooks": [
@@ -877,23 +1006,28 @@
     "words": [
       {
         "word": "magnetoreception",
-        "definition": "The ability to detect Earth's magnetic field for orientation or navigation"
+        "definition": "The ability to detect Earth's magnetic field for orientation or navigation",
+        "exampleSentence": "Try saying: \"That is truly magnetoreception.\""
       },
       {
         "word": "cryptochrome",
-        "definition": "A light-sensitive protein found in plants and animals that may react to magnetic fields"
+        "definition": "A light-sensitive protein found in plants and animals that may react to magnetic fields",
+        "exampleSentence": "Try saying: \"That is truly cryptochrome.\""
       },
       {
         "word": "migratory",
-        "definition": "Relating to seasonal movement from one region to another"
+        "definition": "Relating to seasonal movement from one region to another",
+        "exampleSentence": "Try saying: \"That is truly migratory.\""
       },
       {
         "word": "entanglement",
-        "definition": "A quantum physics phenomenon where paired particles remain linked across distance"
+        "definition": "A quantum physics phenomenon where paired particles remain linked across distance",
+        "exampleSentence": "Try saying: \"That is truly entanglement.\""
       },
       {
         "word": "orientation",
-        "definition": "The ability to determine one's position or direction relative to surroundings"
+        "definition": "The ability to determine one's position or direction relative to surroundings",
+        "exampleSentence": "Try saying: \"That is truly orientation.\""
       }
     ],
     "grammarRules": [
@@ -915,61 +1049,72 @@
       {
         "id": "q1",
         "question": "What is magnetoreception in birds?",
-        "hint": "Sensing Earth's magnetic field.",
-        "answers": [
-          "detecting Earth's magnetic field",
-          "magnetic field sense for navigation",
-          "ability to sense magnetism for orientation"
+        "options": [
+          "Empty space",
+          "Detecting Earth's magnetic field",
+          "Multiple navigation cues combined",
+          "Disrupt quantum radical pairs"
         ],
-        "explanation": "Magnetoreception is the ability to detect Earth's magnetic field, which birds use alongside other cues to navigate during migration."
+        "correctIndex": 1,
+        "revealHint": "The story said: \"Sensing Earth's magnetic field.\" — the answer is **Detecting Earth's magnetic field**.",
+        "explanation": "Magnetoreception is the ability to detect Earth's magnetic field, which birds use alongside other cues to navigate during migration.",
+        "hint": "Sensing Earth's magnetic field."
       },
       {
         "id": "q2",
         "question": "What role might cryptochrome play in robin navigation?",
-        "hint": "Light-sensitive protein in the retina.",
-        "answers": [
-          "quantum compass in the eye",
-          "reacts to light and magnetic field",
-          "creates chemical signals from radical pairs",
-          "retina protein for orientation"
+        "options": [
+          "Quantum compass in the eye",
+          "Only at night",
+          "Plastic pollution",
+          "Sun and stars"
         ],
-        "explanation": "Cryptochrome in the retina may form radical pairs when hit by blue light; Earth's magnetic field alters their behavior, producing signals the brain interprets as directional information."
+        "correctIndex": 0,
+        "revealHint": "The story said: \"Light-sensitive protein in the retina.\" — the answer is **Quantum compass in the eye**.",
+        "explanation": "Cryptochrome in the retina may form radical pairs when hit by blue light; Earth's magnetic field alters their behavior, producing signals the brain interprets as directional information.",
+        "hint": "Light-sensitive protein in the retina."
       },
       {
         "id": "q3",
         "question": "Why did radio waves of specific frequencies disorient robins in experiments?",
-        "hint": "They disturb quantum states.",
-        "answers": [
-          "disrupt quantum radical pairs",
-          "interfere with quantum compass",
-          "disturb cryptochrome mechanism",
-          "affect quantum navigation"
+        "options": [
+          "They compete only",
+          "Gravity alone",
+          "Disrupt quantum radical pairs",
+          "Ancient myths only"
         ],
-        "explanation": "Researchers found robins lost orientation under radio waves expected to disrupt quantum radical-pair states, supporting the quantum compass hypothesis."
+        "correctIndex": 2,
+        "revealHint": "The story said: \"They disturb quantum states.\" — the answer is **Disrupt quantum radical pairs**.",
+        "explanation": "Researchers found robins lost orientation under radio waves expected to disrupt quantum radical-pair states, supporting the quantum compass hypothesis.",
+        "hint": "They disturb quantum states."
       },
       {
         "id": "q4",
         "question": "Besides magnetoreception, what other cues do migratory birds use?",
-        "hint": "Sun, stars, landmarks, smells.",
-        "answers": [
-          "sun and stars",
-          "landmarks and smells",
-          "sun, stars, landmarks, and odors",
-          "multiple navigation cues combined"
+        "options": [
+          "Sun and stars",
+          "Creates chemical signals from radical pairs",
+          "Computer code",
+          "Affect quantum navigation"
         ],
-        "explanation": "Birds combine magnetic sensing with the sun's position, star patterns, landmarks, wind-borne smells, and social learning from experienced flock members."
+        "correctIndex": 0,
+        "revealHint": "The story said: \"Sun, stars, landmarks, smells.\" — the answer is **Sun and stars**.",
+        "explanation": "Birds combine magnetic sensing with the sun's position, star patterns, landmarks, wind-borne smells, and social learning from experienced flock members.",
+        "hint": "Sun, stars, landmarks, smells."
       },
       {
         "id": "q5",
         "question": "Why is quantum entanglement mentioned in a bird navigation essay?",
-        "hint": "Radical pairs link quantum physics to biology.",
-        "answers": [
-          "radical pairs use quantum effects",
-          "linked particles in compass model",
-          "quantum physics in cryptochrome mechanism",
-          "entanglement related to radical-pair theory"
+        "options": [
+          "Radical pairs use quantum effects",
+          "Echoes and sound",
+          "Empty space",
+          "Reacts to light and magnetic field"
         ],
-        "explanation": "The radical-pair model connects bird navigation to quantum phenomena like entanglement, suggesting living systems may exploit fragile quantum effects for orientation."
+        "correctIndex": 0,
+        "revealHint": "The story said: \"Radical pairs link quantum physics to biology.\" — the answer is **Radical pairs use quantum effects**.",
+        "explanation": "The radical-pair model connects bird navigation to quantum phenomena like entanglement, suggesting living systems may exploit fragile quantum effects for orientation.",
+        "hint": "Radical pairs link quantum physics to biology."
       }
     ],
     "curiosityHooks": [
@@ -986,23 +1131,28 @@
     "words": [
       {
         "word": "protist",
-        "definition": "A single-celled or simple multicellular organism that is neither plant, animal, nor fungus"
+        "definition": "A single-celled or simple multicellular organism that is neither plant, animal, nor fungus",
+        "exampleSentence": "Try saying: \"That is truly protist.\""
       },
       {
         "word": "amoeboid",
-        "definition": "Having a shapeless, flowing form that moves by extending pseudopods"
+        "definition": "Having a shapeless, flowing form that moves by extending pseudopods",
+        "exampleSentence": "Try saying: \"That is truly amoeboid.\""
       },
       {
         "word": "aggregation",
-        "definition": "The gathering of separate parts into a cluster or mass"
+        "definition": "The gathering of separate parts into a cluster or mass",
+        "exampleSentence": "Try saying: \"That is truly aggregation.\""
       },
       {
         "word": "algorithm",
-        "definition": "A step-by-step procedure for solving a problem or completing a task"
+        "definition": "A step-by-step procedure for solving a problem or completing a task",
+        "exampleSentence": "Try saying: \"That is truly algorithm.\""
       },
       {
         "word": "decentralized",
-        "definition": "Organized so that control or decision-making is spread across many parts rather than one center"
+        "definition": "Organized so that control or decision-making is spread across many parts rather than one center",
+        "exampleSentence": "Try saying: \"That is truly decentralized.\""
       }
     ],
     "grammarRules": [
@@ -1024,62 +1174,72 @@
       {
         "id": "q1",
         "question": "How did Physarum polycephalum solve the laboratory maze?",
-        "hint": "It explored then retracted dead ends.",
-        "answers": [
-          "explored all paths then kept shortest route",
-          "sent threads through corridors and retracted dead ends",
-          "connected food pellets with efficient path",
-          "trial and error then single optimal path"
+        "options": [
+          "Different from fungal molds",
+          "To sleep better",
+          "Explored all paths then kept shortest route",
+          "Computer code"
         ],
-        "explanation": "The slime mold extended through all maze corridors, then withdrew from dead ends until only the shortest path between food pellets remained."
+        "correctIndex": 2,
+        "revealHint": "The story said: \"It explored then retracted dead ends.\" — the answer is **Explored all paths then kept shortest route**.",
+        "explanation": "The slime mold extended through all maze corridors, then withdrew from dead ends until only the shortest path between food pellets remained.",
+        "hint": "It explored then retracted dead ends."
       },
       {
         "id": "q2",
         "question": "What surprised scientists about the Tokyo subway experiment?",
-        "hint": "Oat flakes represented stations.",
-        "answers": [
-          "mold network matched real subway layout",
-          "similar to Tokyo rail network",
-          "efficient network like subway design",
-          "resembled actual subway map"
+        "options": [
+          "Mold network matched real subway layout",
+          "Pure decoration",
+          "Burning wood",
+          "Single-celled amoeboid organism"
         ],
-        "explanation": "When oat flakes were placed like Tokyo train stations, Physarum's connecting network closely resembled the efficient layout of the real subway system."
+        "correctIndex": 0,
+        "revealHint": "The story said: \"Oat flakes represented stations.\" — the answer is **Mold network matched real subway layout**.",
+        "explanation": "When oat flakes were placed like Tokyo train stations, Physarum's connecting network closely resembled the efficient layout of the real subway system.",
+        "hint": "Oat flakes represented stations."
       },
       {
         "id": "q3",
         "question": "What does decentralized mean in the context of slime mold behavior?",
-        "hint": "No central brain gives orders.",
-        "answers": [
-          "no central control",
-          "decisions spread across filaments",
-          "local rules without central command",
-          "many parts act independently but coordinate"
+        "options": [
+          "No central control",
+          "Explored all paths then kept shortest route",
+          "They never change",
+          "Only on land"
         ],
-        "explanation": "Slime mold uses decentralized control—each filament responds to local chemical cues without a central brain, yet the whole organism finds efficient global solutions."
+        "correctIndex": 0,
+        "revealHint": "The story said: \"No central brain gives orders.\" — the answer is **No central control**.",
+        "explanation": "Slime mold uses decentralized control—each filament responds to local chemical cues without a central brain, yet the whole organism finds efficient global solutions.",
+        "hint": "No central brain gives orders."
       },
       {
         "id": "q4",
         "question": "Why are slime molds classified as protists rather than fungi?",
-        "hint": "They are neither plant, animal, nor fungus.",
-        "answers": [
-          "not truly fungi",
-          "protist kingdom not fungus",
-          "single-celled amoeboid organism",
-          "different from fungal molds"
+        "options": [
+          "Empty space",
+          "Habituation to harmless stimuli",
+          "Not truly fungi",
+          "To look pretty"
         ],
-        "explanation": "Slime molds like Physarum are protists—neither plants, animals, nor true fungi—often living as amoeboid plasmodia that aggregate under stress."
+        "correctIndex": 2,
+        "revealHint": "The story said: \"They are neither plant, animal, nor fungus.\" — the answer is **Not truly fungi**.",
+        "explanation": "Slime molds like Physarum are protists—neither plants, animals, nor true fungi—often living as amoeboid plasmodia that aggregate under stress.",
+        "hint": "They are neither plant, animal, nor fungus."
       },
       {
         "id": "q5",
         "question": "What evidence suggests slime molds can learn or remember?",
-        "hint": "Habituation and slime trails.",
-        "answers": [
-          "habituation to harmless stimuli",
-          "avoid harmful stimuli for days",
-          "memory in slime trails",
-          "learned to ignore safe signals"
+        "options": [
+          "Protist kingdom not fungus",
+          "Many parts act independently but coordinate",
+          "Habituation to harmless stimuli",
+          "Only at night"
         ],
-        "explanation": "Physarum shows habituation—learning to ignore repeated harmless stimuli while avoiding harmful ones—and may store information in external slime trails."
+        "correctIndex": 2,
+        "revealHint": "The story said: \"Habituation and slime trails.\" — the answer is **Habituation to harmless stimuli**.",
+        "explanation": "Physarum shows habituation—learning to ignore repeated harmless stimuli while avoiding harmful ones—and may store information in external slime trails.",
+        "hint": "Habituation and slime trails."
       }
     ],
     "curiosityHooks": [
@@ -1096,23 +1256,28 @@
     "words": [
       {
         "word": "thermopolium",
-        "definition": "An ancient Roman street-side food counter where hot food and drinks were sold"
+        "definition": "An ancient Roman street-side food counter where hot food and drinks were sold",
+        "exampleSentence": "Try saying: \"That is truly thermopolium.\""
       },
       {
         "word": "carbonized",
-        "definition": "Turned into carbon; preserved by charring rather than decay"
+        "definition": "Turned into carbon; preserved by charring rather than decay",
+        "exampleSentence": "Try saying: \"That is truly carbonized.\""
       },
       {
         "word": "pumice",
-        "definition": "Light volcanic rock full of air bubbles, formed during explosive eruptions"
+        "definition": "Light volcanic rock full of air bubbles, formed during explosive eruptions",
+        "exampleSentence": "Try saying: \"That is truly pumice.\""
       },
       {
         "word": "artisan",
-        "definition": "A skilled craftsperson who makes things by hand using traditional methods"
+        "definition": "A skilled craftsperson who makes things by hand using traditional methods",
+        "exampleSentence": "Try saying: \"That is truly artisan.\""
       },
       {
         "word": "fermentation",
-        "definition": "The chemical breakdown of substances by yeast or bacteria, often producing gas that makes dough rise"
+        "definition": "The chemical breakdown of substances by yeast or bacteria, often producing gas that makes dough rise",
+        "exampleSentence": "Try saying: \"That is truly fermentation.\""
       }
     ],
     "grammarRules": [
@@ -1134,62 +1299,72 @@
       {
         "id": "q1",
         "question": "What is a thermopolium in ancient Pompeii?",
-        "hint": "Street-side food counter.",
-        "answers": [
+        "options": [
+          "They avoid water",
           "Roman street food counter",
-          "hot food and drink shop",
-          "ancient fast-food counter",
-          "street-side snack bar"
+          "Empty space",
+          "Burning wood"
         ],
-        "explanation": "A thermopolium was a Roman street-side counter where workers bought hot food and drinks, often equipped with brick ovens behind the serving area."
+        "correctIndex": 1,
+        "revealHint": "The story said: \"Street-side food counter.\" — the answer is **Roman street food counter**.",
+        "explanation": "A thermopolium was a Roman street-side counter where workers bought hot food and drinks, often equipped with brick ovens behind the serving area.",
+        "hint": "Street-side food counter."
       },
       {
         "id": "q2",
         "question": "How did the Vesuvius eruption preserve bread loaves?",
-        "hint": "Heat and ash carbonized organic matter.",
-        "answers": [
-          "carbonized them",
-          "charred and preserved shape",
-          "turned bread to carbon shells",
-          "instant carbonization from heat and ash"
+        "options": [
+          "For no reason",
+          "Ancient fast-food counter",
+          "Carbonized them",
+          "They compete only"
         ],
-        "explanation": "The eruption's intense heat and ash carbonized organic materials, charring bread and other items while preserving their shapes like charcoal shells."
+        "correctIndex": 2,
+        "revealHint": "The story said: \"Heat and ash carbonized organic matter.\" — the answer is **Carbonized them**.",
+        "explanation": "The eruption's intense heat and ash carbonized organic materials, charring bread and other items while preserving their shapes like charcoal shells.",
+        "hint": "Heat and ash carbonized organic matter."
       },
       {
         "id": "q3",
         "question": "What did CT scans reveal about carbonized Pompeii bread?",
-        "hint": "Air pockets inside the loaf.",
-        "answers": [
-          "air pockets frozen mid-rise",
-          "internal bubble structure",
-          "crumb structure preserved",
-          "fermentation bubbles visible inside"
+        "options": [
+          "Ancient myths only",
+          "Only on land",
+          "Volcanic eruptions",
+          "Air pockets frozen mid-rise"
         ],
-        "explanation": "CT scans of carbonized loaves revealed internal air pockets frozen during rising, showing Roman bread's texture without destroying the artifact."
+        "correctIndex": 3,
+        "revealHint": "The story said: \"Air pockets inside the loaf.\" — the answer is **Air pockets frozen mid-rise**.",
+        "explanation": "CT scans of carbonized loaves revealed internal air pockets frozen during rising, showing Roman bread's texture without destroying the artifact.",
+        "hint": "Air pockets inside the loaf."
       },
       {
         "id": "q4",
         "question": "Why was bread politically important in Roman cities?",
-        "hint": "Free loaves and baker guilds.",
-        "answers": [
-          "free bread for votes",
-          "bakers guilds and political distribution",
-          "politicians gave loaves for support",
-          "central to Roman civic life"
+        "options": [
+          "Free bread for votes",
+          "Only on land",
+          "Plastic pollution",
+          "They never change"
         ],
-        "explanation": "Bread was so essential that bakers formed guilds and politicians distributed free loaves to win public support, making baking central to urban life."
+        "correctIndex": 0,
+        "revealHint": "The story said: \"Free loaves and baker guilds.\" — the answer is **Free bread for votes**.",
+        "explanation": "Bread was so essential that bakers formed guilds and politicians distributed free loaves to win public support, making baking central to urban life.",
+        "hint": "Free loaves and baker guilds."
       },
       {
         "id": "q5",
         "question": "How did Roman bakers heat their ovens before baking bread?",
-        "hint": "Fire on the floor, then swept away.",
-        "answers": [
-          "fire on oven floor then swept out",
-          "heated dome with fire then baked on tiles",
-          "stored heat in thick dome",
-          "burned fuel inside then removed ashes"
+        "options": [
+          "Fire on oven floor then swept out",
+          "Random luck",
+          "Photosynthesis only",
+          "Computer code"
         ],
-        "explanation": "Roman ovens used fires built on the floor to heat thick domed walls; ashes were swept aside before dough was baked on the hot tiles."
+        "correctIndex": 0,
+        "revealHint": "The story said: \"Fire on the floor, then swept away.\" — the answer is **Fire on oven floor then swept out**.",
+        "explanation": "Roman ovens used fires built on the floor to heat thick domed walls; ashes were swept aside before dough was baked on the hot tiles.",
+        "hint": "Fire on the floor, then swept away."
       }
     ],
     "curiosityHooks": [
@@ -1206,23 +1381,28 @@
     "words": [
       {
         "word": "cetacean",
-        "definition": "A marine mammal such as a whale, dolphin, or porpoise"
+        "definition": "A marine mammal such as a whale, dolphin, or porpoise",
+        "exampleSentence": "Try saying: \"That is truly cetacean.\""
       },
       {
         "word": "dialect",
-        "definition": "A regional or group-specific form of language or communication"
+        "definition": "A regional or group-specific form of language or communication",
+        "exampleSentence": "Try saying: \"That is truly dialect.\""
       },
       {
         "word": "acoustic",
-        "definition": "Relating to sound or the sense of hearing"
+        "definition": "Relating to sound or the sense of hearing",
+        "exampleSentence": "Try saying: \"That is truly acoustic.\""
       },
       {
         "word": "pod",
-        "definition": "A social group of whales or dolphins that travel and feed together"
+        "definition": "A social group of whales or dolphins that travel and feed together",
+        "exampleSentence": "Try saying: \"That is truly pod.\""
       },
       {
         "word": "repertoire",
-        "definition": "The full set of songs, calls, or performances an individual or group can produce"
+        "definition": "The full set of songs, calls, or performances an individual or group can produce",
+        "exampleSentence": "Try saying: \"That is truly repertoire.\""
       }
     ],
     "grammarRules": [
@@ -1244,62 +1424,72 @@
       {
         "id": "q1",
         "question": "What did Roger Payne demonstrate about humpback whale sounds in 1970?",
-        "hint": "Not random noise—structured songs.",
-        "answers": [
-          "structured repeatable songs",
-          "whale sounds have patterns",
-          "songs change across seasons",
-          "not random but organized vocalizations"
+        "options": [
+          "Structured repeatable songs",
+          "Unique phrases per region",
+          "Random luck",
+          "One year exactly"
         ],
-        "explanation": "Roger Payne showed humpback vocalizations were structured, repeating songs that changed across seasons—not random noise as previously assumed."
+        "correctIndex": 0,
+        "revealHint": "The story said: \"Not random noise—structured songs.\" — the answer is **Structured repeatable songs**.",
+        "explanation": "Roger Payne showed humpback vocalizations were structured, repeating songs that changed across seasons—not random noise as previously assumed.",
+        "hint": "Not random noise—structured songs."
       },
       {
         "id": "q2",
         "question": "How do whale songs spread between populations?",
-        "hint": "New phrases adopted like trends.",
-        "answers": [
-          "cultural transmission",
-          "neighboring groups adopt new phrases",
-          "songs spread like trends",
-          "learned not inherited"
+        "options": [
+          "Only at night",
+          "Random luck",
+          "Cultural transmission",
+          "To make noise"
         ],
-        "explanation": "Whale populations culturally transmit songs—when one group invents new phrases, neighbors often adopt them until entire repertoires are replaced within years."
+        "correctIndex": 2,
+        "revealHint": "The story said: \"New phrases adopted like trends.\" — the answer is **Cultural transmission**.",
+        "explanation": "Whale populations culturally transmit songs—when one group invents new phrases, neighbors often adopt them until entire repertoires are replaced within years.",
+        "hint": "New phrases adopted like trends."
       },
       {
         "id": "q3",
         "question": "What is a whale dialect in this passage?",
-        "hint": "Regional differences in song.",
-        "answers": [
-          "regional song differences",
-          "group-specific vocal patterns",
-          "geographic variation in whale songs",
-          "unique phrases per region"
+        "options": [
+          "They avoid water",
+          "Burning wood",
+          "Plastic pollution",
+          "Regional song differences"
         ],
-        "explanation": "Whale dialects are region-specific vocal patterns—Pacific humpbacks sound different from Atlantic ones, with distinct phrases tied to geography."
+        "correctIndex": 3,
+        "revealHint": "The story said: \"Regional differences in song.\" — the answer is **Regional song differences**.",
+        "explanation": "Whale dialects are region-specific vocal patterns—Pacific humpbacks sound different from Atlantic ones, with distinct phrases tied to geography.",
+        "hint": "Regional differences in song."
       },
       {
         "id": "q4",
         "question": "Why is sound especially important for cetaceans underwater?",
-        "hint": "Travels far and fast in water.",
-        "answers": [
-          "sound travels far underwater",
-          "acoustic communication over long distances",
-          "faster and farther than in air",
-          "hundreds of miles through water"
+        "options": [
+          "Quieter oceans during COVID slowdown",
+          "Sound travels far underwater",
+          "Computer code",
+          "Songs spread like trends"
         ],
-        "explanation": "Sound travels about four times faster in water than air and can carry hundreds of miles along deep channels, making acoustic communication essential for cetaceans."
+        "correctIndex": 1,
+        "revealHint": "The story said: \"Travels far and fast in water.\" — the answer is **Sound travels far underwater**.",
+        "explanation": "Sound travels about four times faster in water than air and can carry hundreds of miles along deep channels, making acoustic communication essential for cetaceans.",
+        "hint": "Travels far and fast in water."
       },
       {
         "id": "q5",
         "question": "What happened to ocean noise during the 2020 shipping slowdown?",
-        "hint": "Quieter seas, less stress.",
-        "answers": [
-          "seas got quieter",
-          "lower stress hormones in whales",
-          "reduced shipping noise",
-          "quieter oceans during COVID slowdown"
+        "options": [
+          "They never change",
+          "Not random but organized vocalizations",
+          "Group-specific vocal patterns",
+          "Seas got quieter"
         ],
-        "explanation": "When global shipping slowed during COVID-19, scientists recorded quieter oceans and decreased stress hormones in some whale populations."
+        "correctIndex": 3,
+        "revealHint": "The story said: \"Quieter seas, less stress.\" — the answer is **Seas got quieter**.",
+        "explanation": "When global shipping slowed during COVID-19, scientists recorded quieter oceans and decreased stress hormones in some whale populations.",
+        "hint": "Quieter seas, less stress."
       }
     ],
     "curiosityHooks": [
@@ -1316,23 +1506,28 @@
     "words": [
       {
         "word": "subterranean",
-        "definition": "Existing, occurring, or found below the surface of the earth"
+        "definition": "Existing, occurring, or found below the surface of the earth",
+        "exampleSentence": "Try saying: \"That is truly subterranean.\""
       },
       {
         "word": "speleological",
-        "definition": "Relating to the scientific study of caves and cave systems"
+        "definition": "Relating to the scientific study of caves and cave systems",
+        "exampleSentence": "Try saying: \"That is truly speleological.\""
       },
       {
         "word": "guano",
-        "definition": "Accumulated droppings of seabirds or bats, often rich in nutrients"
+        "definition": "Accumulated droppings of seabirds or bats, often rich in nutrients",
+        "exampleSentence": "Try saying: \"That is truly guano.\""
       },
       {
         "word": "phototrophic",
-        "definition": "Capable of using light as an energy source for growth"
+        "definition": "Capable of using light as an energy source for growth",
+        "exampleSentence": "Try saying: \"That is truly phototrophic.\""
       },
       {
         "word": "troglodytic",
-        "definition": "Adapted to living in caves or underground environments"
+        "definition": "Adapted to living in caves or underground environments",
+        "exampleSentence": "Try saying: \"That is truly troglodytic.\""
       }
     ],
     "grammarRules": [
@@ -1354,62 +1549,72 @@
       {
         "id": "q1",
         "question": "What creates the glowing display in New Zealand's Waitomo Cave?",
-        "hint": "Larvae, not stars.",
-        "answers": [
-          "glowworm larvae",
-          "fungus gnat larvae",
-          "glowworms with bioluminescent tails",
-          "larval fungus gnats"
+        "options": [
+          "Glowworm larvae",
+          "Sensitive to torchlight and breath",
+          "Wind and storms",
+          "Solar panels"
         ],
-        "explanation": "Waitomo's glowworms are larval fungus gnats that produce bioluminescent light at their tails to lure insects into sticky silk snares."
+        "correctIndex": 0,
+        "revealHint": "The story said: \"Larvae, not stars.\" — the answer is **Glowworm larvae**.",
+        "explanation": "Waitomo's glowworms are larval fungus gnats that produce bioluminescent light at their tails to lure insects into sticky silk snares.",
+        "hint": "Larvae, not stars."
       },
       {
         "id": "q2",
         "question": "Why is guano important in cave ecosystems?",
-        "hint": "Bat droppings feed other life.",
-        "answers": [
-          "nutrient source on cave floor",
-          "feeds insects and fungi",
-          "bat droppings support food web",
-          "accumulated droppings nourish cave life"
+        "options": [
+          "Chemical energy from minerals",
+          "Volcanic eruptions",
+          "Protect glowworm colonies",
+          "Nutrient source on cave floor"
         ],
-        "explanation": "Guano from bat colonies piles on cave floors, providing nutrients that support insects, fungi, and other organisms in the underground food web."
+        "correctIndex": 3,
+        "revealHint": "The story said: \"Bat droppings feed other life.\" — the answer is **Nutrient source on cave floor**.",
+        "explanation": "Guano from bat colonies piles on cave floors, providing nutrients that support insects, fungi, and other organisms in the underground food web.",
+        "hint": "Bat droppings feed other life."
       },
       {
         "id": "q3",
         "question": "What does troglodytic mean for cave organisms?",
-        "hint": "Adapted to underground life.",
-        "answers": [
-          "adapted to cave life",
-          "living underground",
-          "cave-adapted species",
-          "suited to dark cave environments"
+        "options": [
+          "Plastic pollution",
+          "Fungus gnat larvae",
+          "They avoid water",
+          "Adapted to cave life"
         ],
-        "explanation": "Troglodytic describes organisms adapted to cave or underground environments—often with specialized traits for darkness, humidity, and limited food."
+        "correctIndex": 3,
+        "revealHint": "The story said: \"Adapted to underground life.\" — the answer is **Adapted to cave life**.",
+        "explanation": "Troglodytic describes organisms adapted to cave or underground environments—often with specialized traits for darkness, humidity, and limited food.",
+        "hint": "Adapted to underground life."
       },
       {
         "id": "q4",
         "question": "Why do tour guides limit light and noise in glowworm caves?",
-        "hint": "Disturbance harms larvae.",
-        "answers": [
-          "protect glowworm colonies",
-          "light and CO2 disturb larvae",
-          "avoid disrupting hunting",
-          "sensitive to torchlight and breath"
+        "options": [
+          "Glowworm larvae",
+          "Feeds insects and fungi",
+          "Only in summer",
+          "Protect glowworm colonies"
         ],
-        "explanation": "Bright light, air currents, and carbon dioxide from tourists can disturb or harm glowworm larvae, so guides use dim red-filtered lamps and quiet voices."
+        "correctIndex": 3,
+        "revealHint": "The story said: \"Disturbance harms larvae.\" — the answer is **Protect glowworm colonies**.",
+        "explanation": "Bright light, air currents, and carbon dioxide from tourists can disturb or harm glowworm larvae, so guides use dim red-filtered lamps and quiet voices.",
+        "hint": "Disturbance harms larvae."
       },
       {
         "id": "q5",
         "question": "How can bacteria glow in caves without sunlight?",
-        "hint": "Phototrophic from chemical energy.",
-        "answers": [
-          "phototrophic bacteria on walls",
-          "chemical energy from minerals",
-          "minerals in dripping water",
-          "microbial mats using chemical light energy"
+        "options": [
+          "Gravity alone",
+          "Light and CO2 disturb larvae",
+          "They never change",
+          "Phototrophic bacteria on walls"
         ],
-        "explanation": "Some cave bacteria are phototrophic in a broader ecological sense, using energy from minerals in dripping water rather than sunlight to grow on cave walls."
+        "correctIndex": 3,
+        "revealHint": "The story said: \"Phototrophic from chemical energy.\" — the answer is **Phototrophic bacteria on walls**.",
+        "explanation": "Some cave bacteria are phototrophic in a broader ecological sense, using energy from minerals in dripping water rather than sunlight to grow on cave walls.",
+        "hint": "Phototrophic from chemical energy."
       }
     ],
     "curiosityHooks": [
@@ -1426,23 +1631,28 @@
     "words": [
       {
         "word": "neotenic",
-        "definition": "Retaining juvenile features into adulthood, such as gills in an axolotl"
+        "definition": "Retaining juvenile features into adulthood, such as gills in an axolotl",
+        "exampleSentence": "Try saying: \"That is truly neotenic.\""
       },
       {
         "word": "blastema",
-        "definition": "A mass of cells capable of developing into missing organs or limbs"
+        "definition": "A mass of cells capable of developing into missing organs or limbs",
+        "exampleSentence": "Try saying: \"That is truly blastema.\""
       },
       {
         "word": "amphibian",
-        "definition": "A cold-blooded vertebrate such as a frog or salamander that often lives both in water and on land"
+        "definition": "A cold-blooded vertebrate such as a frog or salamander that often lives both in water and on land",
+        "exampleSentence": "Try saying: \"That is truly amphibian.\""
       },
       {
         "word": "regenerative",
-        "definition": "Having the ability to regrow lost or damaged tissue"
+        "definition": "Having the ability to regrow lost or damaged tissue",
+        "exampleSentence": "Try saying: \"That is truly regenerative.\""
       },
       {
         "word": "salamander",
-        "definition": "A tailed amphibian with a long body and short legs, often found near water"
+        "definition": "A tailed amphibian with a long body and short legs, often found near water",
+        "exampleSentence": "Try saying: \"That is truly salamander.\""
       }
     ],
     "grammarRules": [
@@ -1464,62 +1674,72 @@
       {
         "id": "q1",
         "question": "What does neotenic mean for axolotls?",
-        "hint": "They keep juvenile features as adults.",
-        "answers": [
-          "keep juvenile features in adulthood",
-          "retain larval gills as adults",
-          "never fully metamorphose",
-          "adult with juvenile traits"
+        "options": [
+          "Keep juvenile features in adulthood",
+          "Pollution and habitat loss",
+          "Pure decoration",
+          "Empty space"
         ],
-        "explanation": "Neotenic axolotls retain juvenile features like external gills and an aquatic lifestyle into adulthood instead of metamorphosing into land-dwelling salamanders."
+        "correctIndex": 0,
+        "revealHint": "The story said: \"They keep juvenile features as adults.\" — the answer is **Keep juvenile features in adulthood**.",
+        "explanation": "Neotenic axolotls retain juvenile features like external gills and an aquatic lifestyle into adulthood instead of metamorphosing into land-dwelling salamanders.",
+        "hint": "They keep juvenile features as adults."
       },
       {
         "id": "q2",
         "question": "What is a blastema in limb regeneration?",
-        "hint": "Mass of cells at the wound site.",
-        "answers": [
-          "mass of cells that regrows limb",
-          "regenerative cell cluster",
-          "dedifferentiated cells at cut",
-          "blob that rebuilds missing parts"
+        "options": [
+          "Mass of cells that regrows limb",
+          "Multiple organs and tissues",
+          "Burning wood",
+          "They avoid water"
         ],
-        "explanation": "A blastema is a mass of dedifferentiated cells at an amputation site that reorganizes and develops into the missing limb structures."
+        "correctIndex": 0,
+        "revealHint": "The story said: \"Mass of cells at the wound site.\" — the answer is **Mass of cells that regrows limb**.",
+        "explanation": "A blastema is a mass of dedifferentiated cells at an amputation site that reorganizes and develops into the missing limb structures.",
+        "hint": "Mass of cells at the wound site."
       },
       {
         "id": "q3",
         "question": "Why are wild axolotls endangered?",
-        "hint": "Pollution, invasive fish, habitat loss.",
-        "answers": [
-          "pollution and habitat loss",
-          "Mexico City expansion",
-          "invasive fish and drained wetlands",
-          "shrunken native range"
+        "options": [
+          "Brain tissue",
+          "Pollution and habitat loss",
+          "Multiple organs and tissues",
+          "Heart, spinal cord, brain parts"
         ],
-        "explanation": "Wild axolotls have nearly vanished from their native Xochimilco canals due to pollution, invasive predators, and wetland drainage from urban expansion."
+        "correctIndex": 1,
+        "revealHint": "The story said: \"Pollution, invasive fish, habitat loss.\" — the answer is **Pollution and habitat loss**.",
+        "explanation": "Wild axolotls have nearly vanished from their native Xochimilco canals due to pollution, invasive predators, and wetland drainage from urban expansion.",
+        "hint": "Pollution, invasive fish, habitat loss."
       },
       {
         "id": "q4",
         "question": "What body parts besides limbs can axolotls regenerate?",
-        "hint": "Heart, spine, brain parts.",
-        "answers": [
-          "heart and spinal cord",
-          "brain tissue",
-          "heart, spinal cord, brain parts",
-          "multiple organs and tissues"
+        "options": [
+          "Ancient myths only",
+          "To look pretty",
+          "Heart and spinal cord",
+          "Solar panels"
         ],
-        "explanation": "Axolotls can regenerate not only limbs but also heart tissue, spinal cord segments, and parts of the brain in laboratory studies."
+        "correctIndex": 2,
+        "revealHint": "The story said: \"Heart, spine, brain parts.\" — the answer is **Heart and spinal cord**.",
+        "explanation": "Axolotls can regenerate not only limbs but also heart tissue, spinal cord segments, and parts of the brain in laboratory studies.",
+        "hint": "Heart, spine, brain parts."
       },
       {
         "id": "q5",
         "question": "Why do scientists study axolotls for human medicine?",
-        "hint": "Regenerative genes and minimal scarring.",
-        "answers": [
-          "learn regeneration for human healing",
-          "genes for regrowing tissue",
-          "reduce scarring and regrow limbs",
-          "medical applications for amputees and burns"
+        "options": [
+          "Heart and spinal cord",
+          "Blob that rebuilds missing parts",
+          "Empty space",
+          "Learn regeneration for human healing"
         ],
-        "explanation": "Researchers study axolotl regeneration to discover genetic pathways that could help humans regrow tissue, reduce scarring, and someday improve treatments for amputees and burn victims."
+        "correctIndex": 3,
+        "revealHint": "The story said: \"Regenerative genes and minimal scarring.\" — the answer is **Learn regeneration for human healing**.",
+        "explanation": "Researchers study axolotl regeneration to discover genetic pathways that could help humans regrow tissue, reduce scarring, and someday improve treatments for amputees and burn victims.",
+        "hint": "Regenerative genes and minimal scarring."
       }
     ],
     "curiosityHooks": [
@@ -1536,23 +1756,28 @@
     "words": [
       {
         "word": "pheromone",
-        "definition": "A chemical signal released by an animal that affects others of its species"
+        "definition": "A chemical signal released by an animal that affects others of its species",
+        "exampleSentence": "Try saying: \"That is truly pheromone.\""
       },
       {
         "word": "unicolonial",
-        "definition": "Forming a single cooperative colony that spans vast areas without territorial conflict"
+        "definition": "Forming a single cooperative colony that spans vast areas without territorial conflict",
+        "exampleSentence": "Try saying: \"That is truly unicolonial.\""
       },
       {
         "word": "invasive",
-        "definition": "Spreading aggressively into new environments and disrupting native species"
+        "definition": "Spreading aggressively into new environments and disrupting native species",
+        "exampleSentence": "Try saying: \"That is truly invasive.\""
       },
       {
         "word": "superorganism",
-        "definition": "A group of organisms behaving as a coordinated whole, like ants in a colony"
+        "definition": "A group of organisms behaving as a coordinated whole, like ants in a colony",
+        "exampleSentence": "Try saying: \"That is truly superorganism.\""
       },
       {
         "word": "territorial",
-        "definition": "Defending a defined area against others of the same species"
+        "definition": "Defending a defined area against others of the same species",
+        "exampleSentence": "Try saying: \"That is truly territorial.\""
       }
     ],
     "grammarRules": [
@@ -1574,62 +1799,72 @@
       {
         "id": "q1",
         "question": "What makes Argentine ant supercolonies unicolonial?",
-        "hint": "Nests accept distant workers as nestmates.",
-        "answers": [
-          "no fighting between distant nests",
-          "cooperate across vast areas",
-          "accept workers from miles away",
-          "single colony without borders"
+        "options": [
+          "No fighting between distant nests",
+          "Electric light bulbs",
+          "They stay silent",
+          "Echoes and sound"
         ],
-        "explanation": "Unicolonial Argentine ant networks treat workers from nests hundreds of miles apart as nestmates, cooperating without the territorial wars typical of ant species."
+        "correctIndex": 0,
+        "revealHint": "The story said: \"Nests accept distant workers as nestmates.\" — the answer is **No fighting between distant nests**.",
+        "explanation": "Unicolonial Argentine ant networks treat workers from nests hundreds of miles apart as nestmates, cooperating without the territorial wars typical of ant species.",
+        "hint": "Nests accept distant workers as nestmates."
       },
       {
         "id": "q2",
         "question": "How do ants usually recognize nestmates versus intruders?",
-        "hint": "Chemical smell signatures.",
-        "answers": [
-          "cuticular hydrocarbons",
-          "chemical scent signatures",
-          "pheromone-like smells",
-          "learned colony odors"
+        "options": [
+          "Plastic pollution",
+          "For no reason",
+          "Photosynthesis only",
+          "Cuticular hydrocarbons"
         ],
-        "explanation": "Ants recognize nestmates by cuticular hydrocarbon scents learned at birth; outsiders with different chemical profiles are typically attacked."
+        "correctIndex": 3,
+        "revealHint": "The story said: \"Chemical smell signatures.\" — the answer is **Cuticular hydrocarbons**.",
+        "explanation": "Ants recognize nestmates by cuticular hydrocarbon scents learned at birth; outsiders with different chemical profiles are typically attacked.",
+        "hint": "Chemical smell signatures."
       },
       {
         "id": "q3",
         "question": "Why are supercolony ants considered a superorganism?",
-        "hint": "Many individuals act as one coordinated body.",
-        "answers": [
-          "coordinated like one organism",
-          "colony behaves as a whole",
-          "shared resources and defense",
-          "individuals act as parts of one unit"
+        "options": [
+          "Outcompete native species",
+          "Coordinated like one organism",
+          "Harm ground-nesting birds",
+          "No fighting between distant nests"
         ],
-        "explanation": "Supercolony ants function as a superorganism—millions of individuals sharing brood, food, and defense so the collective behaves like a single coordinated entity."
+        "correctIndex": 1,
+        "revealHint": "The story said: \"Many individuals act as one coordinated body.\" — the answer is **Coordinated like one organism**.",
+        "explanation": "Supercolony ants function as a superorganism—millions of individuals sharing brood, food, and defense so the collective behaves like a single coordinated entity.",
+        "hint": "Many individuals act as one coordinated body."
       },
       {
         "id": "q4",
         "question": "How did Argentine ants spread to new continents?",
-        "hint": "Human shipping and potted plants.",
-        "answers": [
-          "human shipping",
-          "cargo and potted plants",
-          "accidental transport by people",
-          "introduced via trade"
+        "options": [
+          "Empty space",
+          "Human shipping",
+          "They avoid water",
+          "Only in summer"
         ],
-        "explanation": "Argentine ants spread invasively to new continents by hitchhiking in cargo, soil, and potted plants transported through global shipping networks."
+        "correctIndex": 1,
+        "revealHint": "The story said: \"Human shipping and potted plants.\" — the answer is **Human shipping**.",
+        "explanation": "Argentine ants spread invasively to new continents by hitchhiking in cargo, soil, and potted plants transported through global shipping networks.",
+        "hint": "Human shipping and potted plants."
       },
       {
         "id": "q5",
         "question": "What ecological damage do invasive ant supercolonies cause?",
-        "hint": "Native species lose food and habitat.",
-        "answers": [
-          "reduce biodiversity",
-          "displace native ants",
-          "harm ground-nesting birds",
-          "outcompete native species"
+        "options": [
+          "Reduce biodiversity",
+          "One year exactly",
+          "Photosynthesis only",
+          "They compete only"
         ],
-        "explanation": "Invasive supercolonies outcompete native ants and insects, reducing biodiversity and disrupting ecosystems including seed dispersal and bird food sources."
+        "correctIndex": 0,
+        "revealHint": "The story said: \"Native species lose food and habitat.\" — the answer is **Reduce biodiversity**.",
+        "explanation": "Invasive supercolonies outcompete native ants and insects, reducing biodiversity and disrupting ecosystems including seed dispersal and bird food sources.",
+        "hint": "Native species lose food and habitat."
       }
     ],
     "curiosityHooks": [
@@ -1646,23 +1881,28 @@
     "words": [
       {
         "word": "mnemonic",
-        "definition": "A device such as a pattern of letters or images that aids memory"
+        "definition": "A device such as a pattern of letters or images that aids memory",
+        "exampleSentence": "Try saying: \"That is truly mnemonic.\""
       },
       {
         "word": "loci",
-        "definition": "Latin for 'places'; in memory techniques, familiar locations where information is stored mentally"
+        "definition": "Latin for 'places'; in memory techniques, familiar locations where information is stored mentally",
+        "exampleSentence": "Try saying: \"That is truly loci.\""
       },
       {
         "word": "rhetoric",
-        "definition": "The art of effective or persuasive speaking and writing"
+        "definition": "The art of effective or persuasive speaking and writing",
+        "exampleSentence": "Try saying: \"That is truly rhetoric.\""
       },
       {
         "word": "orator",
-        "definition": "A skilled public speaker, especially one who addresses formal audiences"
+        "definition": "A skilled public speaker, especially one who addresses formal audiences",
+        "exampleSentence": "Try saying: \"That is truly orator.\""
       },
       {
         "word": "visualization",
-        "definition": "The practice of forming clear mental images to represent ideas or information"
+        "definition": "The practice of forming clear mental images to represent ideas or information",
+        "exampleSentence": "Try saying: \"That is truly visualization.\""
       }
     ],
     "grammarRules": [
@@ -1684,62 +1924,72 @@
       {
         "id": "q1",
         "question": "What is the method of loci?",
-        "hint": "Memory palace using familiar places.",
-        "answers": [
-          "memory palace technique",
-          "storing info in familiar locations",
-          "mental walk through known places",
-          "placing images along a route"
+        "options": [
+          "Memory palace technique",
+          "Absurd scenes are easier to recall",
+          "Only in summer",
+          "Orator who described method of loci"
         ],
-        "explanation": "The method of loci (memory palace) places vivid mental images along familiar locations so walking the route in imagination retrieves information in order."
+        "correctIndex": 0,
+        "revealHint": "The story said: \"Memory palace using familiar places.\" — the answer is **Memory palace technique**.",
+        "explanation": "The method of loci (memory palace) places vivid mental images along familiar locations so walking the route in imagination retrieves information in order.",
+        "hint": "Memory palace using familiar places."
       },
       {
         "id": "q2",
         "question": "What story is told about Simonides and the origin of spatial memory techniques?",
-        "hint": "Banquet collapse and seating positions.",
-        "answers": [
-          "identified bodies by seat location",
-          "banquet roof collapse",
-          "remembered where guests sat",
-          "spatial memory after collapse"
+        "options": [
+          "Solar panels",
+          "Hippocampus spatial networks active",
+          "One year exactly",
+          "Identified bodies by seat location"
         ],
-        "explanation": "Legend says Simonides identified banquet victims by remembering where each guest had sat, revealing how strongly spatial memory anchors recall."
+        "correctIndex": 3,
+        "revealHint": "The story said: \"Banquet collapse and seating positions.\" — the answer is **Identified bodies by seat location**.",
+        "explanation": "Legend says Simonides identified banquet victims by remembering where each guest had sat, revealing how strongly spatial memory anchors recall.",
+        "hint": "Banquet collapse and seating positions."
       },
       {
         "id": "q3",
         "question": "Why does the memory palace technique use vivid or absurd images?",
-        "hint": "Dull images are forgotten.",
-        "answers": [
-          "memorable images stick",
-          "absurd scenes are easier to recall",
-          "vivid images don't fade",
-          "humorous or violent scenes last"
+        "options": [
+          "They stay silent",
+          "Never",
+          "Ancient myths only",
+          "Memorable images stick"
         ],
-        "explanation": "Memory palaces use exaggerated, humorous, or bizarre images because vivid scenes are far easier to recall than dull, generic ones."
+        "correctIndex": 3,
+        "revealHint": "The story said: \"Dull images are forgotten.\" — the answer is **Memorable images stick**.",
+        "explanation": "Memory palaces use exaggerated, humorous, or bizarre images because vivid scenes are far easier to recall than dull, generic ones.",
+        "hint": "Dull images are forgotten."
       },
       {
         "id": "q4",
         "question": "Who was Cicero in the context of this passage?",
-        "hint": "Roman orator who described the technique.",
-        "answers": [
-          "Roman orator",
-          "famous Roman speaker",
-          "lawyer who used memory palaces",
-          "orator who described method of loci"
+        "options": [
+          "Electric light bulbs",
+          "Photosynthesis only",
+          "Magnetic fields",
+          "Roman orator"
         ],
-        "explanation": "Cicero was a renowned Roman orator and lawyer who described using the method of loci to memorize long legal speeches without written notes."
+        "correctIndex": 3,
+        "revealHint": "The story said: \"Roman orator who described the technique.\" — the answer is **Roman orator**.",
+        "explanation": "Cicero was a renowned Roman orator and lawyer who described using the method of loci to memorize long legal speeches without written notes.",
+        "hint": "Roman orator who described the technique."
       },
       {
         "id": "q5",
         "question": "What did modern brain scans show about memory athletes?",
-        "hint": "They use spatial brain networks.",
-        "answers": [
-          "hippocampus spatial networks active",
-          "use same loci technique",
-          "trained mnemonic palaces",
-          "spatial memory areas engaged"
+        "options": [
+          "Placing images along a route",
+          "To scare humans",
+          "They never change",
+          "Hippocampus spatial networks active"
         ],
-        "explanation": "Brain scans show memory athletes activate spatial navigation networks in the hippocampus when memorizing, confirming they use trained mnemonic palace techniques."
+        "correctIndex": 3,
+        "revealHint": "The story said: \"They use spatial brain networks.\" — the answer is **Hippocampus spatial networks active**.",
+        "explanation": "Brain scans show memory athletes activate spatial navigation networks in the hippocampus when memorizing, confirming they use trained mnemonic palace techniques.",
+        "hint": "They use spatial brain networks."
       }
     ],
     "curiosityHooks": [
@@ -1756,23 +2006,28 @@
     "words": [
       {
         "word": "gravitational",
-        "definition": "Relating to the force of attraction between masses, such as gravity"
+        "definition": "Relating to the force of attraction between masses, such as gravity",
+        "exampleSentence": "Try saying: \"That is truly gravitational.\""
       },
       {
         "word": "lensing",
-        "definition": "The bending and focusing of light by massive objects' gravity"
+        "definition": "The bending and focusing of light by massive objects' gravity",
+        "exampleSentence": "Try saying: \"That is truly lensing.\""
       },
       {
         "word": "singularity",
-        "definition": "A point where density becomes infinite, as theorized at the center of a black hole"
+        "definition": "A point where density becomes infinite, as theorized at the center of a black hole",
+        "exampleSentence": "Try saying: \"That is truly singularity.\""
       },
       {
         "word": "relativistic",
-        "definition": "Relating to Einstein's theory describing space, time, and gravity at extreme speeds or masses"
+        "definition": "Relating to Einstein's theory describing space, time, and gravity at extreme speeds or masses",
+        "exampleSentence": "Try saying: \"That is truly relativistic.\""
       },
       {
         "word": "curvature",
-        "definition": "The degree to which space or a surface is bent or deviates from flatness"
+        "definition": "The degree to which space or a surface is bent or deviates from flatness",
+        "exampleSentence": "Try saying: \"That is truly curvature.\""
       }
     ],
     "grammarRules": [
@@ -1794,62 +2049,72 @@
       {
         "id": "q1",
         "question": "What did Eddington's 1919 eclipse experiment demonstrate?",
-        "hint": "Star positions shifted near the sun.",
-        "answers": [
-          "light bends around the sun",
-          "gravitational lensing of starlight",
-          "Einstein's prediction confirmed",
-          "star positions shifted by gravity"
+        "options": [
+          "Solar panels",
+          "Light bends around the sun",
+          "Computer code",
+          "Gravity slows clocks differently"
         ],
-        "explanation": "During the 1919 solar eclipse, Eddington measured star positions near the sun and found light bent due to gravity, confirming Einstein's general relativity prediction."
+        "correctIndex": 1,
+        "revealHint": "The story said: \"Star positions shifted near the sun.\" — the answer is **Light bends around the sun**.",
+        "explanation": "During the 1919 solar eclipse, Eddington measured star positions near the sun and found light bent due to gravity, confirming Einstein's general relativity prediction.",
+        "hint": "Star positions shifted near the sun."
       },
       {
         "id": "q2",
         "question": "What is gravitational lensing?",
-        "hint": "Mass bends light like a lens.",
-        "answers": [
-          "gravity bends light",
-          "massive objects focus starlight",
-          "light follows curved spacetime",
-          "bending of light by gravity"
+        "options": [
+          "Gravity slows clocks differently",
+          "Einstein rings",
+          "Gravity bends light",
+          "They stay silent"
         ],
-        "explanation": "Gravitational lensing is the bending and focusing of light when it passes near massive objects whose gravity curves spacetime."
+        "correctIndex": 2,
+        "revealHint": "The story said: \"Mass bends light like a lens.\" — the answer is **Gravity bends light**.",
+        "explanation": "Gravitational lensing is the bending and focusing of light when it passes near massive objects whose gravity curves spacetime.",
+        "hint": "Mass bends light like a lens."
       },
       {
         "id": "q3",
         "question": "What is a singularity in black hole theory?",
-        "hint": "Center where physics breaks down.",
-        "answers": [
-          "infinite density point",
-          "center of black hole",
-          "where physics breaks down",
-          "theoretical infinite density"
+        "options": [
+          "Ancient myths only",
+          "Gravitational lensing of starlight",
+          "One year exactly",
+          "Infinite density point"
         ],
-        "explanation": "A singularity is the theorized point at a black hole's center where density becomes infinite and known physical laws no longer apply."
+        "correctIndex": 3,
+        "revealHint": "The story said: \"Center where physics breaks down.\" — the answer is **Infinite density point**.",
+        "explanation": "A singularity is the theorized point at a black hole's center where density becomes infinite and known physical laws no longer apply.",
+        "hint": "Center where physics breaks down."
       },
       {
         "id": "q4",
         "question": "How do galaxy clusters act as natural telescopes?",
-        "hint": "They magnify background galaxies.",
-        "answers": [
-          "gravitational lensing magnifies",
-          "bend light from distant galaxies",
-          "Einstein rings",
-          "mass magnifies background objects"
+        "options": [
+          "To scare humans",
+          "Gravitational lensing magnifies",
+          "Plastic pollution",
+          "Volcanic eruptions"
         ],
-        "explanation": "Massive galaxy clusters gravitationally lens background galaxies, stretching them into arcs and rings that magnify otherwise too-faint objects for study."
+        "correctIndex": 1,
+        "revealHint": "The story said: \"They magnify background galaxies.\" — the answer is **Gravitational lensing magnifies**.",
+        "explanation": "Massive galaxy clusters gravitationally lens background galaxies, stretching them into arcs and rings that magnify otherwise too-faint objects for study.",
+        "hint": "They magnify background galaxies."
       },
       {
         "id": "q5",
         "question": "Why does GPS need relativistic corrections?",
-        "hint": "Gravity affects time in orbit.",
-        "answers": [
-          "gravity slows clocks differently",
-          "relativistic time differences",
-          "orbital clocks run differently",
-          "Einstein's math needed for accuracy"
+        "options": [
+          "Center of black hole",
+          "Gravity slows clocks differently",
+          "Gravity bends light",
+          "Light bends around the sun"
         ],
-        "explanation": "GPS satellites experience slightly different gravitational time dilation than receivers on Earth; without relativistic corrections, navigation would drift by miles daily."
+        "correctIndex": 1,
+        "revealHint": "The story said: \"Gravity affects time in orbit.\" — the answer is **Gravity slows clocks differently**.",
+        "explanation": "GPS satellites experience slightly different gravitational time dilation than receivers on Earth; without relativistic corrections, navigation would drift by miles daily.",
+        "hint": "Gravity affects time in orbit."
       }
     ],
     "curiosityHooks": [
@@ -1866,23 +2131,28 @@
     "words": [
       {
         "word": "carnivorous",
-        "definition": "Feeding on animal flesh or insects rather than only plants"
+        "definition": "Feeding on animal flesh or insects rather than only plants",
+        "exampleSentence": "Try saying: \"That is truly carnivorous.\""
       },
       {
         "word": "turgor",
-        "definition": "The pressure of fluid inside plant cells that keeps tissue firm and upright"
+        "definition": "The pressure of fluid inside plant cells that keeps tissue firm and upright",
+        "exampleSentence": "Try saying: \"That is truly turgor.\""
       },
       {
         "word": "predatory",
-        "definition": "Capturing and eating other organisms for food"
+        "definition": "Capturing and eating other organisms for food",
+        "exampleSentence": "Try saying: \"That is truly predatory.\""
       },
       {
         "word": "mechanistic",
-        "definition": "Based on predictable physical mechanisms rather than conscious decisions"
+        "definition": "Based on predictable physical mechanisms rather than conscious decisions",
+        "exampleSentence": "Try saying: \"That is truly mechanistic.\""
       },
       {
         "word": "oscillation",
-        "definition": "A repeated back-and-forth movement or fluctuation"
+        "definition": "A repeated back-and-forth movement or fluctuation",
+        "exampleSentence": "Try saying: \"That is truly oscillation.\""
       }
     ],
     "grammarRules": [
@@ -1904,62 +2174,72 @@
       {
         "id": "q1",
         "question": "How many trigger hair touches does a Venus flytrap require before snapping shut?",
-        "hint": "One touch is not enough.",
-        "answers": [
-          "two touches",
-          "two within about twenty seconds",
-          "second touch within 20 seconds",
-          "two trigger hair contacts"
+        "options": [
+          "Electric light bulbs",
+          "Gets nitrogen from insects",
+          "Two touches",
+          "One year exactly"
         ],
-        "explanation": "A Venus flytrap requires two trigger hair touches within roughly twenty seconds to confirm prey and avoid false alarms from raindrops or debris."
+        "correctIndex": 2,
+        "revealHint": "The story said: \"One touch is not enough.\" — the answer is **Two touches**.",
+        "explanation": "A Venus flytrap requires two trigger hair touches within roughly twenty seconds to confirm prey and avoid false alarms from raindrops or debris.",
+        "hint": "One touch is not enough."
       },
       {
         "id": "q2",
         "question": "What role does turgor pressure play in the trap's snap?",
-        "hint": "Water pressure in cells.",
-        "answers": [
-          "hydraulic pressure drives closure",
-          "water pressure in cells",
-          "turgor keeps lobes curved then releases",
-          "fluid pressure flips trap shape"
+        "options": [
+          "For no reason",
+          "Wind and storms",
+          "Hydraulic pressure drives closure",
+          "Follows physical mechanisms"
         ],
-        "explanation": "High turgor pressure in outer lobe cells keeps traps curved open; when triggered, rapid water movement changes cell pressure, flipping the lobes shut."
+        "correctIndex": 2,
+        "revealHint": "The story said: \"Water pressure in cells.\" — the answer is **Hydraulic pressure drives closure**.",
+        "explanation": "High turgor pressure in outer lobe cells keeps traps curved open; when triggered, rapid water movement changes cell pressure, flipping the lobes shut.",
+        "hint": "Water pressure in cells."
       },
       {
         "id": "q3",
         "question": "Why is the Venus flytrap classified as carnivorous?",
-        "hint": "It digests insects for nutrients.",
-        "answers": [
-          "digests insects",
-          "captures and eats bugs",
-          "secretes enzymes on prey",
-          "gets nitrogen from insects"
+        "options": [
+          "Hydraulic pressure drives closure",
+          "Plastic pollution",
+          "Digests insects",
+          "Reopens if prey escapes"
         ],
-        "explanation": "Venus flytraps capture insects, seal them in modified leaves, and secrete digestive enzymes to absorb nitrogen and phosphorus from prey."
+        "correctIndex": 2,
+        "revealHint": "The story said: \"It digests insects for nutrients.\" — the answer is **Digests insects**.",
+        "explanation": "Venus flytraps capture insects, seal them in modified leaves, and secrete digestive enzymes to absorb nitrogen and phosphorus from prey.",
+        "hint": "It digests insects for nutrients."
       },
       {
         "id": "q4",
         "question": "What happens if prey is too small for the closed trap?",
-        "hint": "Trap reopens quickly.",
-        "answers": [
-          "trap reopens within a day",
-          "reopens if prey escapes",
-          "doesn't waste energy digesting",
-          "opens again if meal too small"
+        "options": [
+          "Ancient myths only",
+          "Trap reopens within a day",
+          "They avoid water",
+          "Burning wood"
         ],
-        "explanation": "If captured prey is too small and escapes, the trap reopens within about a day rather than wasting energy on digestion."
+        "correctIndex": 1,
+        "revealHint": "The story said: \"Trap reopens quickly.\" — the answer is **Trap reopens within a day**.",
+        "explanation": "If captured prey is too small and escapes, the trap reopens within about a day rather than wasting energy on digestion.",
+        "hint": "Trap reopens quickly."
       },
       {
         "id": "q5",
         "question": "Why do scientists describe the flytrap's behavior as mechanistic?",
-        "hint": "Physical rules, not conscious decisions.",
-        "answers": [
-          "follows physical mechanisms",
-          "predictable hydraulic response",
-          "no brain needed",
-          "touch-count triggers physical snap"
+        "options": [
+          "Follows physical mechanisms",
+          "For no reason",
+          "They compete only",
+          "Volcanic eruptions"
         ],
-        "explanation": "Flytrap closure follows mechanistic physical processes—trigger hair signals and turgor changes—rather than conscious decision-making."
+        "correctIndex": 0,
+        "revealHint": "The story said: \"Physical rules, not conscious decisions.\" — the answer is **Follows physical mechanisms**.",
+        "explanation": "Flytrap closure follows mechanistic physical processes—trigger hair signals and turgor changes—rather than conscious decision-making.",
+        "hint": "Physical rules, not conscious decisions."
       }
     ],
     "curiosityHooks": [
@@ -1976,23 +2256,28 @@
     "words": [
       {
         "word": "papermaking",
-        "definition": "The process of producing paper from plant fibers mixed with water and pressed flat"
+        "definition": "The process of producing paper from plant fibers mixed with water and pressed flat",
+        "exampleSentence": "Try saying: \"That is truly papermaking.\""
       },
       {
         "word": "pulp",
-        "definition": "A soft mass of fibers beaten from plants or rags, used to make paper"
+        "definition": "A soft mass of fibers beaten from plants or rags, used to make paper",
+        "exampleSentence": "Try saying: \"That is truly pulp.\""
       },
       {
         "word": "mulberry",
-        "definition": "A tree whose inner bark has long been used as a fiber source for fine paper"
+        "definition": "A tree whose inner bark has long been used as a fiber source for fine paper",
+        "exampleSentence": "Try saying: \"That is truly mulberry.\""
       },
       {
         "word": "manuscript",
-        "definition": "A document or book written by hand rather than printed"
+        "definition": "A document or book written by hand rather than printed",
+        "exampleSentence": "Try saying: \"That is truly manuscript.\""
       },
       {
         "word": "dissemination",
-        "definition": "The spreading of something widely among people or places"
+        "definition": "The spreading of something widely among people or places",
+        "exampleSentence": "Try saying: \"That is truly dissemination.\""
       }
     ],
     "grammarRules": [
@@ -2014,62 +2299,72 @@
       {
         "id": "q1",
         "question": "What materials were used in early Chinese papermaking?",
-        "hint": "Bark, hemp, and rags.",
-        "answers": [
-          "bark hemp and rags",
-          "plant fibers and rags",
-          "mulberry bark and hemp",
-          "soaked plant fibers"
+        "options": [
+          "Government issued paper money",
+          "Bark hemp and rags",
+          "Fibers mashed from bark and rags",
+          "Empty space"
         ],
-        "explanation": "Early papermakers soaked and beat bark, hemp, and rags into pulp, then screened and pressed the fibers into thin sheets."
+        "correctIndex": 1,
+        "revealHint": "The story said: \"Bark, hemp, and rags.\" — the answer is **Bark hemp and rags**.",
+        "explanation": "Early papermakers soaked and beat bark, hemp, and rags into pulp, then screened and pressed the fibers into thin sheets.",
+        "hint": "Bark, hemp, and rags."
       },
       {
         "id": "q2",
         "question": "How did papermaking spread west along the Silk Road?",
-        "hint": "Captured artisans after a battle.",
-        "answers": [
-          "captured Chinese papermakers",
-          "spread after Samarkand battle",
-          "artisans taken west",
-          "technology leaked along trade routes"
+        "options": [
+          "Fiber mixture for paper",
+          "Affordable copying",
+          "Wind and storms",
+          "Captured Chinese papermakers"
         ],
-        "explanation": "Papermaking likely spread west when Chinese papermakers were captured near Samarkand, then established mills that spread the craft along Silk Road trade routes."
+        "correctIndex": 3,
+        "revealHint": "The story said: \"Captured artisans after a battle.\" — the answer is **Captured Chinese papermakers**.",
+        "explanation": "Papermaking likely spread west when Chinese papermakers were captured near Samarkand, then established mills that spread the craft along Silk Road trade routes.",
+        "hint": "Captured artisans after a battle."
       },
       {
         "id": "q3",
         "question": "Why did paper help Islamic libraries grow?",
-        "hint": "Cheaper than parchment or silk.",
-        "answers": [
-          "affordable copying",
-          "cheaper than parchment",
-          "paper made wide circulation possible",
-          "lower cost for manuscripts"
+        "options": [
+          "Random luck",
+          "Echoes and sound",
+          "Photosynthesis only",
+          "Affordable copying"
         ],
-        "explanation": "Paper was affordable enough for extensive copying, enabling Islamic libraries to circulate astronomical, mathematical, and medical manuscripts widely."
+        "correctIndex": 3,
+        "revealHint": "The story said: \"Cheaper than parchment or silk.\" — the answer is **Affordable copying**.",
+        "explanation": "Paper was affordable enough for extensive copying, enabling Islamic libraries to circulate astronomical, mathematical, and medical manuscripts widely.",
+        "hint": "Cheaper than parchment or silk."
       },
       {
         "id": "q4",
         "question": "What is pulp in papermaking?",
-        "hint": "Beaten fiber mass.",
-        "answers": [
-          "beaten fiber mass",
-          "soft mass of plant fibers",
-          "fibers mashed from bark and rags",
-          "fiber mixture for paper"
+        "options": [
+          "Beaten fiber mass",
+          "To scare humans",
+          "Spread after Samarkand battle",
+          "They never change"
         ],
-        "explanation": "Pulp is the soft mass of plant or rag fibers beaten and soaked until they separate, then spread on screens to form paper sheets."
+        "correctIndex": 0,
+        "revealHint": "The story said: \"Beaten fiber mass.\" — the answer is **Beaten fiber mass**.",
+        "explanation": "Pulp is the soft mass of plant or rag fibers beaten and soaked until they separate, then spread on screens to form paper sheets.",
+        "hint": "Beaten fiber mass."
       },
       {
         "id": "q5",
         "question": "Besides books, how did paper change economies in China?",
-        "hint": "Money made from paper.",
-        "answers": [
-          "paper currency",
-          "government issued paper money",
-          "paper banknotes",
-          "currency before Europe"
+        "options": [
+          "Soaked plant fibers",
+          "Ancient myths only",
+          "Paper currency",
+          "Gravity alone"
         ],
-        "explanation": "China used paper for government-issued currency long before European banks adopted paper money, changing how economies handled trade and taxation."
+        "correctIndex": 2,
+        "revealHint": "The story said: \"Money made from paper.\" — the answer is **Paper currency**.",
+        "explanation": "China used paper for government-issued currency long before European banks adopted paper money, changing how economies handled trade and taxation.",
+        "hint": "Money made from paper."
       }
     ],
     "curiosityHooks": [
@@ -2086,23 +2381,28 @@
     "words": [
       {
         "word": "gamete",
-        "definition": "A reproductive cell such as a sperm or egg that fuses with another to form a new organism"
+        "definition": "A reproductive cell such as a sperm or egg that fuses with another to form a new organism",
+        "exampleSentence": "Try saying: \"That is truly gamete.\""
       },
       {
         "word": "synchrony",
-        "definition": "The state of happening at the same time or operating in unison"
+        "definition": "The state of happening at the same time or operating in unison",
+        "exampleSentence": "Try saying: \"That is truly synchrony.\""
       },
       {
         "word": "polyps",
-        "definition": "Small tube-shaped animals that form coral colonies and secrete hard skeletons"
+        "definition": "Small tube-shaped animals that form coral colonies and secrete hard skeletons",
+        "exampleSentence": "Try saying: \"That is truly polyps.\""
       },
       {
         "word": "lunar",
-        "definition": "Relating to the moon or its cycles"
+        "definition": "Relating to the moon or its cycles",
+        "exampleSentence": "Try saying: \"That is truly lunar.\""
       },
       {
         "word": "broadcast",
-        "definition": "To release or send out widely, as coral releasing eggs and sperm into water"
+        "definition": "To release or send out widely, as coral releasing eggs and sperm into water",
+        "exampleSentence": "Try saying: \"That is truly broadcast.\""
       }
     ],
     "grammarRules": [
@@ -2124,62 +2424,72 @@
       {
         "id": "q1",
         "question": "What is coral broadcast spawning?",
-        "hint": "Releasing eggs and sperm into water.",
-        "answers": [
-          "releasing gametes into water",
-          "eggs and sperm dumped into currents",
-          "mass release into ocean",
-          "broadcasting reproductive cells"
+        "options": [
+          "They never change",
+          "Gravity alone",
+          "Releasing gametes into water",
+          "Only on land"
         ],
-        "explanation": "Broadcast spawning is when coral polyps simultaneously release eggs and sperm into the water column for external fertilization by chance meeting in currents."
+        "correctIndex": 2,
+        "revealHint": "The story said: \"Releasing eggs and sperm into water.\" — the answer is **Releasing gametes into water**.",
+        "explanation": "Broadcast spawning is when coral polyps simultaneously release eggs and sperm into the water column for external fertilization by chance meeting in currents.",
+        "hint": "Releasing eggs and sperm into water."
       },
       {
         "id": "q2",
         "question": "Why must corals spawn in synchrony?",
-        "hint": "Gametes must meet before diluting.",
-        "answers": [
-          "increase fertilization success",
-          "gametes must meet at same time",
-          "prevent dilution in ocean",
-          "neighbors must release together"
+        "options": [
+          "Increase fertilization success",
+          "Small coral animals",
+          "One year exactly",
+          "Radio waves"
         ],
-        "explanation": "Synchronized spawning ensures enough gametes are present at once for successful fertilization before they disperse and dilute in ocean currents."
+        "correctIndex": 0,
+        "revealHint": "The story said: \"Gametes must meet before diluting.\" — the answer is **Increase fertilization success**.",
+        "explanation": "Synchronized spawning ensures enough gametes are present at once for successful fertilization before they disperse and dilute in ocean currents.",
+        "hint": "Gametes must meet before diluting."
       },
       {
         "id": "q3",
         "question": "What cues trigger synchronized coral spawning?",
-        "hint": "Moon, temperature, sunset.",
-        "answers": [
-          "lunar cycles and temperature",
-          "full moon and water temperature",
-          "moon phase sunset and warmth",
-          "lunar and seasonal cues"
+        "options": [
+          "Small coral animals",
+          "Lunar cycles and temperature",
+          "Only at night",
+          "To make noise"
         ],
-        "explanation": "Coral spawning typically aligns with lunar cycles—often full moons—combined with seasonal water temperature and sunset light patterns."
+        "correctIndex": 1,
+        "revealHint": "The story said: \"Moon, temperature, sunset.\" — the answer is **Lunar cycles and temperature**.",
+        "explanation": "Coral spawning typically aligns with lunar cycles—often full moons—combined with seasonal water temperature and sunset light patterns.",
+        "hint": "Moon, temperature, sunset."
       },
       {
         "id": "q4",
         "question": "What are coral polyps?",
-        "hint": "Tiny animals building reefs.",
-        "answers": [
-          "small coral animals",
-          "tube-shaped colony builders",
-          "tiny animals that secrete skeletons",
-          "individual coral animals"
+        "options": [
+          "Photosynthesis only",
+          "Small coral animals",
+          "To scare humans",
+          "For no reason"
         ],
-        "explanation": "Polyps are small tube-shaped animals that form coral colonies, secrete hard limestone skeletons, and collectively build reef structures."
+        "correctIndex": 1,
+        "revealHint": "The story said: \"Tiny animals building reefs.\" — the answer is **Small coral animals**.",
+        "explanation": "Polyps are small tube-shaped animals that form coral colonies, secrete hard limestone skeletons, and collectively build reef structures.",
+        "hint": "Tiny animals building reefs."
       },
       {
         "id": "q5",
         "question": "How does climate change threaten coral spawning?",
-        "hint": "Bleaching disrupts timing and health.",
-        "answers": [
-          "bleaching weakens polyps",
-          "disrupts synchrony",
-          "heat stress reduces spawning",
-          "warming kills neighbors and timing"
+        "options": [
+          "Photosynthesis only",
+          "Eggs and sperm dumped into currents",
+          "To look pretty",
+          "Bleaching weakens polyps"
         ],
-        "explanation": "Ocean warming causes bleaching that weakens polyps, kills colonies, and disrupts the synchronized timing needed for successful mass spawning."
+        "correctIndex": 3,
+        "revealHint": "The story said: \"Bleaching disrupts timing and health.\" — the answer is **Bleaching weakens polyps**.",
+        "explanation": "Ocean warming causes bleaching that weakens polyps, kills colonies, and disrupts the synchronized timing needed for successful mass spawning.",
+        "hint": "Bleaching disrupts timing and health."
       }
     ],
     "curiosityHooks": [
@@ -2196,23 +2506,28 @@
     "words": [
       {
         "word": "seismic",
-        "definition": "Relating to earthquakes or vibrations of the earth"
+        "definition": "Relating to earthquakes or vibrations of the earth",
+        "exampleSentence": "Try saying: \"That is truly seismic.\""
       },
       {
         "word": "precursory",
-        "definition": "Serving as a warning sign that something larger is about to happen"
+        "definition": "Serving as a warning sign that something larger is about to happen",
+        "exampleSentence": "Try saying: \"That is truly precursory.\""
       },
       {
         "word": "anomaly",
-        "definition": "Something that deviates from what is standard, normal, or expected"
+        "definition": "Something that deviates from what is standard, normal, or expected",
+        "exampleSentence": "Try saying: \"That is truly anomaly.\""
       },
       {
         "word": "evacuation",
-        "definition": "The organized removal of people or animals from a dangerous place"
+        "definition": "The organized removal of people or animals from a dangerous place",
+        "exampleSentence": "Try saying: \"That is truly evacuation.\""
       },
       {
         "word": "tremor",
-        "definition": "A small earthquake or slight shaking of the ground"
+        "definition": "A small earthquake or slight shaking of the ground",
+        "exampleSentence": "Try saying: \"That is truly tremor.\""
       }
     ],
     "grammarRules": [
@@ -2234,62 +2549,72 @@
       {
         "id": "q1",
         "question": "What happened in Haicheng, China in 1975 before the major earthquake?",
-        "hint": "Animals acted strangely; city evacuated.",
-        "answers": [
-          "mass evacuation",
-          "animal behavior warnings",
-          "snakes and rats acted oddly",
-          "officials evacuated before quake"
+        "options": [
+          "Only in summer",
+          "Ancient myths only",
+          "Mass evacuation",
+          "Wind and storms"
         ],
-        "explanation": "Before the 1975 Haicheng earthquake, unusual animal behavior reports combined with other signs prompted officials to evacuate, saving tens of thousands of lives."
+        "correctIndex": 2,
+        "revealHint": "The story said: \"Animals acted strangely; city evacuated.\" — the answer is **Mass evacuation**.",
+        "explanation": "Before the 1975 Haicheng earthquake, unusual animal behavior reports combined with other signs prompted officials to evacuate, saving tens of thousands of lives.",
+        "hint": "Animals acted strangely; city evacuated."
       },
       {
         "id": "q2",
         "question": "What are P-waves and why might animals detect them before humans?",
-        "hint": "Faster, weaker seismic waves arrive first.",
-        "answers": [
-          "faster seismic waves first",
-          "P-waves arrive before destructive waves",
-          "weaker tremors animals feel first",
-          "primary waves seconds earlier"
+        "options": [
+          "Photosynthesis only",
+          "Faster seismic waves first",
+          "Magnetic fields",
+          "Only in summer"
         ],
-        "explanation": "P-waves are faster, weaker seismic waves that arrive seconds before destructive S-waves; animals may feel or hear these precursory tremors before humans notice shaking."
+        "correctIndex": 1,
+        "revealHint": "The story said: \"Faster, weaker seismic waves arrive first.\" — the answer is **Faster seismic waves first**.",
+        "explanation": "P-waves are faster, weaker seismic waves that arrive seconds before destructive S-waves; animals may feel or hear these precursory tremors before humans notice shaking.",
+        "hint": "Faster, weaker seismic waves arrive first."
       },
       {
         "id": "q3",
         "question": "Why is animal earthquake prediction considered unreliable?",
-        "hint": "False positives and missed quakes.",
-        "answers": [
-          "false positives and false negatives",
-          "animals act oddly on calm days too",
-          "many quakes have no animal warnings",
-          "not consistent enough"
+        "options": [
+          "Computer code",
+          "False positives and false negatives",
+          "Animal behavior warnings",
+          "Officials evacuated before quake"
         ],
-        "explanation": "Animal behavior anomalies occur on non-earthquake days too (false positives), and many earthquakes strike without reported animal warnings (false negatives), making prediction unreliable."
+        "correctIndex": 1,
+        "revealHint": "The story said: \"False positives and missed quakes.\" — the answer is **False positives and false negatives**.",
+        "explanation": "Animal behavior anomalies occur on non-earthquake days too (false positives), and many earthquakes strike without reported animal warnings (false negatives), making prediction unreliable.",
+        "hint": "False positives and missed quakes."
       },
       {
         "id": "q4",
         "question": "What does precursory mean in earthquake studies?",
-        "hint": "Warning signs before a larger event.",
-        "answers": [
-          "warning before main event",
-          "early sign of earthquake",
-          "signal before larger quake",
-          "advance indicator"
+        "options": [
+          "Never",
+          "Many quakes have no animal warnings",
+          "Warning before main event",
+          "They stay silent"
         ],
-        "explanation": "Precursory signals or behaviors are changes that may appear before a larger earthquake, though they are not consistently reliable for prediction."
+        "correctIndex": 2,
+        "revealHint": "The story said: \"Warning signs before a larger event.\" — the answer is **Warning before main event**.",
+        "explanation": "Precursory signals or behaviors are changes that may appear before a larger earthquake, though they are not consistently reliable for prediction.",
+        "hint": "Warning signs before a larger event."
       },
       {
         "id": "q5",
         "question": "What evolutionary reason might explain seismic sensitivity in some animals?",
-        "hint": "Burrowing animals survive tunnel collapses.",
-        "answers": [
-          "burrowing species avoid collapse",
-          "evolution favored seismic sensitivity",
-          "tunnel fallers died",
-          "ancient alarm systems retained"
+        "options": [
+          "Ancient myths only",
+          "Primary waves seconds earlier",
+          "Empty space",
+          "Burrowing species avoid collapse"
         ],
-        "explanation": "Burrowing animals that sensed seismic vibrations early may have survived collapsing tunnels, so evolution may have favored seismic sensitivity in some species."
+        "correctIndex": 3,
+        "revealHint": "The story said: \"Burrowing animals survive tunnel collapses.\" — the answer is **Burrowing species avoid collapse**.",
+        "explanation": "Burrowing animals that sensed seismic vibrations early may have survived collapsing tunnels, so evolution may have favored seismic sensitivity in some species.",
+        "hint": "Burrowing animals survive tunnel collapses."
       }
     ],
     "curiosityHooks": [

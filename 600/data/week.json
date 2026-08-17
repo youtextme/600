@@ -1,149 +1,41 @@
 {
-  "weekId": "2026-W33",
-  "weekStart": "2026-08-16",
-  "generatedAt": "2026-08-17T12:47:48.601Z",
+  "weekId": "2026-W34",
+  "weekStart": "2026-08-17",
+  "generatedAt": "2026-08-17T13:05:27.776Z",
   "timezone": "Asia/Seoul",
   "days": [
     {
-      "id": "2026-08-16",
-      "date": "2026-08-16",
-      "dayIndex": 0,
-      "essayId": "essay-007",
-      "title": "The Hummingbird's Impossible Engine",
-      "topic": "Hummingbird Metabolism",
-      "words": [
-        {
-          "word": "torpor",
-          "definition": "A state of lowered body temperature and slowed metabolism to conserve energy"
-        },
-        {
-          "word": "nectarivorous",
-          "definition": "Feeding primarily on nectar from flowers"
-        },
-        {
-          "word": "metabolic",
-          "definition": "Relating to the chemical processes that produce energy in living organisms"
-        },
-        {
-          "word": "iridescent",
-          "definition": "Showing shifting rainbow-like colors that change with the angle of light"
-        },
-        {
-          "word": "hovering",
-          "definition": "Remaining suspended in the air without moving forward or landing"
-        }
-      ],
-      "grammarRules": [
-        {
-          "id": "past-perfect",
-          "name": "Past Perfect (had + verb)"
-        },
-        {
-          "id": "although",
-          "name": "Although / Even though"
-        },
-        {
-          "id": "em-dash",
-          "name": "Em dashes for emphasis"
-        }
-      ],
-      "passageHtml": "<p>At dawn in an Arizona canyon, a bird no heavier than a nickel had hung in the air as if pinned by an invisible thread. Its wings had blurred into figure-eights sixty times per second—so fast the human eye had seen only a halo of motion. It was a hummingbird, and by breakfast it had already burned more fuel per gram than a marathon runner would use in a full race. Although it looked delicate, with an <span class=\"vocab-word\" data-word=\"iridescent\" title=\"Showing shifting rainbow-like colors that change with the angle of light\">iridescent</span> throat flashing green and ruby, its body had been running an engine hotter than biology textbooks had once thought possible.</p><p>Hummingbirds are <span class=\"vocab-word\" data-word=\"nectarivorous\" title=\"Feeding primarily on nectar from flowers\">nectarivorous</span>—built to drink sugar water from flowers with long bills and tongues that had worked like tiny pumps. Nectar provides quick energy but little protein, so the birds had hunted small insects too, snatching gnats mid-air between sips. <span class=\"vocab-word\" data-word=\"Hovering\" title=\"Remaining suspended in the air without moving forward or landing\">Hovering</span>—staying aloft without a perch—had demanded extraordinary power. Only hummingbirds among birds could sustain true <span class=\"vocab-word\" data-word=\"hovering\" title=\"Remaining suspended in the air without moving forward or landing\">hovering</span> flight, rotating their wings in both directions rather than merely flapping up and down. Although airplanes had required runways, this bird had treated the sky like a chair.</p><p>Scientists had measured the numbers and blinked. A hummingbird's heart had raced up to twelve hundred beats per minute during flight. Its <span class=\"vocab-word\" data-word=\"metabolic\" title=\"Relating to the chemical processes that produce energy in living organisms\">metabolic</span> rate at peak activity had exceeded that of mammals twenty times its size. If a human had burned energy at the same relative rate, he would have needed hundreds of pounds of food daily. Even though nectar had been rich in sugar, the bird had still faced starvation within hours if flowers had failed. Evolution had answered with speed—visit a thousand blossoms before noon—and with memory sharp enough to map every reliable patch in a territory.</p><p>Night had brought a different trick. When temperatures had dropped and food had become unreachable, hummingbirds had entered <span class=\"vocab-word\" data-word=\"torpor\" title=\"A state of lowered body temperature and slowed metabolism to conserve energy\">torpor</span>—a nightly near-hibernation. Body temperature had fallen from about 104°F to near ambient chill. Heart rate had collapsed from hundreds of beats per minute to fewer than fifty. Although the bird had looked dead on its branch, it had been saving itself. At first light, metabolism had ramped up again—an internal furnace reigniting before the next marathon of <span class=\"vocab-word\" data-word=\"hovering\" title=\"Remaining suspended in the air without moving forward or landing\">hovering</span>. Researchers had once thought such swings would damage organs; instead, hummingbirds had made flexibility their superpower.</p><p>Migration had pushed the system further. Ruby-throated hummingbirds had crossed the Gulf of Mexico—roughly five hundred miles over open water without stopping. Before departure, they had gorged until they had nearly doubled weight, storing fat like a backpack of fuel. Although the journey had taken eighteen to twenty-two hours, the birds had arrived exhausted on Yucatan beaches at dawn. Even though winds had sometimes blown them off course, their compass—likely sensing Earth's magnetic field and the sun—had kept most on track.</p><p>The <span class=\"vocab-word\" data-word=\"iridescent\" title=\"Showing shifting rainbow-like colors that change with the angle of light\">iridescent</span> throat feathers had not contained green or red pigment. Microscopic platelets had bent light so colors had shifted with angle—structure, not paint. Females and rivals had judged health from shine. Although beauty had mattered for mating, the glow had also signaled vigorous <span class=\"vocab-word\" data-word=\"metabolic\" title=\"Relating to the chemical processes that produce energy in living organisms\">metabolic</span> engines capable of defending territory.</p><p>Climate change had shifted flower timing, and habitat loss had shrunk migratory stopovers. Although hummingbirds had adapted for millennia, feeders and gardens had become unexpected lifelines in suburbs. Biologists had urged native plantings so <span class=\"vocab-word\" data-word=\"nectarivorous\" title=\"Feeding primarily on nectar from flowers\">nectarivorous</span> travelers had found fuel along ancient routes.</p><p>Watch one at a feeder: a living contradiction—fragile bones, furious heart, wings writing infinity signs in air. It had mastered <span class=\"vocab-word\" data-word=\"torpor\" title=\"A state of lowered body temperature and slowed metabolism to conserve energy\">torpor</span> to survive darkness and <span class=\"vocab-word\" data-word=\"metabolic\" title=\"Relating to the chemical processes that produce energy in living organisms\">metabolic</span> fire to conquer daylight. Although it will never know the word engine, the hummingbird had been one long before humans had built the first piston. The next flower had always been worth the impossible cost of flight.</p>",
-      "questions": [
-        {
-          "id": "q1",
-          "question": "Why must hummingbirds enter torpor at night?",
-          "hint": "Their metabolism is extremely high during the day.",
-          "answers": [
-            "conserve energy",
-            "slow metabolism when they can't feed",
-            "prevent starvation overnight",
-            "lower heart rate and body temperature"
-          ],
-          "explanation": "Hummingbirds burn energy so fast they risk starving within hours; torpor lowers body temperature and heart rate dramatically to survive nights without feeding."
-        },
-        {
-          "id": "q2",
-          "question": "What makes hummingbird hovering different from other birds' flight?",
-          "hint": "Their wings move in figure-eights.",
-          "answers": [
-            "wings rotate in both directions",
-            "figure-eight wing motion",
-            "sustained hovering with reversed wing strokes",
-            "rotate wings not just flap"
-          ],
-          "explanation": "Hummingbirds rotate their wings in figure-eight patterns in both directions, generating lift on upstroke and downstroke—unique among birds for sustained hovering."
-        },
-        {
-          "id": "q3",
-          "question": "How do ruby-throated hummingbirds prepare for crossing the Gulf of Mexico?",
-          "hint": "They nearly double their weight.",
-          "answers": [
-            "gorge on food and store fat",
-            "double their weight in fat",
-            "fatten before migration",
-            "eat until they nearly double weight"
-          ],
-          "explanation": "Before the five-hundred-mile nonstop Gulf crossing, ruby-throated hummingbirds gorge until they nearly double body weight, storing fat as fuel for the journey."
-        },
-        {
-          "id": "q4",
-          "question": "Why do iridescent throat feathers change color when you move your head?",
-          "hint": "Not pigment—microscopic structures.",
-          "answers": [
-            "microscopic platelets bend light",
-            "structural color not pigment",
-            "light angle changes color",
-            "platelets shift colors with angle"
-          ],
-          "explanation": "Iridescent feathers use microscopic platelets that bend light rather than pigment, so colors shift with viewing angle—a structural optical effect."
-        },
-        {
-          "id": "q5",
-          "question": "Besides nectar, what do hummingbirds eat and why?",
-          "hint": "Nectar lacks something essential.",
-          "answers": [
-            "insects for protein",
-            "small insects and gnats",
-            "protein from insects",
-            "gnats because nectar lacks protein"
-          ],
-          "explanation": "Nectar provides sugar energy but little protein, so hummingbirds also catch small insects and gnats to meet their protein needs."
-        }
-      ],
-      "curiosityHooks": [
-        "Grandma, a hummingbird's heart beats 1,200 times a minute in flight—can you feel your pulse and imagine that speed?",
-        "Dad, if we didn't feed our feeder for a day, could the hummingbirds really starve that fast?",
-        "They cross 500 miles of ocean without landing—how do you think they sleep on that trip?"
-      ],
-      "shareMessage": "Today's essay was about hummingbird metabolism! 🐦⚡\n\nTheir hearts hit 1,200 beats/minute while hovering—wings blur 60 times per second! They're nectarivorous but also eat insects for protein.\n\nAt night they enter torpor, slowing their metabolism like mini-hibernation. Ruby-throated hummingbirds double their weight in fat, then fly 500 miles nonstop over the Gulf of Mexico!\n\nAsk us why their throat colors shift and what torpor means."
-    },
-    {
       "id": "2026-08-17",
       "date": "2026-08-17",
-      "dayIndex": 1,
-      "essayId": "essay-002",
-      "title": "Whispers Beneath the Forest Floor",
-      "topic": "Fungal Tree Networks",
+      "dayIndex": 0,
+      "essayId": "essay-017",
+      "title": "When Gravity Bends Starlight",
+      "topic": "Black Hole Light Bending",
       "words": [
         {
-          "word": "mycelium",
-          "definition": "The branching, thread-like body of a fungus that spreads underground or inside other organisms"
+          "word": "gravitational",
+          "definition": "Relating to the force of attraction between masses, such as gravity",
+          "exampleSentence": "Try saying: \"That is truly gravitational.\""
         },
         {
-          "word": "arboreal",
-          "definition": "Relating to trees or living in trees"
+          "word": "lensing",
+          "definition": "The bending and focusing of light by massive objects' gravity",
+          "exampleSentence": "Try saying: \"That is truly lensing.\""
         },
         {
-          "word": "nutrient",
-          "definition": "A substance that provides nourishment essential for growth and maintenance"
+          "word": "singularity",
+          "definition": "A point where density becomes infinite, as theorized at the center of a black hole",
+          "exampleSentence": "Try saying: \"That is truly singularity.\""
         },
         {
-          "word": "hyphae",
-          "definition": "The individual microscopic threads that make up a fungus body"
+          "word": "relativistic",
+          "definition": "Relating to Einstein's theory describing space, time, and gravity at extreme speeds or masses",
+          "exampleSentence": "Try saying: \"That is truly relativistic.\""
         },
         {
-          "word": "interconnected",
-          "definition": "Connected with one another so that each part affects the whole"
+          "word": "curvature",
+          "definition": "The degree to which space or a surface is bent or deviates from flatness",
+          "exampleSentence": "Try saying: \"That is truly curvature.\""
         }
       ],
       "grammarRules": [
@@ -160,101 +52,118 @@
           "name": "Em dashes for emphasis"
         }
       ],
-      "passageHtml": "<p>Above the trail, the Douglas firs had stood like quiet giants for three centuries. Their needles had caught rain; their roots had gripped stone. But the story tourists photographed—the tall trunks, the green canopy—was only half the forest. Beneath the hikers' boots, a second world had been operating since long before the first logging road had cut through the valley. Although every tree looked independent, as if it competed alone for sunlight, scientists had discovered something humbler and stranger threading through the soil: fungus.</p><p>Fungi are not plants. They do not photosynthesize. Instead, their bodies—networks of <span class=\"vocab-word\" data-word=\"hyphae\" title=\"The individual microscopic threads that make up a fungus body\">hyphae</span> so fine you could lay hundreds side by side on a single hair—spread through dirt and rotting wood like underground internet cables. Together those threads form <span class=\"vocab-word\" data-word=\"mycelium\" title=\"The branching, thread-like body of a fungus that spreads underground or inside other organisms\">mycelium</span>, a living mesh that can stretch for miles. In Oregon, researchers had mapped one fungal individual—mostly hidden—covering nearly four square miles. Although it never lifted a branch toward the sky, it had quietly become one of the largest organisms on Earth.</p><p>Ecologist Suzanne Simard had once wondered whether <span class=\"vocab-word\" data-word=\"arboreal\" title=\"Relating to trees or living in trees\">arboreal</span> neighbors shared more than shade. In the 1990s, she had fed radioactive carbon to birch trees and traced where the atoms traveled. Within days, the labeled carbon had appeared in nearby firs. The trees had been trading through fungal bridges—<span class=\"vocab-word\" data-word=\"mycelium\" title=\"The branching, thread-like body of a fungus that spreads underground or inside other organisms\">mycelium</span> wrapped around roots like lace. Even though textbooks had portrayed forests as battlegrounds, the data had told a different story: cooperation.</p><p>Here's the deal. A seedling in deep shade cannot make enough sugar from sunlight. An older tree, well lit, often has surplus. Through the fungal network, the elder can send carbon downhill to the struggling youngster. In return, the seedling may later share <span class=\"vocab-word\" data-word=\"nutrient\" title=\"A substance that provides nourishment essential for growth and maintenance\">nutrients</span> it had absorbed—nitrogen, phosphorus, water—when the larger tree's own roots had grown too shallow or dry. Although the exchange looks like charity, both partners gain. The fungus takes a fee—sugars for its <span class=\"vocab-word\" data-word=\"hyphae\" title=\"The individual microscopic threads that make up a fungus body\">hyphae</span>—and everyone stays fed.</p><p>Scientists had also recorded warning signals. When one tree had been attacked by insects, chemical alarms had traveled through the <span class=\"vocab-word\" data-word=\"interconnected\" title=\"Connected with one another so that each part affects the whole\">interconnected</span> web. Neighboring trees had boosted defensive chemicals before the pests arrived. Although a single trunk seems solitary, the forest behaves like a community with a hidden nervous system. Even though roots never touch directly, messages had crossed through fungal threads faster than anyone had expected.</p><p>Old-growth forests had preserved the richest networks because disturbance had been rare. When loggers had clear-cut a hillside, the <span class=\"vocab-word\" data-word=\"interconnected\" title=\"Connected with one another so that each part affects the whole\">interconnected</span> web had snapped like cut telephone lines. Seedlings planted in isolation had often wilted even when watered, as if lonely. Although replanting programs had counted saplings by the million, survival had improved dramatically when workers had left veteran trees standing—hubs whose fungal partners had already mapped the soil's quirks. Even though a young fir could photosynthesize, it had still needed the elder's <span class=\"vocab-word\" data-word=\"mycelium\" title=\"The branching, thread-like body of a fungus that spreads underground or inside other organisms\">mycelium</span> bridges to access drought reserves stored deep underground. Drone surveys had later confirmed that connected groves had kept greener canopies during heat waves than fractured plots nearby.</p><p>Loggers had once cleared \"weak\" saplings to help profitable trees grow faster. Forest managers had assumed competition was the only rule. But after Simard's work had spread, some planners had begun leaving mother trees near new plantings—living hubs whose fungal links could nurse the next generation. Although climate change had stressed many woods, healthy fungal networks had helped forests recover from drought by redistributing water toward thirsty roots.</p><p>Next time you walk among <span class=\"vocab-word\" data-word=\"arboreal\" title=\"Relating to trees or living in trees\">arboreal</span> giants, imagine the floor as a dim ballroom of threads—billions of <span class=\"vocab-word\" data-word=\"hyphae\" title=\"The individual microscopic threads that make up a fungus body\">hyphae</span> dancing partner to partner, swapping sugar and warnings. The trees had never been alone. They had belonged to a <span class=\"vocab-word\" data-word=\"interconnected\" title=\"Connected with one another so that each part affects the whole\">interconnected</span> kingdom beneath your shoes, whispering in a language written in <span class=\"vocab-word\" data-word=\"nutrient\" title=\"A substance that provides nourishment essential for growth and maintenance\">nutrients</span> and time.</p>",
+      "passageHtml": "<p>In May 1919, when astronomer Arthur Eddington had photographed a solar eclipse from the island of Príncipe, he had not been chasing darkness for its own sake. He had tested a prediction so strange that newspapers had later announced: light itself could weigh. Stars near the hidden sun had appeared shifted from their expected positions—as if the sun's mass had dented the sky and forced starlight to slide along the dent. Although Newton's gravity had pulled objects, Einstein's newer theory had described space itself bending.</p><p>Einstein's general relativity had proposed that mass and energy had curved spacetime like a mattress under a bowling ball. Planets had rolled along those curves as if pulled by gravity, but light—despite having no rest mass—had still followed the shortest path through bent geometry. The effect was called <span class=\"vocab-word\" data-word=\"gravitational\" title=\"Relating to the force of attraction between masses, such as gravity\">gravitational</span> <span class=\"vocab-word\" data-word=\"lensing\" title=\"The bending and focusing of light by massive objects' gravity\">lensing</span>. Even though starlight had seemed straight for everyday life, a <span class=\"vocab-word\" data-word=\"relativistic\" title=\"Relating to Einstein's theory describing space, time, and gravity at extreme speeds or masses\">relativistic</span> correction had been required near massive bodies.</p><p>Black holes had pushed the idea to extremes. When a massive star had collapsed at the end of its life, <span class=\"vocab-word\" data-word=\"curvature\" title=\"The degree to which space or a surface is bent or deviates from flatness\">curvature</span> near the remnant had grown so steep that not even light could climb out. The boundary— the event horizon—had marked the point of no return. Inside, theory had predicted a <span class=\"vocab-word\" data-word=\"singularity\" title=\"A point where density becomes infinite, as theorized at the center of a black hole\">singularity</span> where known physics had broken down. Although no human had visited such a place, mathematics had drawn the portrait in equations.</p><p>Telescopes had later seen <span class=\"vocab-word\" data-word=\"gravitational\" title=\"Relating to the force of attraction between masses, such as gravity\">gravitational</span> <span class=\"vocab-word\" data-word=\"lensing\" title=\"The bending and focusing of light by massive objects' gravity\">lensing</span> everywhere. Galaxy clusters had acted like cosmic magnifying glasses, stretching background galaxies into arcs and rings—Einstein rings when alignment had been perfect. Astronomers had used these natural telescopes to study galaxies too faint to see otherwise. Even though the clusters had been invisible in ordinary light, their mass—mostly dark matter—had betrayed them through bent starlight.</p><p>In 2019, the Event Horizon Telescope collaboration had released the first image of a black hole's shadow in galaxy M87—a glowing doughnut of gas swirling around darkness. The ring's size had matched <span class=\"vocab-word\" data-word=\"relativistic\" title=\"Relating to Einstein's theory describing space, time, and gravity at extreme speeds or masses\">relativistic</span> predictions; the dark center had been where light had fallen inward forever. Although the image had looked simple, it had confirmed decades of theory born from eclipse plates and chalkboards.</p><p>Closer home, GPS satellites had needed relativistic clock corrections—gravity had slowed time slightly in orbit compared to Earth's surface. Without Einstein's math, your phone's map had drifted by miles daily. Although black holes had seemed exotic, <span class=\"vocab-word\" data-word=\"curvature\" title=\"The degree to which space or a surface is bent or deviates from flatness\">curvature</span> had touched everyday technology.</p><p>Next time you see a photo of a black hole's ring, remember Eddington's eclipse—proof that space had been malleable and starlight had obeyed hidden geometry. Although the <span class=\"vocab-word\" data-word=\"singularity\" title=\"A point where density becomes infinite, as theorized at the center of a black hole\">singularity</span> remained a mystery, the bending of light had been real enough to weigh worlds. Gravity had not merely pulled—it had sculpted the paths photons had traveled since the universe had first turned on its lamps.</p><p>Einstein's general relativity had predicted the bending of starlight decades before astronomers had photographed it. During a 1919 solar eclipse, Arthur Eddington's expedition had measured stars near the sun appearing slightly out of place—their light deflected by the sun's gravitational field. Although the shift had been tiny, newspapers had declared that space itself could curve, and a theory born at a desk had passed its first public test.</p><p>Modern observatories had turned gravitational lensing into a measuring tool. When distant galaxies had lined up behind massive clusters, their images had stretched into arcs and rings—Einstein rings—that had magnified light from objects too faint to see directly. Although the effect had once been a curiosity, cosmologists had used it to map dark matter that had never emitted a photon yet had bent light like invisible glass. Even though black holes had remained the most dramatic lenses, every massive object had tugged photons off straight lines—reminding stargazers that looking upward had always meant looking through gravity's sculpture.</p><p>",
       "questions": [
         {
           "id": "q1",
-          "question": "How did Suzanne Simard prove that trees share resources?",
-          "hint": "She used a radioactive tracer.",
-          "answers": [
-            "radioactive carbon",
-            "fed radioactive carbon to birch trees",
-            "traced carbon moving to firs",
-            "labeled carbon appeared in nearby trees"
+          "question": "What did Eddington's 1919 eclipse experiment demonstrate?",
+          "options": [
+            "Solar panels",
+            "Light bends around the sun",
+            "Computer code",
+            "Gravity slows clocks differently"
           ],
-          "explanation": "Simard fed radioactive carbon to birch trees and detected it later in nearby firs, showing carbon moved between trees through fungal connections."
+          "correctIndex": 1,
+          "revealHint": "The story said: \"Star positions shifted near the sun.\" — the answer is **Light bends around the sun**.",
+          "explanation": "During the 1919 solar eclipse, Eddington measured star positions near the sun and found light bent due to gravity, confirming Einstein's general relativity prediction.",
+          "hint": "Star positions shifted near the sun."
         },
         {
           "id": "q2",
-          "question": "What is the difference between hyphae and mycelium?",
-          "hint": "One is a single thread; one is the whole network.",
-          "answers": [
-            "hyphae are individual threads, mycelium is the whole network",
-            "hyphae are threads that form mycelium",
-            "single threads vs the full mesh"
+          "question": "What is gravitational lensing?",
+          "options": [
+            "Gravity slows clocks differently",
+            "Einstein rings",
+            "Gravity bends light",
+            "They stay silent"
           ],
-          "explanation": "Hyphae are individual microscopic fungal threads, while mycelium is the entire branching network those threads form underground."
+          "correctIndex": 2,
+          "revealHint": "The story said: \"Mass bends light like a lens.\" — the answer is **Gravity bends light**.",
+          "explanation": "Gravitational lensing is the bending and focusing of light when it passes near massive objects whose gravity curves spacetime.",
+          "hint": "Mass bends light like a lens."
         },
         {
           "id": "q3",
-          "question": "Why might an older tree send sugar to a shaded seedling?",
-          "hint": "Think about what the seedling returns later.",
-          "answers": [
-            "mutual benefit",
-            "exchange for nutrients later",
-            "cooperation through fungus",
-            "the seedling may share nitrogen and water later"
+          "question": "What is a singularity in black hole theory?",
+          "options": [
+            "Ancient myths only",
+            "Gravitational lensing of starlight",
+            "One year exactly",
+            "Infinite density point"
           ],
-          "explanation": "The older tree shares surplus carbon with struggling seedlings through fungi, and may receive nutrients like nitrogen and water in return—a cooperative exchange."
+          "correctIndex": 3,
+          "revealHint": "The story said: \"Center where physics breaks down.\" — the answer is **Infinite density point**.",
+          "explanation": "A singularity is the theorized point at a black hole's center where density becomes infinite and known physical laws no longer apply.",
+          "hint": "Center where physics breaks down."
         },
         {
           "id": "q4",
-          "question": "What happened when insects attacked one tree in a connected forest?",
-          "hint": "Neighbors responded before pests arrived.",
-          "answers": [
-            "warning signals spread",
-            "neighboring trees boosted defenses",
-            "chemical alarms traveled through the network",
-            "other trees prepared defenses early"
+          "question": "How do galaxy clusters act as natural telescopes?",
+          "options": [
+            "To scare humans",
+            "Gravitational lensing magnifies",
+            "Plastic pollution",
+            "Volcanic eruptions"
           ],
-          "explanation": "Chemical warning signals traveled through the fungal network, prompting neighboring trees to increase defensive chemicals before insects reached them."
+          "correctIndex": 1,
+          "revealHint": "The story said: \"They magnify background galaxies.\" — the answer is **Gravitational lensing magnifies**.",
+          "explanation": "Massive galaxy clusters gravitationally lens background galaxies, stretching them into arcs and rings that magnify otherwise too-faint objects for study.",
+          "hint": "They magnify background galaxies."
         },
         {
           "id": "q5",
-          "question": "Why are fungi described as different from plants in the passage?",
-          "hint": "Plants make food from sunlight; fungi do not.",
-          "answers": [
-            "fungi do not photosynthesize",
-            "they cannot make food from sunlight",
-            "fungi don't photosynthesize"
+          "question": "Why does GPS need relativistic corrections?",
+          "options": [
+            "Center of black hole",
+            "Gravity slows clocks differently",
+            "Gravity bends light",
+            "Light bends around the sun"
           ],
-          "explanation": "Unlike plants, fungi cannot photosynthesize; they extend hyphae through soil and exchange nutrients with tree roots instead of making their own food from sunlight."
+          "correctIndex": 1,
+          "revealHint": "The story said: \"Gravity affects time in orbit.\" — the answer is **Gravity slows clocks differently**.",
+          "explanation": "GPS satellites experience slightly different gravitational time dilation than receivers on Earth; without relativistic corrections, navigation would drift by miles daily.",
+          "hint": "Gravity affects time in orbit."
         }
       ],
       "curiosityHooks": [
-        "Grandma, is it true one mushroom organism in Oregon covers four square miles—and we could be standing on it without knowing?",
-        "Dad, when we plant a new tree in our yard, should we leave an older tree nearby to help it through the fungus network?",
-        "If trees can warn each other about bugs, do you think the forest 'knows' when we're walking through it?"
+        "Grandpa, starlight bends around the sun like it's sliding on a curved slide—does that mean space is actually dented?",
+        "Mom, if black holes eat light, how did we take a picture of one in 2019?",
+        "GPS needs Einstein's math or our maps drift miles—should we thank relativity for pizza delivery?"
       ],
-      "shareMessage": "We read about the 'Wood Wide Web' today! 🌲🍄\n\nTrees aren't loners—they share sugar, water, and warning signals through underground fungal networks called mycelium. Scientist Suzanne Simard traced radioactive carbon moving from birch to fir through fungal threads.\n\nEven attacked trees can alert neighbors through this hidden internet beneath the forest floor. Some fungal individuals span miles!\n\nAsk us what hyphae are and why loggers now sometimes leave 'mother trees' when planting new forests."
+      "shareMessage": "Today's essay was about black hole light bending! 🕳️✨\n\nEddington's 1919 eclipse proved starlight bends around the sun—confirming Einstein's gravitational lensing. Black holes curve spacetime so steeply light can't escape!\n\nGalaxy clusters magnify distant galaxies; the 2019 Event Horizon Telescope imaged a black hole's shadow. Even GPS needs relativistic corrections.\n\nAsk us what a singularity is and why light has weight!"
     },
     {
       "id": "2026-08-18",
       "date": "2026-08-18",
-      "dayIndex": 2,
-      "essayId": "essay-001",
-      "title": "The Ocean's Living Lanterns",
-      "topic": "Bioluminescence",
+      "dayIndex": 1,
+      "essayId": "essay-013",
+      "title": "Stars on the Cave Ceiling",
+      "topic": "Bioluminescent Caves",
       "words": [
         {
-          "word": "luminescent",
-          "definition": "Producing light without heat, as certain living organisms do"
+          "word": "subterranean",
+          "definition": "Existing, occurring, or found below the surface of the earth",
+          "exampleSentence": "Try saying: \"That is truly subterranean.\""
         },
         {
-          "word": "phosphorescent",
-          "definition": "Emitting a soft glow that continues after the light source is removed"
+          "word": "speleological",
+          "definition": "Relating to the scientific study of caves and cave systems",
+          "exampleSentence": "Try saying: \"That is truly speleological.\""
         },
         {
-          "word": "abyssal",
-          "definition": "Relating to the deepest parts of the ocean"
+          "word": "guano",
+          "definition": "Accumulated droppings of seabirds or bats, often rich in nutrients",
+          "exampleSentence": "Try saying: \"That is truly guano.\""
         },
         {
-          "word": "symbiotic",
-          "definition": "Involving two different organisms living together for mutual benefit"
+          "word": "phototrophic",
+          "definition": "Capable of using light as an energy source for growth",
+          "exampleSentence": "Try saying: \"That is truly phototrophic.\""
         },
         {
-          "word": "translucent",
-          "definition": "Allowing light to pass through but not clear enough to see through fully"
+          "word": "troglodytic",
+          "definition": "Adapted to living in caves or underground environments",
+          "exampleSentence": "Try saying: \"That is truly troglodytic.\""
         }
       ],
       "grammarRules": [
@@ -271,102 +180,118 @@
           "name": "Em dashes for emphasis"
         }
       ],
-      "passageHtml": "<p>Before electric lights had ever been invented, sailors had already witnessed something stranger than any torch. Out in the open ocean, miles from shore, the water itself had begun to glow. They had dipped their hands over the side of the ship and watched pale blue sparks swirl around their fingers—living light, cold and silent, rising from creatures too small to see. Although the sea looked empty in daylight, it had never truly been dark beneath the surface. Even though humans had feared the night for thousands of years, certain animals had solved that problem long before we did.</p><p>Bioluminescence—the chemical ability to produce light inside a living body—is one of nature's most elegant tricks. A molecule called luciferin reacts with oxygen, and an enzyme speeds the reaction until photons spill out. No filament burns. No bulb grows hot. The glow is <span class=\"vocab-word\" data-word=\"luminescent\" title=\"Producing light without heat, as certain living organisms do\">luminescent</span>, which means the light comes from chemistry, not fire. In the deep sea, where sunlight had vanished hundreds of meters above, this glow had become a language. Fish blink patterns to confuse predators. Squid release clouds of <span class=\"vocab-word\" data-word=\"phosphorescent\" title=\"Emitting a soft glow that continues after the light source is removed\">phosphorescent</span> ink that hang like ghosts in the water. Even jellyfish—delicate, <span class=\"vocab-word\" data-word=\"translucent\" title=\"Allowing light to pass through but not clear enough to see through fully\">translucent</span> bells drifting through the black—pulse with soft green fire.</p><p>Scientists had once believed the <span class=\"vocab-word\" data-word=\"abyssal\" title=\"Relating to the deepest parts of the ocean\">abyssal</span> zone was a desert. They had sent nets down and pulled up empty water. But when researchers had finally brought cameras instead of nets, the truth had changed completely. The deep was crowded with <span class=\"vocab-word\" data-word=\"luminescent\" title=\"Producing light without heat, as certain living organisms do\">luminescent</span> life—lanternfish with headlights beneath their eyes, anglerfish dangling glowing lures, shrimp that vomit light to startle attackers. Although pressure there could crush a submarine, these animals had evolved bodies like glass and light like signals.</p><p>On land, bioluminescence is rarer but no less magical. Fireflies had perfected timed flashes long before humans had learned to write. Each species had developed its own Morse code—a pattern of blinks that says, \"I am the right mate; do not eat me.\" Although a firefly's abdomen looks simple, the chemistry inside had been refined for millions of years. Some fungi glow <span class=\"vocab-word\" data-word=\"phosphorescent\" title=\"Emitting a soft glow that continues after the light source is removed\">phosphorescent</span> green on rotting logs, a phenomenon sailors once called foxfire. Even though the fungus gains nothing obvious from shining, the light may attract insects that spread its spores.</p><p>Perhaps the strangest partnership is <span class=\"vocab-word\" data-word=\"symbiotic\" title=\"Involving two different organisms living together for mutual benefit\">symbiotic</span>. The Hawaiian bobtail squid hatches without light organs. Within hours, it had gathered bioluminescent bacteria from the seawater and housed them in a special pouch under its body. The bacteria glow; the squid controls the brightness with shutters of black ink. Although the squid could hunt in moonlight without help, the bacteria had given it invisibility—when viewed from below, its belly matches the sky. Even though the bacteria live inside another creature, they had never stopped being independent organisms with their own genes and appetites.</p><p>Engineers had studied this glow for decades. They had copied firefly chemistry to test for contamination in food. They had inserted jellyfish genes into plants to make leaves faintly <span class=\"vocab-word\" data-word=\"luminescent\" title=\"Producing light without heat, as certain living organisms do\">luminescent</span>—a living night-light grown from soil. Although we had learned to manufacture LEDs, nature had solved efficient cold light first. The bobtail squid's <span class=\"vocab-word\" data-word=\"symbiotic\" title=\"Involving two different organisms living together for mutual benefit\">symbiotic</span> partnership with bacteria had become a classroom model for how separate species had learned to share tools. The ocean still holds species we have never filmed—creatures that had been signaling in the <span class=\"vocab-word\" data-word=\"abyssal\" title=\"Relating to the deepest parts of the ocean\">abyssal</span> dark since before dinosaurs walked the earth. Marine biologists had recently deployed robots that had recorded new flash patterns every season, proving the vocabulary of light was still expanding. Next time you switch off a lamp, remember: somewhere below the waves, a <span class=\"vocab-word\" data-word=\"translucent\" title=\"Allowing light to pass through but not clear enough to see through fully\">translucent</span> animal is writing its name in light, and it had been doing so long before anyone on deck had thought to look down.</p>",
+      "passageHtml": "<p>When explorer Floyd Collins had crawled into Kentucky limestone in the 1920s, he had carried lanterns—not because he had expected treasure, but because darkness there had been absolute. Yet in caves halfway around the world, from New Zealand to Vietnam, visitors today had witnessed something that had looked like bottled galaxies: thousands of blue-green points hanging from ceilings, drifting on threads, pulsing softly as if breathing. Although these were not stars, they had fooled the eye with the same quiet wonder.</p><p>Waitomo Cave on New Zealand's North Island had become famous for <span class=\"vocab-word\" data-word=\"subterranean\" title=\"Existing, occurring, or found below the surface of the earth\">subterranean</span> glowworm displays. The worms—actually larval fungus gnats—had spun silk snares beaded with sticky droplets and had lit their tails with biochemical light to lure flying insects into traps. Tour boats had drifted beneath constellations reflected in underground rivers while guides had spoken in whispers so as not to disturb hunting. Even though the scene had looked magical, it had been predation dressed as astronomy.</p><p>Other glowing caves had hosted <span class=\"vocab-word\" data-word=\"phototrophic\" title=\"Capable of using light as an energy source for growth\">phototrophic</span> bacteria on walls fed by minerals in dripping water. <span class=\"vocab-word\" data-word=\"Speleological\" title=\"Relating to the scientific study of caves and cave systems\">Speleological</span> teams had mapped chambers where microbial mats had shone faintly green, powered not by sun but by chemical energy in the rock. Although life without daylight had once seemed impossible, <span class=\"vocab-word\" data-word=\"troglodytic\" title=\"Adapted to living in caves or underground environments\">troglodytic</span> ecosystems had proved otherwise—bats, blind fish, pale crayfish, and fungi all threading a food web in perpetual twilight.</p><p>Bat colonies had often anchored these systems. Centuries of <span class=\"vocab-word\" data-word=\"guano\" title=\"Accumulated droppings of seabirds or bats, often rich in nutrients\">guano</span> had piled on cave floors, feeding insects and fungi that had in turn fed other cave dwellers. When tourists had first entered some chambers with torches, sensitive glowworm colonies had blinked out—disturbed by light, air currents, or carbon dioxide from breath. Although guides had switched to red-filtered lamps, conservationists had still debated how many visitors a fragile ceiling could tolerate.</p><p>Photographers had struggled to capture the glow without flash that would harm larvae. Long exposures had turned underground streams into mirrors doubling the illusion of sky. Scientists had measured light output per worm and had found it remarkably efficient—cold radiance evolved to attract prey, not heat the cave. Even though engineers had copied firefly chemistry for sensors, glowworms had perfected lure design without patents.</p><p>Climate change and land use had threatened water tables that had fed these caves. Pollution from agriculture had altered drip chemistry; drought had slowed the growth of stalactites that had taken millennia to form. Although <span class=\"vocab-word\" data-word=\"speleological\" title=\"Relating to the scientific study of caves and cave systems\">speleological</span> surveys had documented new chambers with remote robots, many glowworm populations had remained vulnerable to a single season of wrong humidity.</p><p>Next time you flip off a bedroom light, imagine a boat gliding under a <span class=\"vocab-word\" data-word=\"subterranean\" title=\"Existing, occurring, or found below the surface of the earth\">subterranean</span> firmament woven from silk and <span class=\"vocab-word\" data-word=\"guano\" title=\"Accumulated droppings of seabirds or bats, often rich in nutrients\">guano</span>-fed insects—each point a <span class=\"vocab-word\" data-word=\"troglodytic\" title=\"Adapted to living in caves or underground environments\">troglodytic</span> hunter advertising dinner in photons. Although the cave had never seen sunrise, it had invented its own night sky—and had kept it burning since before the first human had thought to strike flint.</p><p>Not every glowing cave had belonged to glowworms. In Puerto Rico's Río Camuy system and Vietnam's Hang Thung, explorers had documented fungal bioluminescence on rotting wood carried underground by floods. Although the light had been fainter than Waitomo's constellations, speleological teams had mapped chambers where entire fallen trees had glowed green like submerged auroras. Even though the fungi had gained no obvious benefit from shining in total darkness, insects attracted to light had spread spores along the cave floor—another predatory partnership written in photons.</p><p>Indigenous peoples had known some glowing caves long before tourism. Māori guides in New Zealand had passed stories about starless skies underground, treating the worms as taonga—treasures to protect rather than commodities to exploit. Although modern visitor centers had brought economic benefits to rural regions, elders had reminded managers that the cave had been a living river system, not a theater with a switch. When water quality had declined, glowworm numbers had dropped within a single season—proof that the ceiling's stars had depended on hillsides no tourist had ever photographed.</p><p>",
       "questions": [
         {
           "id": "q1",
-          "question": "What chemical process allows living things to produce light without heat?",
-          "hint": "Think about luciferin and oxygen.",
-          "answers": [
-            "bioluminescence",
-            "a chemical reaction with luciferin and oxygen",
-            "luciferin reacting with oxygen"
+          "question": "What creates the glowing display in New Zealand's Waitomo Cave?",
+          "options": [
+            "Glowworm larvae",
+            "Sensitive to torchlight and breath",
+            "Wind and storms",
+            "Solar panels"
           ],
-          "explanation": "Bioluminescence is a chemical reaction where luciferin combines with oxygen, catalyzed by an enzyme, producing light without heat."
+          "correctIndex": 0,
+          "revealHint": "The story said: \"Larvae, not stars.\" — the answer is **Glowworm larvae**.",
+          "explanation": "Waitomo's glowworms are larval fungus gnats that produce bioluminescent light at their tails to lure insects into sticky silk snares.",
+          "hint": "Larvae, not stars."
         },
         {
           "id": "q2",
-          "question": "Why does the Hawaiian bobtail squid keep bioluminescent bacteria in its body?",
-          "hint": "Consider what the glow does when viewed from below.",
-          "answers": [
-            "camouflage",
-            "invisibility",
-            "to match the sky and hide from predators below",
-            "counter-illumination"
+          "question": "Why is guano important in cave ecosystems?",
+          "options": [
+            "Chemical energy from minerals",
+            "Volcanic eruptions",
+            "Protect glowworm colonies",
+            "Nutrient source on cave floor"
           ],
-          "explanation": "The symbiotic bacteria light the squid's belly to match moonlight from above, making the squid harder for predators below to see."
+          "correctIndex": 3,
+          "revealHint": "The story said: \"Bat droppings feed other life.\" — the answer is **Nutrient source on cave floor**.",
+          "explanation": "Guano from bat colonies piles on cave floors, providing nutrients that support insects, fungi, and other organisms in the underground food web.",
+          "hint": "Bat droppings feed other life."
         },
         {
           "id": "q3",
-          "question": "What did early deep-sea explorers wrongly believe about the abyssal zone?",
-          "hint": "They used nets before cameras.",
-          "answers": [
-            "it was empty",
-            "a desert",
-            "that it was a lifeless desert",
-            "that nothing lived there"
+          "question": "What does troglodytic mean for cave organisms?",
+          "options": [
+            "Plastic pollution",
+            "Fungus gnat larvae",
+            "They avoid water",
+            "Adapted to cave life"
           ],
-          "explanation": "Nets often missed delicate glowing creatures, so scientists initially thought the deep ocean was barren until cameras revealed abundant bioluminescent life."
+          "correctIndex": 3,
+          "revealHint": "The story said: \"Adapted to underground life.\" — the answer is **Adapted to cave life**.",
+          "explanation": "Troglodytic describes organisms adapted to cave or underground environments—often with specialized traits for darkness, humidity, and limited food.",
+          "hint": "Adapted to underground life."
         },
         {
           "id": "q4",
-          "question": "How do fireflies use their light differently from deep-sea fish?",
-          "hint": "One uses timed patterns on land.",
-          "answers": [
-            "mating signals",
-            "species-specific blink patterns",
-            "to identify mates",
-            "timed flashes as a code"
+          "question": "Why do tour guides limit light and noise in glowworm caves?",
+          "options": [
+            "Glowworm larvae",
+            "Feeds insects and fungi",
+            "Only in summer",
+            "Protect glowworm colonies"
           ],
-          "explanation": "Fireflies flash in species-specific patterns to attract mates, while many deep-sea animals use light for defense, hunting, or communication in darkness."
+          "correctIndex": 3,
+          "revealHint": "The story said: \"Disturbance harms larvae.\" — the answer is **Protect glowworm colonies**.",
+          "explanation": "Bright light, air currents, and carbon dioxide from tourists can disturb or harm glowworm larvae, so guides use dim red-filtered lamps and quiet voices.",
+          "hint": "Disturbance harms larvae."
         },
         {
           "id": "q5",
-          "question": "What does it mean when light is described as phosphorescent in the passage?",
-          "hint": "Think about glow that lingers.",
-          "answers": [
-            "glow continues after the source stops",
-            "soft lingering glow",
-            "emits light that persists",
-            "glow that hangs like ghosts"
+          "question": "How can bacteria glow in caves without sunlight?",
+          "options": [
+            "Gravity alone",
+            "Light and CO2 disturb larvae",
+            "They never change",
+            "Phototrophic bacteria on walls"
           ],
-          "explanation": "Phosphorescent light continues to glow softly even after the initial energy source is gone, like squid ink clouds that linger in the water."
+          "correctIndex": 3,
+          "revealHint": "The story said: \"Phototrophic from chemical energy.\" — the answer is **Phototrophic bacteria on walls**.",
+          "explanation": "Some cave bacteria are phototrophic in a broader ecological sense, using energy from minerals in dripping water rather than sunlight to grow on cave walls.",
+          "hint": "Phototrophic from chemical energy."
         }
       ],
       "curiosityHooks": [
-        "Grandpa, did sailors really write about glowing seas in old ship logs—and could they have been telling the truth?",
-        "Mom, if we scooped ocean water at night, could we actually see those tiny blue sparks the sailors saw?",
-        "Why would a fungus bother glowing on a rotting log if it doesn't have eyes—who is the light for?"
+        "Grandma, glowworm caves look like riding a boat under the Milky Way—would you go if the ceiling is made of hungry larvae?",
+        "Mom, if bat poop feeds the whole cave food web, who do you think is the real landlord—the bats or the glowworms?",
+        "Tour guides whisper so they don't scare the worms—do you think the cave notices when we visit?"
       ],
-      "shareMessage": "Today's reading was about bioluminescence—living light! 🌊✨\n\nWe learned that fireflies, deep-sea fish, and even some fungi create cold light through chemistry, not fire. The Hawaiian bobtail squid keeps glowing bacteria like a natural night-light for camouflage.\n\nSailors saw the ocean glow centuries before electric bulbs existed. Scientists once thought the deep sea was empty—until cameras showed lanternfish and glowing jellyfish everywhere.\n\nAsk us why the squid's belly matches the moonlit sky!"
+      "shareMessage": "Today's essay was about bioluminescent caves! ✨🦇\n\nWaitomo Cave in New Zealand glows with fungus gnat larvae that use tail-light to lure prey into silk traps—like stars made of hunters!\n\nBat guano feeds underground ecosystems; speleologists study troglodytic life adapted to eternal dark. Tourist lights can harm fragile glowworm colonies.\n\nAsk us what guano is and why cave ceilings look like galaxies!"
     },
     {
       "id": "2026-08-19",
       "date": "2026-08-19",
-      "dayIndex": 3,
-      "essayId": "essay-004",
-      "title": "Honey That Outlasted Empires",
-      "topic": "Ancient Honey",
+      "dayIndex": 2,
+      "essayId": "essay-020",
+      "title": "The Reef's Single Night of Fire",
+      "topic": "Coral Spawning Sync",
       "words": [
         {
-          "word": "preservative",
-          "definition": "A substance used to keep food from spoiling or decaying"
+          "word": "gamete",
+          "definition": "A reproductive cell such as a sperm or egg that fuses with another to form a new organism",
+          "exampleSentence": "Try saying: \"That is truly gamete.\""
         },
         {
-          "word": "archaeologist",
-          "definition": "A scientist who studies human history by excavating and analyzing artifacts"
+          "word": "synchrony",
+          "definition": "The state of happening at the same time or operating in unison",
+          "exampleSentence": "Try saying: \"That is truly synchrony.\""
         },
         {
-          "word": "crystallized",
-          "definition": "Formed into solid crystals, often making a liquid thick or grainy"
+          "word": "polyps",
+          "definition": "Small tube-shaped animals that form coral colonies and secrete hard skeletons",
+          "exampleSentence": "Try saying: \"That is truly polyps.\""
         },
         {
-          "word": "edible",
-          "definition": "Safe and suitable to be eaten"
+          "word": "lunar",
+          "definition": "Relating to the moon or its cycles",
+          "exampleSentence": "Try saying: \"That is truly lunar.\""
         },
         {
-          "word": "excavation",
-          "definition": "The process of digging carefully to uncover buried remains or artifacts"
+          "word": "broadcast",
+          "definition": "To release or send out widely, as coral releasing eggs and sperm into water",
+          "exampleSentence": "Try saying: \"That is truly broadcast.\""
         }
       ],
       "grammarRules": [
@@ -383,102 +308,118 @@
           "name": "Em dashes for emphasis"
         }
       ],
-      "passageHtml": "<p>In 1922, when Howard Carter had finally peered into Tutankhamun's tomb, the air had tasted of dust and sealed time. Gold masks had gleamed. Linen had crumbled at a touch. Yet in clay vessels near the burial chamber, something unexpected had survived: honey—still recognizable, still <span class=\"vocab-word\" data-word=\"edible\" title=\"Safe and suitable to be eaten\">edible</span> after three thousand years. Although bread beside it had disintegrated into powder, the honey had remained. Even though the Pharaoh's name had faded from memory for centuries, the bees' work had outlasted empires.</p><p>Honey's secret is chemistry acting as a natural <span class=\"vocab-word\" data-word=\"preservative\" title=\"A substance used to keep food from spoiling or decaying\">preservative</span>. Bees collect nectar and fan their wings over it until water evaporates, leaving a thick syrup dominated by sugar. Sugar binds water so tightly that most bacteria cannot grow. The bees also add enzymes that produce small amounts of hydrogen peroxide—another barrier against microbes. Although ancient cooks had not known molecular formulas, they had noticed honey's staying power. Roman soldiers had carried it as field rations. Egyptian priests had offered it to gods. Medieval healers had packed wounds with it long before modern antibiotics had existed.</p><p><span class=\"vocab-word\" data-word=\"archaeologist\" title=\"A scientist who studies human history by excavating and analyzing artifacts\">Archaeologists</span> had found honey in many contexts—not only Egypt. In Georgia, an <span class=\"vocab-word\" data-word=\"excavation\" title=\"The process of digging carefully to uncover buried remains or artifacts\">excavation</span> of burial jars had revealed residues dated to roughly five thousand years ago. Although the containers had cracked, chemical traces had confirmed beeswax and honey compounds. Even though no one had planned to eat those samples, the discovery had proved humans had harvested honey long before written history. Cave paintings in Spain had shown figures climbing toward wild hives with smoke pots—evidence that the partnership between people and bees had deep roots. Later digs in Mediterranean shipwrecks had turned up amphorae sealed with wax, and every careful <span class=\"vocab-word\" data-word=\"excavation\" title=\"The process of digging carefully to uncover buried remains or artifacts\">excavation</span> had seemed to push the timeline backward. An <span class=\"vocab-word\" data-word=\"archaeologist\" title=\"A scientist who studies human history by excavating and analyzing artifacts\">archaeologist</span> working beside a chemist could now identify honey by molecular fingerprint even when the jar had shattered.</p><p>Not all old honey looks appetizing. Over decades, pure honey often <span class=\"vocab-word\" data-word=\"crystallized\" title=\"Formed into solid crystals, often making a liquid thick or grainy\">crystallized</span>—sugar forming solid grains that turn smooth syrup grainy and pale. Although crystallization looks like spoilage, it is natural. Warm the jar gently and crystals dissolve again. Tomb honey had sometimes darkened and thickened beyond recognition, yet laboratory tests had shown it remained <span class=\"vocab-word\" data-word=\"edible\" title=\"Safe and suitable to be eaten\">edible</span> because microbes had never gained a foothold. Even though flavor molecules had faded, the <span class=\"vocab-word\" data-word=\"preservative\" title=\"A substance used to keep food from spoiling or decaying\">preservative</span> structure had held.</p><p>Modern scientists had begun revisiting honey as medicine. When drug-resistant infections had risen, researchers had tested medical-grade honey on wounds. Although hospitals now prefer sterile processed products, the principle was ancient. Honey draws fluid from bacteria, keeps skin moist, and reduces inflammation. Although their tools differ, both an <span class=\"vocab-word\" data-word=\"archaeologist\" title=\"A scientist who studies human history by excavating and analyzing artifacts\">archaeologist</span> and a doctor had asked why something in a clay pot had refused to rot.</p><p>Climate change had threatened today's hives—bees facing pesticides, habitat loss, and shifting flowers. Although ancient honey had survived millennia in sealed tombs, living bees had never been guaranteed tomorrow. Beekeepers had raced to protect pollinators because without them, almonds, apples, and countless wild plants had struggled to set fruit. The golden thread from Tutankhamun's tomb to your breakfast table had depended on insects still buzzing in orchards. Ancient beekeepers had painted hives on tomb walls, hoping sweetness would follow kings into the afterlife—a wish that honey, at least, had fulfilled.</p><p>So the next time you drizzle honey on toast, consider what you hold: sunlight compressed by flowers, transformed by bees, defended by sugar against time itself. Pharaohs had been buried with it. Soldiers had marched on it. Jars had <span class=\"vocab-word\" data-word=\"crystallized\" title=\"Formed into solid crystals, often making a liquid thick or grainy\">crystallized</span> in cupboards while dynasties fell. Although empires had risen and vanished, honey had kept its bargain—sweet, sealed, and patiently <span class=\"vocab-word\" data-word=\"edible\" title=\"Safe and suitable to be eaten\">edible</span> long after the hands that harvested it had turned to dust.</p>",
+      "passageHtml": "<p>On one moonlit night each year near the Great Barrier Reef, the ocean had sometimes looked as if it had snowed upside down—billions of pink and orange globules had risen from coral heads, drifting upward until the surface had shimmered like a sunset had dissolved into water. Divers who had witnessed the event had described silence broken only by bubbles and awe. Although any single coral polyp had seemed stationary and rock-like, entire reefs had coordinated the greatest group release of <span class=\"vocab-word\" data-word=\"gamete\" title=\"A reproductive cell such as a sperm or egg that fuses with another to form a new organism\">gamete</span>s on Earth.</p><p>Corals are colonies of tiny <span class=\"vocab-word\" data-word=\"polyps\" title=\"Small tube-shaped animals that form coral colonies and secrete hard skeletons\">polyps</span>—animals related to jellyfish that had built limestone apartments over generations. Most had reproduced sexually by <span class=\"vocab-word\" data-word=\"broadcast\" title=\"To release or send out widely, as coral releasing eggs and sperm into water\">broadcast</span> spawning: eggs and sperm had been dumped into currents to meet by chance. That strategy had only worked if neighbors had released at once; otherwise gametes had diluted into useless soup. Even though individual polyps had lacked eyes, the reef had synchronized like an orchestra without a visible conductor.</p><p>Scientists had pinned timing to <span class=\"vocab-word\" data-word=\"lunar\" title=\"Relating to the moon or its cycles\">lunar</span> cues—often a full moon in spring or summer depending on species and latitude—combined with water temperature and sunset light. When conditions had aligned, chemical signals had rippled through colonies and <span class=\"vocab-word\" data-word=\"synchrony\" title=\"The state of happening at the same time or operating in unison\">synchrony</span> had exploded within hours. Although researchers had once guessed spawning had been random, night dives had proved otherwise; calendars had now been published predicting peak nights for tour boats and graduate students alike.</p><p>The <span class=\"vocab-word\" data-word=\"broadcast\" title=\"To release or send out widely, as coral releasing eggs and sperm into water\">broadcast</span> cloud had fed plankton and fish while fertilized eggs had developed into larvae that had drifted days or weeks before settling on hard substrate. One successful night had seeded reefs miles away. Climate change had threatened the ritual— overheated water had caused bleaching that had weakened polyps and disrupted timing. Even though some colonies had spawned after partial recovery, mismatched <span class=\"vocab-word\" data-word=\"synchrony\" title=\"The state of happening at the same time or operating in unison\">synchrony</span> had reduced fertilization when neighbors had died.</p><p>Aquarium biologists had replicated <span class=\"vocab-word\" data-word=\"lunar\" title=\"Relating to the moon or its cycles\">lunar</span> cycles in tanks to induce spawning for restoration projects, collecting larvae to seed damaged reefs. Although lab coral had never matched wild spectacle, the technique had offered hope where storms and heat had scraped reefs bare.</p><p>Indigenous reef cultures had long noticed seasonal rises of slick spawn slicks on water—signs that fish runs would follow. Marine parks had restricted anchoring on predicted nights so propellers had not shredded floating <span class=\"vocab-word\" data-word=\"gamete\" title=\"A reproductive cell such as a sperm or egg that fuses with another to form a new organism\">gamete</span> clouds. Although tourists had booked flights to glimpse the snowstorm, the event had remained fundamentally fragile—one warm year could shift everything.</p><p>Next time you see a coral photo, imagine what had happened after dark when millions of <span class=\"vocab-word\" data-word=\"polyps\" title=\"Small tube-shaped animals that form coral colonies and secrete hard skeletons\">polyps</span> had opened like tiny chimneys and the sea had filled with future reefs. Although the colony had looked like stone by day, it had <span class=\"vocab-word\" data-word=\"broadcast\" title=\"To release or send out widely, as coral releasing eggs and sperm into water\">broadcast</span> life by moonlight—proof that the quietest neighborhoods had sometimes thrown the wildest parties on the planet.</p><p>Divers who had witnessed a mass spawn had described the ocean turning into a blizzard of pink and white—millions of egg and sperm bundles rising toward the surface in synchronized clouds. Although individual polyps had looked like static rocks by day, they had become fountains after dark, releasing gametes within minutes of neighbors both near and far. Satellite temperature data and lunar calendars had helped scientists predict the night, but local cues—water chemistry, sunset light—had still mattered enough that predictions had occasionally missed by a day.</p><p>Climate stress had threatened the timing. When seas had warmed too quickly, some reefs had spawned out of sync, reducing fertilization because eggs and sperm had drifted alone. Although captive breeding programs had collected gametes in floating nurseries, restoration had depended on wild reefs still firing together like biological fireworks. Even though a single polyp had seemed insignificant, its willingness to release on the same moon as thousands of cousins had been the difference between a reef reborn and a reef remembered only in photographs.</p><p>",
       "questions": [
         {
           "id": "q1",
-          "question": "Why does honey resist spoiling for thousands of years?",
-          "hint": "Think about sugar and water.",
-          "answers": [
-            "low water and high sugar",
-            "sugar binds water",
-            "natural preservative chemistry",
-            "hydrogen peroxide and low moisture"
+          "question": "What is coral broadcast spawning?",
+          "options": [
+            "They never change",
+            "Gravity alone",
+            "Releasing gametes into water",
+            "Only on land"
           ],
-          "explanation": "Honey's low moisture and high sugar bind water so bacteria cannot grow; enzymes also produce hydrogen peroxide that inhibits microbes."
+          "correctIndex": 2,
+          "revealHint": "The story said: \"Releasing eggs and sperm into water.\" — the answer is **Releasing gametes into water**.",
+          "explanation": "Broadcast spawning is when coral polyps simultaneously release eggs and sperm into the water column for external fertilization by chance meeting in currents.",
+          "hint": "Releasing eggs and sperm into water."
         },
         {
           "id": "q2",
-          "question": "What did archaeologists find in Tutankhamun's tomb that was still edible?",
-          "hint": "It was in clay vessels.",
-          "answers": [
-            "honey",
-            "three-thousand-year-old honey",
-            "honey in clay vessels"
+          "question": "Why must corals spawn in synchrony?",
+          "options": [
+            "Increase fertilization success",
+            "Small coral animals",
+            "One year exactly",
+            "Radio waves"
           ],
-          "explanation": "Clay vessels in Tutankhamun's tomb contained honey that remained recognizable and edible after approximately three thousand years."
+          "correctIndex": 0,
+          "revealHint": "The story said: \"Gametes must meet before diluting.\" — the answer is **Increase fertilization success**.",
+          "explanation": "Synchronized spawning ensures enough gametes are present at once for successful fertilization before they disperse and dilute in ocean currents.",
+          "hint": "Gametes must meet before diluting."
         },
         {
           "id": "q3",
-          "question": "Is crystallized honey spoiled?",
-          "hint": "Heating can reverse it.",
-          "answers": [
-            "no",
-            "no it is natural",
-            "crystallization is natural not spoilage",
-            "not spoiled"
+          "question": "What cues trigger synchronized coral spawning?",
+          "options": [
+            "Small coral animals",
+            "Lunar cycles and temperature",
+            "Only at night",
+            "To make noise"
           ],
-          "explanation": "Crystallization is a natural process where sugar forms grains; gently warming the honey dissolves crystals and does not indicate spoilage."
+          "correctIndex": 1,
+          "revealHint": "The story said: \"Moon, temperature, sunset.\" — the answer is **Lunar cycles and temperature**.",
+          "explanation": "Coral spawning typically aligns with lunar cycles—often full moons—combined with seasonal water temperature and sunset light patterns.",
+          "hint": "Moon, temperature, sunset."
         },
         {
           "id": "q4",
-          "question": "How did ancient people use honey besides eating it?",
-          "hint": "Roman soldiers and wound care.",
-          "answers": [
-            "medicine",
-            "wound dressing",
-            "field rations",
-            "offerings to gods and healing wounds"
+          "question": "What are coral polyps?",
+          "options": [
+            "Photosynthesis only",
+            "Small coral animals",
+            "To scare humans",
+            "For no reason"
           ],
-          "explanation": "Ancient cultures used honey as food rations, religious offerings, and wound dressings because its preservative and antimicrobial properties aided healing."
+          "correctIndex": 1,
+          "revealHint": "The story said: \"Tiny animals building reefs.\" — the answer is **Small coral animals**.",
+          "explanation": "Polyps are small tube-shaped animals that form coral colonies, secrete hard limestone skeletons, and collectively build reef structures.",
+          "hint": "Tiny animals building reefs."
         },
         {
           "id": "q5",
-          "question": "What evidence shows humans harvested honey before written history?",
-          "hint": "Paintings and Georgian jars.",
-          "answers": [
-            "cave paintings",
-            "5000-year-old residues in Georgia",
-            "Spanish cave art of climbing for hives",
-            "ancient burial jar residues"
+          "question": "How does climate change threaten coral spawning?",
+          "options": [
+            "Photosynthesis only",
+            "Eggs and sperm dumped into currents",
+            "To look pretty",
+            "Bleaching weakens polyps"
           ],
-          "explanation": "Spanish cave paintings depict honey gathering, and Georgian excavations found five-thousand-year-old honey residues, proving early honey harvesting."
+          "correctIndex": 3,
+          "revealHint": "The story said: \"Bleaching disrupts timing and health.\" — the answer is **Bleaching weakens polyps**.",
+          "explanation": "Ocean warming causes bleaching that weakens polyps, kills colonies, and disrupts the synchronized timing needed for successful mass spawning.",
+          "hint": "Bleaching disrupts timing and health."
         }
       ],
       "curiosityHooks": [
-        "Grandma, would you taste three-thousand-year-old honey from King Tut's tomb if someone offered it on a cracker?",
-        "Dad, why does our honey at home turn grainy—and does warming the jar really fix it?",
-        "If honey never spoils, why do beekeepers worry so much about bees dying today?"
+        "Grandma, the whole reef 'snows' eggs one moonlit night a year—would you go diving if it looks like sunset in the water?",
+        "Mom, corals sync spawning like a secret calendar—how do you think they agree without phones?",
+        "If climate change messes up the sync, baby corals might never meet—what can we do to keep the reef's party on schedule?"
       ],
-      "shareMessage": "We read about ancient honey today! 🍯👑\n\nHoney in Tutankhamun's tomb was still edible after 3,000 years because sugar and low moisture act as a natural preservative. Bread beside it crumbled to dust!\n\nArchaeologists found honey residues 5,000 years old in Georgia. Crystallized honey isn't spoiled—just sugar forming crystals.\n\nAncient Romans, Egyptians, and medieval healers all used honey as food and medicine. Ask us why bacteria can't grow in it!"
+      "shareMessage": "Today's reading was about coral spawning sync! 🪸🌕\n\nCoral polyps release gametes together on predicted full-moon nights—broadcast spawning that looks like an underwater snowstorm!\n\nSynchrony ensures fertilization before gametes drift away. Scientists track lunar and temperature cues; climate bleaching threatens the timing.\n\nAsk us what a gamete is and why the whole reef spawns on one night!"
     },
     {
       "id": "2026-08-20",
       "date": "2026-08-20",
-      "dayIndex": 4,
-      "essayId": "essay-005",
-      "title": "The Indestructible Speck",
-      "topic": "Tardigrades",
+      "dayIndex": 3,
+      "essayId": "essay-012",
+      "title": "Songs That Cross Oceans",
+      "topic": "Whale Song Culture",
       "words": [
         {
-          "word": "microscopic",
-          "definition": "Too small to be seen clearly without a microscope"
+          "word": "cetacean",
+          "definition": "A marine mammal such as a whale, dolphin, or porpoise",
+          "exampleSentence": "Try saying: \"That is truly cetacean.\""
         },
         {
-          "word": "cryptobiosis",
-          "definition": "A state where metabolism nearly stops, allowing survival in extreme conditions"
+          "word": "dialect",
+          "definition": "A regional or group-specific form of language or communication",
+          "exampleSentence": "Try saying: \"That is truly dialect.\""
         },
         {
-          "word": "extremophile",
-          "definition": "An organism that thrives in physically or chemically extreme environments"
+          "word": "acoustic",
+          "definition": "Relating to sound or the sense of hearing",
+          "exampleSentence": "Try saying: \"That is truly acoustic.\""
         },
         {
-          "word": "indestructible",
-          "definition": "Impossible or very difficult to destroy"
+          "word": "pod",
+          "definition": "A social group of whales or dolphins that travel and feed together",
+          "exampleSentence": "Try saying: \"That is truly pod.\""
         },
         {
-          "word": "desiccation",
-          "definition": "The process of becoming completely dried out"
+          "word": "repertoire",
+          "definition": "The full set of songs, calls, or performances an individual or group can produce",
+          "exampleSentence": "Try saying: \"That is truly repertoire.\""
         }
       ],
       "grammarRules": [
@@ -495,100 +436,118 @@
           "name": "Em dashes for emphasis"
         }
       ],
-      "passageHtml": "<p>In 1773, a German pastor named Johann August Ephraim Goeze had peered through a microscope at moss from a garden pond and noticed tiny animals he called \"little water bears.\" They had plodded on clawed feet, bodies rounded and oddly charming. Goeze had no idea that he had found Earth's most <span class=\"vocab-word\" data-word=\"indestructible\" title=\"Impossible or very difficult to destroy\">indestructible</span> commuters—tardigrades, now famous among biologists as survival artists barely visible to the naked eye. Although they had looked soft and slow, later scientists had discovered powers that seemed borrowed from science fiction.</p><p>Tardigrades are <span class=\"vocab-word\" data-word=\"microscopic\" title=\"Too small to be seen clearly without a microscope\">microscopic</span>—most between 0.3 and 0.5 millimeters, smaller than a grain of salt. They live in moss, soil, beach sand, and mountain streams. When conditions turn harsh, they enter <span class=\"vocab-word\" data-word=\"cryptobiosis\" title=\"A state where metabolism nearly stops, allowing survival in extreme conditions\">cryptobiosis</span>—a deathlike pause where metabolism had nearly stopped. Their bodies had lost almost all water, curling into dry tun shapes called cysts. Although a tardigrade in cryptobiosis looked dead, it had simply been waiting. Add water and within minutes it had walked away as if nothing had happened.</p><p>Researchers had tested tardigrades in ways no pet should ever experience. Specimens had survived <span class=\"vocab-word\" data-word=\"desiccation\" title=\"The process of becoming completely dried out\">desiccation</span> for decades in museum drawers. Laboratory teams had deliberately induced <span class=\"vocab-word\" data-word=\"desiccation\" title=\"The process of becoming completely dried out\">desiccation</span> and revival hundreds of times, timing how quickly metabolism had restarted. They had endured temperatures near absolute zero and hotter than boiling water. Radiation doses that would kill a human had barely fazed them. Although space vacuum and solar radiation had destroyed most life, tardigrades on the outside of a rocket had survived exposure in orbit. Even though they were not classic <span class=\"vocab-word\" data-word=\"extremophile\" title=\"An organism that thrives in physically or chemically extreme environments\">extremophiles</span>—they do not actively thrive in boiling acid—they had tolerated extremes that would erase nearly anything else. Compared to true <span class=\"vocab-word\" data-word=\"extremophile\" title=\"An organism that thrives in physically or chemically extreme environments\">extremophiles</span> colonizing volcanic vents, tardigrades had chosen a different strategy: pause, dry out, and wait.</p><p>How? Inside the tun, special proteins had replaced water in cells, forming a glass-like matrix that protected DNA and organs. When water returned, the matrix had dissolved and life had resumed. Although scientists had copied these proteins to help preserve vaccines, the tardigrade had perfected the trick without laboratories. Genetic studies had also found borrowed DNA—genes from bacteria and fungi—suggesting ancient horizontal gene transfer had strengthened their defenses. Museum curators had learned to handle moss samples gently, knowing that invisible passengers might wake after centuries of silence.</p><p>Tardigrades had existed for over five hundred million years, predating dinosaurs, predating flowers. Fossil relatives had been rare, yet molecular clocks had confirmed their deep timeline. Field biologists had scooped lichen from Antarctic valleys and found the same hardy animals thriving beside glaciers. Although popular articles had called them <span class=\"vocab-word\" data-word=\"indestructible\" title=\"Impossible or very difficult to destroy\">indestructible</span>, they could still be eaten by nematodes and amoebas in moss. Even immortality, it seemed, had small print.</p><p>Space agencies had grown interested. If humans had ever wanted to safeguard earthly life during interplanetary travel—or study how life might spread between worlds—tardigrades had offered clues. Although they had not built rockets, they had already survived the kind of vacuum and radiation found outside spacecraft. Biologists had wondered whether <span class=\"vocab-word\" data-word=\"microscopic\" title=\"Too small to be seen clearly without a microscope\">microscopic</span> travelers like these had hitched rides on meteorites in Earth's deep past—a controversial idea called panspermia.</p><p>Next time you pass a patch of moss, imagine thousands of <span class=\"vocab-word\" data-word=\"microscopic\" title=\"Too small to be seen clearly without a microscope\">microscopic</span> bears suspended in <span class=\"vocab-word\" data-word=\"cryptobiosis\" title=\"A state where metabolism nearly stops, allowing survival in extreme conditions\">cryptobiosis</span>, waiting for rain. They had outlasted ice ages and asteroid impacts. Although they will never write poetry or build cities, tardigrades had mastered a lesson worth remembering: sometimes survival means becoming almost nothing—dry, still, patient—until the world had turned gentle again. In that pause, the tiniest bear had outlasted creatures a million times its size.</p>",
+      "passageHtml": "<p>In 1970, when bioacoustician Roger Payne had first played humpback whale recordings for audiences, listeners had wept. The sounds had risen and fallen like slow jazz—moans, chirps, glissandos spanning octaves no human singer could sustain underwater. Although sailors had heard whale calls for centuries, scientists had dismissed them as random noise until Payne had shown structure, repetition, and change across seasons. Even though the ocean had seemed silent from shore, humpbacks had been broadcasting culture.</p><p>Whales are <span class=\"vocab-word\" data-word=\"cetacean\" title=\"A marine mammal such as a whale, dolphin, or porpoise\">cetacean</span>s—mammals that had returned to the sea and evolved <span class=\"vocab-word\" data-word=\"acoustic\" title=\"Relating to sound or the sense of hearing\">acoustic</span> superpowers. Sound had traveled four times faster in water than air and had carried for hundreds of miles along deep channels. Each humpback <span class=\"vocab-word\" data-word=\"pod\" title=\"A social group of whales or dolphins that travel and feed together\">pod</span> had shared feeding grounds, migration routes, and—remarkably—songs that had shifted year to year like pop charts. Males had sung long suites during breeding season, sometimes for hours without pause. Although the songs had clearly mattered for mating, the exact message had remained partly mysterious—advertising fitness, coordinating groups, or echo-mapping coastlines had all been proposed. What had stunned researchers was cultural transmission: when one population had invented a new phrase, neighboring groups had often adopted it until an old <span class=\"vocab-word\" data-word=\"repertoire\" title=\"The full set of songs, calls, or performances an individual or group can produce\">repertoire</span> had been replaced entirely within a decade. Even though whales had no written scores, they had rewritten hits faster than some human towns had changed radio playlists.</p><p>Distinct <span class=\"vocab-word\" data-word=\"dialect\" title=\"A regional or group-specific form of language or communication\">dialect</span>s had mapped onto geography. Pacific humpbacks had sounded unlike Atlantic ones; pods off Australia had carried phrases unknown near Hawaii until a revolutionary song had swept eastward like a trend. Biologists had tracked the spread using hydrophones—underwater microphones anchored to the seafloor. Although genetics had shown whales were related across oceans, their <span class=\"vocab-word\" data-word=\"acoustic\" title=\"Relating to sound or the sense of hearing\">acoustic</span> identities had been learned, not inherited.</p><p>Other <span class=\"vocab-word\" data-word=\"cetacean\" title=\"A marine mammal such as a whale, dolphin, or porpoise\">cetacean</span>s had displayed vocal culture too. Orca pods had passed unique call sets across generations—family accents so stable that researchers had identified clans by ear alone. Sperm whales had clicked in codas, rhythmic patterns that had differed between clans like Morse code accents. Although dolphins had whistled signature names for themselves, humpbacks had composed the ocean's longest mixtapes.</p><p>Human noise had threatened these channels. Shipping engines, naval sonar, and seismic surveys had cluttered the frequencies whales had used for song and navigation. When COVID-19 had briefly slowed global shipping in 2020, scientists had recorded quieter seas and stress hormones dropping in some <span class=\"vocab-word\" data-word=\"cetacean\" title=\"A marine mammal such as a whale, dolphin, or porpoise\">cetacean</span> populations. Even though regulations had begun limiting speed near breeding grounds, the underwater soundscape had never returned to the silence whales had known a century ago.</p><p>Next time you hear a whale recording, remember it had not been a solo—it had been one voice in a <span class=\"vocab-word\" data-word=\"pod\" title=\"A social group of whales or dolphins that travel and feed together\">pod</span> learning a <span class=\"vocab-word\" data-word=\"dialect\" title=\"A regional or group-specific form of language or communication\">dialect</span> that had changed every season. Although we had mapped continents with satellites, whales had mapped belonging with sound. Their <span class=\"vocab-word\" data-word=\"repertoire\" title=\"The full set of songs, calls, or performances an individual or group can produce\">repertoire</span> had been memory, identity, and invitation rolled into one long note beneath the waves.</p><p>Recording technology had transformed whale research. Before portable hydrophones, scientists had leaned over boat rails with microphones dipped in kelp-stained water. Today autonomous buoys had listened continuously, uploading terabytes of song to servers that had never slept. Although machine-learning tools had begun picking out new phrases faster than human ears, graduate students had still spent nights wearing headphones, learning to recognize the sighing introduction that had announced a humpback's theme.</p><p>Conservation had depended on those recordings. When shipping lanes had been moved away from breeding grounds, researchers had compared song clarity before and after—measuring whether males had sung longer suites when engines had grown distant. Even though whales had no vote in harbor planning, their acoustic repertoire had become evidence in courtrooms arguing for quieter seas. Although the ocean had never been silent, the baseline humans had chosen for restoration had been the decade when Payne had first pressed play and listeners had wept at what they had heard.</p><p>",
       "questions": [
         {
           "id": "q1",
-          "question": "What is cryptobiosis in tardigrades?",
-          "hint": "Think deathlike pause with almost no metabolism.",
-          "answers": [
-            "metabolism nearly stops",
-            "a dried tun state",
-            "deathlike suspended animation",
-            "paused state waiting for water"
+          "question": "What did Roger Payne demonstrate about humpback whale sounds in 1970?",
+          "options": [
+            "Structured repeatable songs",
+            "Unique phrases per region",
+            "Random luck",
+            "One year exactly"
           ],
-          "explanation": "Cryptobiosis is a state where tardigrades lose most of their water and nearly stop metabolism, allowing them to survive harsh conditions until water returns."
+          "correctIndex": 0,
+          "revealHint": "The story said: \"Not random noise—structured songs.\" — the answer is **Structured repeatable songs**.",
+          "explanation": "Roger Payne showed humpback vocalizations were structured, repeating songs that changed across seasons—not random noise as previously assumed.",
+          "hint": "Not random noise—structured songs."
         },
         {
           "id": "q2",
-          "question": "How have tardigrades survived exposure to space?",
-          "hint": "Special proteins form a glass-like matrix.",
-          "answers": [
-            "protective proteins replace water",
-            "glass-like matrix protects DNA",
-            "tun formation",
-            "desiccation proteins shield cells"
+          "question": "How do whale songs spread between populations?",
+          "options": [
+            "Only at night",
+            "Random luck",
+            "Cultural transmission",
+            "To make noise"
           ],
-          "explanation": "In their tun state, special proteins replace water in cells, forming a protective glass-like matrix that shields DNA and organs from vacuum and radiation."
+          "correctIndex": 2,
+          "revealHint": "The story said: \"New phrases adopted like trends.\" — the answer is **Cultural transmission**.",
+          "explanation": "Whale populations culturally transmit songs—when one group invents new phrases, neighbors often adopt them until entire repertoires are replaced within years.",
+          "hint": "New phrases adopted like trends."
         },
         {
           "id": "q3",
-          "question": "Who first described 'little water bears' in 1773?",
-          "hint": "A German pastor with a microscope.",
-          "answers": [
-            "Johann August Ephraim Goeze",
-            "Goeze",
-            "pastor Goeze"
+          "question": "What is a whale dialect in this passage?",
+          "options": [
+            "They avoid water",
+            "Burning wood",
+            "Plastic pollution",
+            "Regional song differences"
           ],
-          "explanation": "German pastor Johann August Ephraim Goeze first described tardigrades in 1773, naming them 'little water bears' for their appearance."
+          "correctIndex": 3,
+          "revealHint": "The story said: \"Regional differences in song.\" — the answer is **Regional song differences**.",
+          "explanation": "Whale dialects are region-specific vocal patterns—Pacific humpbacks sound different from Atlantic ones, with distinct phrases tied to geography.",
+          "hint": "Regional differences in song."
         },
         {
           "id": "q4",
-          "question": "Why are tardigrades not considered classic extremophiles despite surviving extremes?",
-          "hint": "They tolerate extremes but don't thrive in them.",
-          "answers": [
-            "they tolerate but don't thrive in extremes",
-            "they don't actively live in boiling acid",
-            "survival not thriving in harsh conditions"
+          "question": "Why is sound especially important for cetaceans underwater?",
+          "options": [
+            "Quieter oceans during COVID slowdown",
+            "Sound travels far underwater",
+            "Computer code",
+            "Songs spread like trends"
           ],
-          "explanation": "Extremophiles actively thrive in extreme environments; tardigrades endure harsh conditions in cryptobiosis but normally live in mild moss and soil habitats."
+          "correctIndex": 1,
+          "revealHint": "The story said: \"Travels far and fast in water.\" — the answer is **Sound travels far underwater**.",
+          "explanation": "Sound travels about four times faster in water than air and can carry hundreds of miles along deep channels, making acoustic communication essential for cetaceans.",
+          "hint": "Travels far and fast in water."
         },
         {
           "id": "q5",
-          "question": "What limits the idea that tardigrades are truly indestructible?",
-          "hint": "Small predators in moss.",
-          "answers": [
-            "eaten by nematodes and amoebas",
-            "predators still eat them",
-            "nematodes and amoebas prey on them"
+          "question": "What happened to ocean noise during the 2020 shipping slowdown?",
+          "options": [
+            "They never change",
+            "Not random but organized vocalizations",
+            "Group-specific vocal patterns",
+            "Seas got quieter"
           ],
-          "explanation": "Despite extreme tolerance, tardigrades can still be eaten by nematodes and amoebas in their normal moss habitats—they survive conditions, not all predators."
+          "correctIndex": 3,
+          "revealHint": "The story said: \"Quieter seas, less stress.\" — the answer is **Seas got quieter**.",
+          "explanation": "When global shipping slowed during COVID-19, scientists recorded quieter oceans and decreased stress hormones in some whale populations.",
+          "hint": "Quieter seas, less stress."
         }
       ],
       "curiosityHooks": [
-        "Grandpa, tardigrades survived on the outside of a rocket in space—do you think life could travel between planets that way?",
-        "Mom, if we soaked dried moss in water, could we actually wake up water bears on our kitchen table?",
-        "Scientists use tardigrade proteins to preserve vaccines—should we thank a microscopic bear for our medicine staying stable?"
+        "Grandpa, humpback whales rewrite their hit songs every few years—do you think they're copying each other like TikTok trends?",
+        "Mom, orca families have accents passed down like our family recipes—can you hear the difference on a recording?",
+        "When the oceans got quieter during COVID, whales relaxed—should ships slow down near whale highways?"
       ],
-      "shareMessage": "Today's reading was about tardigrades—water bears! 🐻🔬\n\nThese microscopic animals enter cryptobiosis when conditions get harsh, losing almost all water and pausing metabolism. They survived decades dried out, extreme heat and cold, radiation, AND exposure to space vacuum on a rocket!\n\nSpecial proteins protect their DNA like glass. They've existed 500+ million years. Ask us what cryptobiosis means and why they're not quite indestructible."
+      "shareMessage": "Today's reading was about whale song culture! 🐋🎵\n\nHumpback whales sing structured songs that change like pop charts, spreading new phrases between pods across oceans. Roger Payne's 1970 recordings proved they weren't random noise.\n\nDifferent regions have dialects; orcas and sperm whales pass vocal traditions too. Quieter seas during COVID lowered whale stress!\n\nAsk us what a cetacean repertoire is and how whale songs travel like trends!"
     },
     {
       "id": "2026-08-21",
       "date": "2026-08-21",
-      "dayIndex": 5,
-      "essayId": "essay-006",
-      "title": "The Viking Stone That Found the Sun",
-      "topic": "Viking Sunstone Navigation",
+      "dayIndex": 4,
+      "essayId": "essay-011",
+      "title": "Bread Rises from the Ashes",
+      "topic": "Pompeii Bread Ovens",
       "words": [
         {
-          "word": "navigational",
-          "definition": "Relating to finding direction and planning a route for travel"
+          "word": "thermopolium",
+          "definition": "An ancient Roman street-side food counter where hot food and drinks were sold",
+          "exampleSentence": "Try saying: \"That is truly thermopolium.\""
         },
         {
-          "word": "polarized",
-          "definition": "Light waves vibrating in a single plane rather than in all directions"
+          "word": "carbonized",
+          "definition": "Turned into carbon; preserved by charring rather than decay",
+          "exampleSentence": "Try saying: \"That is truly carbonized.\""
         },
         {
-          "word": "calcite",
-          "definition": "A transparent mineral that splits light into two images and affects polarized light"
+          "word": "pumice",
+          "definition": "Light volcanic rock full of air bubbles, formed during explosive eruptions",
+          "exampleSentence": "Try saying: \"That is truly pumice.\""
         },
         {
-          "word": "mariner",
-          "definition": "A sailor or person who navigates the sea"
+          "word": "artisan",
+          "definition": "A skilled craftsperson who makes things by hand using traditional methods",
+          "exampleSentence": "Try saying: \"That is truly artisan.\""
         },
         {
-          "word": "horizon",
-          "definition": "The line where the earth's surface appears to meet the sky"
+          "word": "fermentation",
+          "definition": "The chemical breakdown of substances by yeast or bacteria, often producing gas that makes dough rise",
+          "exampleSentence": "Try saying: \"That is truly fermentation.\""
         }
       ],
       "grammarRules": [
@@ -605,101 +564,118 @@
           "name": "Em dashes for emphasis"
         }
       ],
-      "passageHtml": "<p>When Viking longships had cut westward toward Iceland and Greenland, their crews had faced a problem no compass could solve—because no compass had yet existed in Europe. Clouds had rolled for days. Fog had swallowed the <span class=\"vocab-word\" data-word=\"horizon\" title=\"The line where the earth's surface appears to meet the sky\">horizon</span>. Yet sagas had described sailors locating the hidden sun with a mysterious \"sunstone.\" For centuries, historians had treated the detail as poetic license. Although archaeologists had found swords and ships, no one had proven the stone was real—until modern optics had retested an old idea.</p><p>The North Atlantic is a brutal classroom for <span class=\"vocab-word\" data-word=\"navigational\" title=\"Relating to finding direction and planning a route for travel\">navigational</span> skill. Latitude could be guessed from the height of stars; longitude was largely guesswork. A <span class=\"vocab-word\" data-word=\"mariner\" title=\"A sailor or person who navigates the sea\">mariner</span> who lost the sun's position in daylight had risked drifting off course into open ocean. Medieval Icelandic texts had mentioned sunstones in passages about clearing weather. Even though skeptics had argued the word referred to sun-lit fire steel, physicists had wondered whether a crystal could detect light humans could not see directly.</p><p>Light from the sky is <span class=\"vocab-word\" data-word=\"polarized\" title=\"Light waves vibrating in a single plane rather than in all directions\">polarized</span>—its waves aligned in patterns that shift with the sun's position, even when clouds hide the disk. Certain crystals, including <span class=\"vocab-word\" data-word=\"calcite\" title=\"A transparent mineral that splits light into two images and affects polarized light\">calcite</span> (Iceland spar), split a view into two images whose brightness changes when the crystal is rotated. Hold the stone toward the sky, turn it slowly, and the pair of images had equalized when the crystal aligned with the hidden sun. Although the effect had been known in laboratories since the 1800s, Viking sailors had possibly exploited it a thousand years earlier without equations.</p><p>Researchers in 2011 had tested the theory aboard a ship under overcast skies near Tunisia. Participants had used <span class=\"vocab-word\" data-word=\"calcite\" title=\"A transparent mineral that splits light into two images and affects polarized light\">calcite</span> crystals to estimate the sun's position within a few degrees—accurate enough for open-sea steering. Although the experiment had not recreated a full Viking voyage, it had shown the method worked on a moving deck. Later teams had repeated trials in Arctic fog. Even though no sunstone had been found in a confirmed Viking navigation kit, a piece of calcite had been recovered from the wreck of an Elizabethan warship near Alderney—suggesting seafarers had valued the tool long after the Viking Age.</p><p>How would a crew use it in practice? A navigator had likely held the crystal overhead, sighting through it while rotating the stone until the twin images matched. Cross-checking with a shadow stick or known landmark had refined bearing. Although stars had guided night travel, the sunstone had filled the daylight gap when clouds had erased the <span class=\"vocab-word\" data-word=\"horizon\" title=\"The line where the earth's surface appears to meet the sky\">horizon</span>. Greenland's settlement had depended on repeatable crossings; losing a day's heading had meant missing a fjord entirely. Saga writers had preserved these techniques in verse long after the craftsmen who cut the crystals had died—proof that <span class=\"vocab-word\" data-word=\"navigational\" title=\"Relating to finding direction and planning a route for travel\">navigational</span> knowledge had passed mouth to mouth across generations.</p><p>Modern pilots and photographers still manage <span class=\"vocab-word\" data-word=\"polarized\" title=\"Light waves vibrating in a single plane rather than in all directions\">polarized</span> light with filters. Fish eyes had evolved to detect polarization to spot prey beneath glare. Although GPS had made crystal navigation obsolete, the Viking trick had reminded scientists that ancient <span class=\"vocab-word\" data-word=\"mariner\" title=\"A sailor or person who navigates the sea\">mariners</span> had been careful observers of physics they could not name. They had read the sky like a map written in invisible lines.</p><p>Next time fog hides the sun, imagine a Viking helmsman raising a cloudy chunk of <span class=\"vocab-word\" data-word=\"calcite\" title=\"A transparent mineral that splits light into two images and affects polarized light\">calcite</span>, turning it until the world doubled and then balanced—finding north's reference point without seeing fire in the sky. The sea had tested them; the stone had answered. Although their ships had rotted away, the <span class=\"vocab-word\" data-word=\"navigational\" title=\"Relating to finding direction and planning a route for travel\">navigational</span> cleverness that had stitched continents together had left a trail written in sagas, wrecks, and light itself.</p>",
+      "passageHtml": "<p>When Mount Vesuvius had erupted in 79 CE, ash and <span class=\"vocab-word\" data-word=\"pumice\" title=\"Light volcanic rock full of air bubbles, formed during explosive eruptions\">pumice</span> had buried Pompeii so quickly that some residents had died mid-step. Yet in the ruins, archaeologists had later found something oddly domestic: loaves of bread still sitting in ovens, still round, still scored with baker's marks as if the next customer had been seconds away. Although the city had become a grave, its kitchens had frozen like photographs—preserved not by intent but by catastrophe.</p><p>Roman Pompeii had been crowded with <span class=\"vocab-word\" data-word=\"thermopolium\" title=\"An ancient Roman street-side food counter where hot food and drinks were sold\">thermopolium</span>s—colorful counters where workers had grabbed hot stews, wine, and snacks without cooking at home. Painted menus had advertised lentils, fish sauce, and roasted nuts. Behind many counters, brick ovens had glowed from dawn until the streets had emptied. Even though apartment dwellers had lacked kitchens, the thermopolium had functioned like a fast-food lane with frescoed walls.</p><p>Bread had been central to Roman life—so central that bakers had formed guilds and politicians had distributed free loaves to win votes. An <span class=\"vocab-word\" data-word=\"artisan\" title=\"A skilled craftsperson who makes things by hand using traditional methods\">artisan</span> baker had mixed flour, water, and starter culture, then kneaded dough until gluten had formed elastic strands. <span class=\"vocab-word\" data-word=\"Fermentation\" title=\"The chemical breakdown of substances by yeast or bacteria, often producing gas that makes dough rise\">Fermentation</span> had filled the dough with bubbles; steam and heat in the oven had set the crumb into airy architecture. Although modern yeast packets had not existed, sourdough cultures had been passed between families for generations.</p><p>The eruption had <span class=\"vocab-word\" data-word=\"carbonized\" title=\"Turned into carbon; preserved by charring rather than decay\">carbonized</span> organic matter in an instant—bread, wooden shelves, even figs in a jar had turned to charcoal shells holding shape. One famous loaf from the House of the Baker had borne a stamp reading property of Celer, slave of Q. Granius Verus—ownership pressed into crust. Researchers had used CT scans to peek inside without crumbling the loaf, revealing air pockets frozen mid-rise. Even though two millennia had passed, the geometry of Roman baking had remained readable.</p><p>Ovens themselves had been engineering marvels. Thick domes had stored heat from fires built on the floor, which had later been swept aside so dough could bake on hot tiles. Bakers had rotated loaves with long paddles; ashes had been vented through flues. Although Pompeii's ovens had varied in size, the workflow had matched bakeries across the empire—from North Africa to Britain. When Vesuvius had roared, many fires had still been warm.</p><p>Modern bakers had attempted recipes from <span class=\"vocab-word\" data-word=\"carbonized\" title=\"Turned into carbon; preserved by charring rather than decay\">carbonized</span> crumbs and written sources. They had discovered Roman bread had often been denser than baguettes, sometimes spiced with bay leaf or fennel, sometimes sweetened with grape must. Experimental archaeologists had rebuilt <span class=\"vocab-word\" data-word=\"thermopolium\" title=\"An ancient Roman street-side food counter where hot food and drinks were sold\">thermopolium</span> counters at living-history sites, serving passersby flatbread cooked in replica furnaces. Although no recipe had survived verbatim from the doomed city, the ovens had told their own story in brick and ash.</p><p>Walk Pompeii today and you can still step into a baker's shop where the millstones had stopped turning mid-grind. The <span class=\"vocab-word\" data-word=\"artisan\" title=\"A skilled craftsperson who makes things by hand using traditional methods\">artisan</span> who had shaped those loaves had expected tomorrow's sales, not volcanic burial. Although tragedy had preserved the scene, it had also interrupted ordinary hunger—the simplest human rhythm. Next time you smell fresh bread, remember Pompeii's ovens: <span class=\"vocab-word\" data-word=\"fermentation\" title=\"The chemical breakdown of substances by yeast or bacteria, often producing gas that makes dough rise\">fermentation</span> paused forever, meals waiting for customers who had never returned.</p><p>Inside the thermopolia, counters had displayed round vessels called dolia—large clay jars sunk into masonry to keep stews warm through the day. Archaeologists had found ladles, bronze pans, and graffiti advertising the day's special in crude Latin script. Although Pompeii had been a resort town for the wealthy, most citizens had eaten out because apartment kitchens had been tiny and fire had been dangerous indoors. Even though the bread ovens had supplied the city, the hot-food counters had supplied its rhythm—breakfast for laborers, midday wine for merchants, evening gossip for neighbors who had known each other's faces for generations.</p><p>Modern bakers had attempted to recreate Pompeian loaves from carbonized specimens. They had ground spelt, shaped rings scored with a knife in the traditional eight-section pattern, and baked in wood-fired ovens until the crust had crackled like the originals. Although no recipe card had survived Vesuvius, chemical analysis of ash-trapped crumbs had revealed barley, emmer wheat, and traces of bay leaf. Tourists visiting the ruins today had often said the recreated bread had tasted dense and honest—food meant to fill a stomach before a day hauling pumice or mending nets.</p><p>",
       "questions": [
         {
           "id": "q1",
-          "question": "How does a calcite sunstone reveal the sun's position on cloudy days?",
-          "hint": "It splits light into two images.",
-          "answers": [
-            "detects polarized light",
-            "rotating crystal until twin images match",
-            "polarization patterns from hidden sun",
-            "brightness equalizes when aligned with sun"
+          "question": "What is a thermopolium in ancient Pompeii?",
+          "options": [
+            "They avoid water",
+            "Roman street food counter",
+            "Empty space",
+            "Burning wood"
           ],
-          "explanation": "Calcite splits skylight into two images whose brightness equalizes when rotated to align with the sun's polarized light pattern, even behind clouds."
+          "correctIndex": 1,
+          "revealHint": "The story said: \"Street-side food counter.\" — the answer is **Roman street food counter**.",
+          "explanation": "A thermopolium was a Roman street-side counter where workers bought hot food and drinks, often equipped with brick ovens behind the serving area.",
+          "hint": "Street-side food counter."
         },
         {
           "id": "q2",
-          "question": "Why couldn't Viking sailors rely on compasses during their Atlantic crossings?",
-          "hint": "Think about when compasses reached Europe.",
-          "answers": [
-            "compasses did not exist yet",
-            "no compass in Europe yet",
-            "compass had not been invented"
+          "question": "How did the Vesuvius eruption preserve bread loaves?",
+          "options": [
+            "For no reason",
+            "Ancient fast-food counter",
+            "Carbonized them",
+            "They compete only"
           ],
-          "explanation": "European sailors in the Viking Age did not yet have magnetic compasses, so they needed other methods like sun position and possibly sunstones."
+          "correctIndex": 2,
+          "revealHint": "The story said: \"Heat and ash carbonized organic matter.\" — the answer is **Carbonized them**.",
+          "explanation": "The eruption's intense heat and ash carbonized organic materials, charring bread and other items while preserving their shapes like charcoal shells.",
+          "hint": "Heat and ash carbonized organic matter."
         },
         {
           "id": "q3",
-          "question": "What evidence supports sunstones beyond Viking sagas?",
-          "hint": "2011 ship experiment and a wreck find.",
-          "answers": [
-            "2011 ship experiment",
-            "calcite found on Elizabethan wreck",
-            "successful tests in overcast fog",
-            "Alderney wreck calcite"
+          "question": "What did CT scans reveal about carbonized Pompeii bread?",
+          "options": [
+            "Ancient myths only",
+            "Only on land",
+            "Volcanic eruptions",
+            "Air pockets frozen mid-rise"
           ],
-          "explanation": "Researchers successfully tested calcite navigation aboard ships in overcast conditions, and calcite was found on the Alderney Elizabethan wreck, supporting historical use."
+          "correctIndex": 3,
+          "revealHint": "The story said: \"Air pockets inside the loaf.\" — the answer is **Air pockets frozen mid-rise**.",
+          "explanation": "CT scans of carbonized loaves revealed internal air pockets frozen during rising, showing Roman bread's texture without destroying the artifact.",
+          "hint": "Air pockets inside the loaf."
         },
         {
           "id": "q4",
-          "question": "What is polarized light?",
-          "hint": "Waves aligned in one plane.",
-          "answers": [
-            "light waves in a single plane",
-            "waves vibrating one direction",
-            "aligned light waves not scattered all directions"
+          "question": "Why was bread politically important in Roman cities?",
+          "options": [
+            "Free bread for votes",
+            "Only on land",
+            "Plastic pollution",
+            "They never change"
           ],
-          "explanation": "Polarized light has waves vibrating primarily in one plane, creating patterns in skylight that shift with the sun's position even when clouds hide it."
+          "correctIndex": 0,
+          "revealHint": "The story said: \"Free loaves and baker guilds.\" — the answer is **Free bread for votes**.",
+          "explanation": "Bread was so essential that bakers formed guilds and politicians distributed free loaves to win public support, making baking central to urban life.",
+          "hint": "Free loaves and baker guilds."
         },
         {
           "id": "q5",
-          "question": "Why was accurate daylight navigation especially important for reaching Greenland?",
-          "hint": "Missing a fjord by a day's drift.",
-          "answers": [
-            "missing fjords by drifting off course",
-            "longitude was guesswork",
-            "small navigation errors meant missing land",
-            "repeatable crossings needed precise heading"
+          "question": "How did Roman bakers heat their ovens before baking bread?",
+          "options": [
+            "Fire on oven floor then swept out",
+            "Random luck",
+            "Photosynthesis only",
+            "Computer code"
           ],
-          "explanation": "Greenland crossings required precise headings because even small drift over a day could cause ships to miss narrow fjords entirely in open ocean."
+          "correctIndex": 0,
+          "revealHint": "The story said: \"Fire on the floor, then swept away.\" — the answer is **Fire on oven floor then swept out**.",
+          "explanation": "Roman ovens used fires built on the floor to heat thick domed walls; ashes were swept aside before dough was baked on the hot tiles.",
+          "hint": "Fire on the floor, then swept away."
         }
       ],
       "curiosityHooks": [
-        "Grandpa, Vikings may have navigated with a crystal instead of a compass—would you trust a rock more than your phone GPS?",
-        "Mom, can we buy Iceland spar calcite and try to find the hidden sun on a cloudy day?",
-        "If fish eyes detect polarized light to hunt, do you think Vikings learned the trick from watching nature?"
+        "Grandma, archaeologists found bread still in the oven from the day Vesuvius erupted—would you try a recipe recreated from 2,000-year-old crumbs?",
+        "Mom, Roman fast-food shops had painted menus like ours—what do you think was their version of a combo meal?",
+        "The baker stamped 'property of Celer, slave of...' on loaves—who do you think really made the bread?"
       ],
-      "shareMessage": "We learned about Viking sunstones today! ⚓🪨\n\nBefore compasses, North Atlantic sailors may have used calcite crystals to find the hidden sun through clouds by detecting polarized skylight. Rotating the crystal until twin images match reveals the sun's direction!\n\nScientists tested this on ships in 2011—it worked within a few degrees. Calcite was even found on an Elizabethan shipwreck.\n\nAsk us what polarized light means and why losing the sun was dangerous near Greenland!"
+      "shareMessage": "Today's essay was about Pompeii bread ovens! 🍞🌋\n\nWhen Vesuvius buried Pompeii in 79 CE, thermopolia (Roman street food counters) froze mid-service. Bread loaves carbonized in ovens—still round with baker's marks!\n\nCT scans reveal air pockets from fermentation frozen mid-rise. Roman bakers used sourdough, thick domed ovens, and stamped ownership on crusts.\n\nAsk us what a thermopolium is and how volcanic ash preserved ancient lunch!"
     },
     {
       "id": "2026-08-22",
       "date": "2026-08-22",
-      "dayIndex": 6,
-      "essayId": "essay-003",
-      "title": "The Rainbow Punch of the Sea",
-      "topic": "Mantis Shrimp",
+      "dayIndex": 5,
+      "essayId": "essay-021",
+      "title": "When Animals Feel the Earth Shift",
+      "topic": "Earthquake Animal Behavior",
       "words": [
         {
-          "word": "chromatic",
-          "definition": "Relating to colors or the full range of colors in light"
+          "word": "seismic",
+          "definition": "Relating to earthquakes or vibrations of the earth",
+          "exampleSentence": "Try saying: \"That is truly seismic.\""
         },
         {
-          "word": "compound",
-          "definition": "Made up of several parts combined into a whole"
+          "word": "precursory",
+          "definition": "Serving as a warning sign that something larger is about to happen",
+          "exampleSentence": "Try saying: \"That is truly precursory.\""
         },
         {
-          "word": "velocity",
-          "definition": "The speed of something in a given direction"
+          "word": "anomaly",
+          "definition": "Something that deviates from what is standard, normal, or expected",
+          "exampleSentence": "Try saying: \"That is truly anomaly.\""
         },
         {
-          "word": "resilient",
-          "definition": "Able to recover quickly or withstand difficult conditions"
+          "word": "evacuation",
+          "definition": "The organized removal of people or animals from a dangerous place",
+          "exampleSentence": "Try saying: \"That is truly evacuation.\""
         },
         {
-          "word": "formidable",
-          "definition": "Inspiring fear or respect through being powerful or capable"
+          "word": "tremor",
+          "definition": "A small earthquake or slight shaking of the ground",
+          "exampleSentence": "Try saying: \"That is truly tremor.\""
         }
       ],
       "grammarRules": [
@@ -716,75 +692,213 @@
           "name": "Em dashes for emphasis"
         }
       ],
-      "passageHtml": "<p>On a coral reef in Indonesia, a creature the length of a candy bar had been hiding in a burrow lined with shell fragments. Divers had swum past it a thousand times without noticing. It was not a shrimp in the dinner-plate sense—not mild, not pink, not passive. It was a mantis shrimp, and it had earned a reputation among marine biologists as one of the most <span class=\"vocab-word\" data-word=\"formidable\" title=\"Inspiring fear or respect through being powerful or capable\">formidable</span> small animals in the ocean. Although it looked decorative, like a tropical jewel with waving arms, researchers had learned to handle it with extreme care.</p><p>The punch comes from a raptorial appendage—a hinged club that had evolved not to slice but to strike. When the mantis shrimp had cocked its arm and released it, the club had accelerated faster than a .22 caliber bullet leaving a barrel. The <span class=\"vocab-word\" data-word=\"velocity\" title=\"The speed of something in a given direction\">velocity</span> was so extreme that water near the impact had boiled briefly, producing tiny bubbles that collapsed with a flash of heat and light—a phenomenon called cavitation. Even though the target might be a thick snail shell, the strike had often shattered it in one blow. Crabs, clams, and rival shrimp had all fallen to the same physics.</p><p>Engineers had studied the club's structure for years. It was not solid bone but a <span class=\"vocab-word\" data-word=\"compound\" title=\"Made up of several parts combined into a whole\">compound</span> material—layers of mineral and organic fibers arranged so cracks could not spread easily. Although the shrimp had fired thousands of blows against rock-hard prey, the club remained <span class=\"vocab-word\" data-word=\"resilient\" title=\"Able to recover quickly or withstand difficult conditions\">resilient</span>. Materials scientists had copied the design for lightweight armor and sports helmets. Even though humans had invented ceramics centuries ago, this animal had perfected shock absorption on the reef long before anyone had written a formula for it.</p><p>Then there were the eyes—perhaps the strangest part of all. Human eyes use three color receptors. Mantis shrimp had sixteen. Their <span class=\"vocab-word\" data-word=\"compound\" title=\"Made up of several parts combined into a whole\">compound</span> eyes—bulging spheres on stalks—could detect ultraviolet light, polarized glare, and a <span class=\"vocab-word\" data-word=\"chromatic\" title=\"Relating to colors or the full range of colors in light\">chromatic</span> range we can barely imagine. Although scientists had first assumed more receptors meant richer color vision like ours, experiments had suggested something different: the shrimp might process color quickly, almost like a scanner, rather than blending hues the way painters do. Even though their world looked <span class=\"vocab-word\" data-word=\"chromatic\" title=\"Relating to colors or the full range of colors in light\">chromatic</span> beyond our dreams, they had never needed to admire sunsets—they had needed to spot transparent prey against shifting coral.</p><p>Some species—called smashers—had specialized in the club strike. Others—spearers—had barbed arms for snatching fish. Although both types had shared the legendary eyes, their hunting tools had diverged over millions of years. Aquarium keepers had learned painful lessons: a mantis shrimp could crack glass tanks if the walls were too thin. One enthusiast had returned home to find his prized fish gone and the shrimp sitting calmly on a fortress of broken coral. The animal had not been cruel—it had simply been built for a <span class=\"vocab-word\" data-word=\"formidable\" title=\"Inspiring fear or respect through being powerful or capable\">formidable</span> job.</p><p>Biologists had also recorded complex communication. Mantis shrimp had flashed colors across their bodies—bright patches that had shifted during fights and courtship. Although their brains were small, the behaviors had shown memory and territory defense. When two neighbors had disputed a burrow, the contest had sometimes ended without a strike—warnings delivered through posture and hue.</p><p>Next time you see a photo of a mantis shrimp glowing in neon blues and reds, remember what the image hides: a <span class=\"vocab-word\" data-word=\"resilient\" title=\"Able to recover quickly or withstand difficult conditions\">resilient</span> club moving at bullet <span class=\"vocab-word\" data-word=\"velocity\" title=\"The speed of something in a given direction\">velocity</span>, and eyes that had split light into a <span class=\"vocab-word\" data-word=\"chromatic\" title=\"Relating to colors or the full range of colors in light\">chromatic</span> alphabet we still struggle to read. The reef's quiet candy-bar assassin had been perfecting its design since long before the first diver had thought to look closer.</p>",
+      "passageHtml": "<p>On February 4, 1975, officials in Haicheng, China, had ordered an <span class=\"vocab-word\" data-word=\"evacuation\" title=\"The organized removal of people or animals from a dangerous place\">evacuation</span> that had saved tens of thousands of lives hours before a magnitude 7.3 earthquake had struck. The warning had not come from satellites or smartphone alerts—those had not existed. Instead, reports had piled up of strange animal behavior: snakes had surfaced from hibernation in freezing weather, cattle had refused to enter barns, rats had run in daylight. Although skeptics had called it folklore, the city had emptied—and when buildings had collapsed, many people had been elsewhere.</p><p>Animals had sensed <span class=\"vocab-word\" data-word=\"seismic\" title=\"Relating to earthquakes or vibrations of the earth\">seismic</span> signals humans had missed. Dogs had barked without cause; fish had jumped in still ponds; birds had flushed from roosts minutes before <span class=\"vocab-word\" data-word=\"tremor\" title=\"A small earthquake or slight shaking of the ground\">tremor</span>s humans had finally felt. Researchers had proposed several mechanisms— animals had detected P-waves, the faster but weaker seismic waves that had arrived seconds before destructive S-waves; they had felt ground tilt or groundwater changes; they had heard infrasound below human hearing. Even though no single explanation had fit every story, the pattern had appeared often enough to study.</p><p>Scientists had searched for <span class=\"vocab-word\" data-word=\"precursory\" title=\"Serving as a warning sign that something larger is about to happen\">precursory</span> <span class=\"vocab-word\" data-word=\"anomaly\" title=\"Something that deviates from what is standard, normal, or expected\">anomaly</span>s in reliable data. Japan had monitored catfish in tanks; China had maintained observation networks for snakes and rodents near fault lines. Although Haicheng had seemed like proof, later quakes had hit without animal warnings—false negatives had undermined confidence. Statisticians had also noted false positives: animals had acted oddly on calm days too.</p><p>Modern seismology had focused on instruments—gps creep, strain meters, aftershock patterns—rather than zoo behavior. Yet pet owners had continued reporting dogs pacing before quakes worldwide. Some biologists had suggested evolution had favored <span class=\"vocab-word\" data-word=\"seismic\" title=\"Relating to earthquakes or vibrations of the earth\">seismic</span> sensitivity in burrowing species because falling tunnels had killed careless ones. Even though city pigeons had faced fewer cave-ins, nervous systems had sometimes retained ancient alarms.</p><p>Technology had merged old and new in limited ways. Motion sensors on farms had logged cattle clustering hours before Italian <span class=\"vocab-word\" data-word=\"tremor\" title=\"A small earthquake or slight shaking of the ground\">tremor</span>s; apps had invited citizens to report pet <span class=\"vocab-word\" data-word=\"anomaly\" title=\"Something that deviates from what is standard, normal, or expected\">anomaly</span>s alongside instrument readings. Although prediction had remained imperfect, rapid <span class=\"vocab-word\" data-word=\"evacuation\" title=\"The organized removal of people or animals from a dangerous place\">evacuation</span> after early shaking had saved lives where building codes had been weak.</p><p>Haicheng's success had been unique—foreshocks, odd weather, and animal reports had combined with brave officials willing to act. Most earthquakes had still arrived without dress rehearsal. Although we had not built a zoo-based early-warning system, the stories had reminded us that biology had sometimes felt the planet flex before our calendars had noticed.</p><p>Next time your dog stares at the wall and whines, you will probably blame squirrels—but remember Haicheng's snakes in snow, a <span class=\"vocab-word\" data-word=\"precursory\" title=\"Serving as a warning sign that something larger is about to happen\">precursory</span> whisper from faults deep below. Although instruments had mapped <span class=\"vocab-word\" data-word=\"seismic\" title=\"Relating to earthquakes or vibrations of the earth\">seismic</span> waves with precision, animals had remained Earth's older sensors—imperfect, mysterious, and occasionally right when seconds had mattered most.</p><p>Historical accounts had mixed folklore with observation. In 373 BC, Greek writers had recorded rats, snakes, and weasels fleeing Helice days before an earthquake—stories repeated so often that modern seismologists had treated them cautiously yet had not dismissed them entirely. Although mass animal movement could have unrelated causes, repeated reports from China, Japan, and California had suggested some species might detect precursory signals humans had ignored.</p><p>Today sensor networks had outpaced anecdote. Seismologists had deployed accelerometers, gas sniffers, and strain gauges along fault lines, searching for reliable precursors that animals might feel first. Although no zookeeper had yet run a perfect earthquake forecast from restless elephants alone, researchers had documented anomalous behavior—unusual barking, refusals to enter stalls, restless fish in ponds—minutes to hours before some tremors. Even though evacuation based solely on animal oddities would have caused chaos, combining biological anomalies with instrument data had remained an active frontier—one where the dog scratching at the door might someday contribute to a warning humans could trust before the ground had finished arguing with itself.</p><p>",
       "questions": [
         {
           "id": "q1",
-          "question": "What physical phenomenon creates a flash of heat and light when the mantis shrimp strikes?",
-          "hint": "It involves bubbles in water.",
-          "answers": [
-            "cavitation",
-            "collapsing bubbles",
-            "water boiling briefly",
-            "cavitation bubbles collapsing"
+          "question": "What happened in Haicheng, China in 1975 before the major earthquake?",
+          "options": [
+            "Only in summer",
+            "Ancient myths only",
+            "Mass evacuation",
+            "Wind and storms"
           ],
-          "explanation": "The club moves so fast it creates cavitation bubbles in water; when those bubbles collapse, they produce a brief flash of heat and light."
+          "correctIndex": 2,
+          "revealHint": "The story said: \"Animals acted strangely; city evacuated.\" — the answer is **Mass evacuation**.",
+          "explanation": "Before the 1975 Haicheng earthquake, unusual animal behavior reports combined with other signs prompted officials to evacuate, saving tens of thousands of lives.",
+          "hint": "Animals acted strangely; city evacuated."
         },
         {
           "id": "q2",
-          "question": "How many color receptors do mantis shrimp eyes have compared to humans?",
-          "hint": "Humans have three.",
-          "answers": [
-            "sixteen",
-            "16",
-            "sixteen compared to our three",
-            "16 color receptors"
+          "question": "What are P-waves and why might animals detect them before humans?",
+          "options": [
+            "Photosynthesis only",
+            "Faster seismic waves first",
+            "Magnetic fields",
+            "Only in summer"
           ],
-          "explanation": "Mantis shrimp have sixteen color receptors, while humans have only three, allowing them to detect ultraviolet and polarized light."
+          "correctIndex": 1,
+          "revealHint": "The story said: \"Faster, weaker seismic waves arrive first.\" — the answer is **Faster seismic waves first**.",
+          "explanation": "P-waves are faster, weaker seismic waves that arrive seconds before destructive S-waves; animals may feel or hear these precursory tremors before humans notice shaking.",
+          "hint": "Faster, weaker seismic waves arrive first."
         },
         {
           "id": "q3",
-          "question": "Why have engineers copied the structure of the mantis shrimp's club?",
-          "hint": "Think about armor and helmets.",
-          "answers": [
-            "shock absorption",
-            "lightweight armor",
-            "compound layered structure",
-            "for helmets and armor design"
+          "question": "Why is animal earthquake prediction considered unreliable?",
+          "options": [
+            "Computer code",
+            "False positives and false negatives",
+            "Animal behavior warnings",
+            "Officials evacuated before quake"
           ],
-          "explanation": "The club's compound layered structure resists cracking under repeated high-impact strikes, inspiring designs for armor and sports helmets."
+          "correctIndex": 1,
+          "revealHint": "The story said: \"False positives and missed quakes.\" — the answer is **False positives and false negatives**.",
+          "explanation": "Animal behavior anomalies occur on non-earthquake days too (false positives), and many earthquakes strike without reported animal warnings (false negatives), making prediction unreliable.",
+          "hint": "False positives and missed quakes."
         },
         {
           "id": "q4",
-          "question": "What is the difference between 'smashers' and 'spearers'?",
-          "hint": "One strikes shells; one snatches fish.",
-          "answers": [
-            "smashers use clubs, spearers use barbed arms",
-            "different hunting appendages",
-            "club vs spear arms",
-            "smashers break shells, spearers catch fish"
+          "question": "What does precursory mean in earthquake studies?",
+          "options": [
+            "Never",
+            "Many quakes have no animal warnings",
+            "Warning before main event",
+            "They stay silent"
           ],
-          "explanation": "Smasher species use hinged clubs to shatter hard shells, while spearer species use barbed appendages to snatch softer prey like fish."
+          "correctIndex": 2,
+          "revealHint": "The story said: \"Warning signs before a larger event.\" — the answer is **Warning before main event**.",
+          "explanation": "Precursory signals or behaviors are changes that may appear before a larger earthquake, though they are not consistently reliable for prediction.",
+          "hint": "Warning signs before a larger event."
         },
         {
           "id": "q5",
-          "question": "Why might mantis shrimp process color differently from humans despite having more receptors?",
-          "hint": "Like a scanner, not a painter.",
-          "answers": [
-            "quick scanning not blending",
-            "process color fast like a scanner",
-            "detect rather than blend hues",
-            "rapid color detection for prey"
+          "question": "What evolutionary reason might explain seismic sensitivity in some animals?",
+          "options": [
+            "Ancient myths only",
+            "Primary waves seconds earlier",
+            "Empty space",
+            "Burrowing species avoid collapse"
           ],
-          "explanation": "Research suggests mantis shrimp may rapidly scan color information to detect prey rather than blending hues into rich pictures the way human vision does."
+          "correctIndex": 3,
+          "revealHint": "The story said: \"Burrowing animals survive tunnel collapses.\" — the answer is **Burrowing species avoid collapse**.",
+          "explanation": "Burrowing animals that sensed seismic vibrations early may have survived collapsing tunnels, so evolution may have favored seismic sensitivity in some species.",
+          "hint": "Burrowing animals survive tunnel collapses."
         }
       ],
       "curiosityHooks": [
-        "Grandpa, could a mantis shrimp really break an aquarium glass—and has that actually happened to someone?",
-        "Mom, if they see colors we can't imagine, what do you think a coral reef looks like to them?",
-        "Scientists copied the shrimp's club for helmets—would you trust armor designed by a shrimp?"
+        "Grandpa, China evacuated a whole city because snakes woke up in winter—would you leave home if our dog acted that weird?",
+        "Mom, dogs might feel earthquake P-waves seconds before we do—should we trust Fido more than my phone alert?",
+        "Haicheng saved thousands but most quakes have no animal warning—why do you think snakes got it right that one time?"
       ],
-      "shareMessage": "Today's essay was about mantis shrimp—the tiny reef boxer! 🦐💥\n\nIts club strikes faster than a bullet, creating bubbles that flash with heat. Engineers copy its layered structure for armor. Its compound eyes have 16 color receptors (we have 3!) and detect ultraviolet and polarized light.\n\nSmashers break shells; spearers hunt fish. Don't let the pretty colors fool you—this candy-bar-sized creature is formidable!\n\nAsk us to explain cavitation and why aquarium owners fear them."
+      "shareMessage": "Today's essay was about earthquake animal behavior! 🐍🌍\n\nBefore the 1975 Haicheng earthquake, snakes, rats, and cattle acted strangely—and officials evacuated in time to save tens of thousands!\n\nAnimals may detect P-waves, infrasound, or groundwater changes before we feel tremors. But false alarms make zoo-based prediction unreliable.\n\nAsk us what a precursory anomaly is and why Haicheng was special!"
+    },
+    {
+      "id": "2026-08-23",
+      "date": "2026-08-23",
+      "dayIndex": 6,
+      "essayId": "essay-008",
+      "title": "The Eight-Armed Escape Artist",
+      "topic": "Octopus Intelligence",
+      "words": [
+        {
+          "word": "cephalopod",
+          "definition": "A marine mollusk such as an octopus or squid with a large head and tentacles",
+          "exampleSentence": "Try saying: \"That is truly cephalopod.\""
+        },
+        {
+          "word": "cognition",
+          "definition": "The mental process of acquiring knowledge through thought, experience, and senses",
+          "exampleSentence": "Try saying: \"That is truly cognition.\""
+        },
+        {
+          "word": "chromatophore",
+          "definition": "A pigment cell that allows some animals to change color by expanding or contracting",
+          "exampleSentence": "Try saying: \"That is truly chromatophore.\""
+        },
+        {
+          "word": "dexterous",
+          "definition": "Skillful and coordinated, especially with the hands or limbs",
+          "exampleSentence": "Try saying: \"That is truly dexterous.\""
+        },
+        {
+          "word": "invertebrate",
+          "definition": "An animal without a backbone, such as an octopus, insect, or jellyfish",
+          "exampleSentence": "Try saying: \"That is truly invertebrate.\""
+        }
+      ],
+      "grammarRules": [
+        {
+          "id": "past-perfect",
+          "name": "Past Perfect (had + verb)"
+        },
+        {
+          "id": "although",
+          "name": "Although / Even though"
+        },
+        {
+          "id": "em-dash",
+          "name": "Em dashes for emphasis"
+        }
+      ],
+      "passageHtml": "<p>In 2016, when keepers at the New Zealand National Aquarium had arrived one morning, their most famous resident—a common octopus named Inky—had vanished. Security cameras later showed he had squeezed through a gap in his tank lid, crossed the floor, and slid down a drainpipe fifty meters long to reach the open sea. Although the escape had looked like a cartoon caper, biologists had recognized something deeper: Inky had planned. He had tested the lid, remembered the drain's location, and timed his move when the building had been quiet. Even though octopuses had lived only two or three years, this <span class=\"vocab-word\" data-word=\"invertebrate\" title=\"An animal without a backbone, such as an octopus, insect, or jellyfish\">invertebrate</span> had outsmarted a facility built to contain sharks.</p><p>Octopuses belong to the <span class=\"vocab-word\" data-word=\"cephalopod\" title=\"A marine mollusk such as an octopus or squid with a large head and tentacles\">cephalopod</span> family—soft-bodied hunters whose ancestors had discarded shells millions of years ago and replaced armor with brains. Roughly two-thirds of an octopus's neurons sit in its arms, not its head, so each tentacle had partly thought for itself while still coordinating with the whole animal. Researchers had watched octopuses unscrew jar lids from the inside, open childproof pill bottles, and navigate mazes they had learned yesterday. Although birds and mammals had usually claimed the spotlight in animal-intelligence studies, cephalopods had forced scientists to ask whether <span class=\"vocab-word\" data-word=\"cognition\" title=\"The mental process of acquiring knowledge through thought, experience, and senses\">cognition</span> required a skeleton—or even a familiar brain layout.</p><p>Their camouflage had been equally astonishing. Millions of <span class=\"vocab-word\" data-word=\"chromatophore\" title=\"A pigment cell that allows some animals to change color by expanding or contracting\">chromatophore</span>s—tiny sacs of pigment beneath the skin—had expanded and contracted under neural control until the animal matched coral, sand, or a threatening predator's pattern in less than a second. Some species had rippled waves of color across their bodies during courtship, a display researchers had compared to living video screens. Even though the octopus had possessed no bones, its body had been <span class=\"vocab-word\" data-word=\"dexterous\" title=\"Skillful and coordinated, especially with the hands or limbs\">dexterous</span> enough to manipulate tools—coconut shells carried as portable shelters, rocks used to barricade den entrances. Divers had filmed veined octopuses stacking shells like stone walls before bedtime.</p><p>Tool use had once been considered uniquely human, then extended to chimpanzees and crows. When Jennifer Mather and colleagues had documented octopuses collecting coconut halves, the definition of intelligence had widened again. Although an octopus brain had been shaped like a doughnut—wrapping around its esophagus—experiments had shown long-term memory, discrimination between individual humans, and playful behavior. One lab octopus had learned to squirt water at a researcher it disliked while staying polite to others. Even though the animal had never seen that person harm it, it had remembered a prior unpleasant handling session.</p><p>Wild octopuses had also solved ecological puzzles. They had raided crab traps, entered them through the bait door, eaten the catch, and left the way they had come. Fishermen had cursed the losses until cameras had proved the thief was an armored ghost with no bones—only <span class=\"vocab-word\" data-word=\"cognition\" title=\"The mental process of acquiring knowledge through thought, experience, and senses\">cognition</span> and patience. Although humans had built locks and alarms, the octopus had treated obstacles as puzzles worth tasting with suckers lined with chemoreceptors—each arm had literally smelled its way forward.</p><p>Conservation had grown urgent as warming oceans had stressed reef habitats. Because octopuses had matured fast and died young, populations had bounced back quickly when protected—but trawling and pollution had still erased local giants like the giant Pacific octopus. Marine biologists had argued that respecting <span class=\"vocab-word\" data-word=\"cephalopod\" title=\"A marine mollusk such as an octopus or squid with a large head and tentacles\">cephalopod</span> intelligence meant tighter welfare rules in labs and restaurants. Several countries had already tightened laws on boiling live animals without stunning.</p><p>Next time you see a photo of an octopus changing color like a LED screen, remember Inky sliding toward freedom through a drain meant for rainwater. The animal had possessed no passport, no map, no thumbs—only eight <span class=\"vocab-word\" data-word=\"dexterous\" title=\"Skillful and coordinated, especially with the hands or limbs\">dexterous</span> arms, a doughnut brain, and a <span class=\"vocab-word\" data-word=\"chromatophore\" title=\"A pigment cell that allows some animals to change color by expanding or contracting\">chromatophore</span> wardrobe. Although we had spent centuries calling spineless creatures simple, the octopus had rewritten the syllabus. Evolution had built a mind from slime and nerve—and it had escaped before breakfast.</p>",
+      "questions": [
+        {
+          "id": "q1",
+          "question": "How did Inky the octopus escape from the New Zealand aquarium?",
+          "options": [
+            "Coconut shell shelters",
+            "Solar panels",
+            "Through a drainpipe",
+            "Radio waves"
+          ],
+          "correctIndex": 2,
+          "revealHint": "The story said: \"Think drainpipe and tank lid.\" — the answer is **Through a drainpipe**.",
+          "explanation": "Inky squeezed through a gap in his tank lid, crossed the floor, and slid down a fifty-meter drainpipe to reach the open sea.",
+          "hint": "Think drainpipe and tank lid."
+        },
+        {
+          "id": "q2",
+          "question": "What are chromatophores and what do they allow octopuses to do?",
+          "options": [
+            "Solar panels",
+            "Electric light bulbs",
+            "Pigment cells for color change",
+            "Volcanic eruptions"
+          ],
+          "correctIndex": 2,
+          "revealHint": "The story said: \"Pigment cells under the skin.\" — the answer is **Pigment cells for color change**.",
+          "explanation": "Chromatophores are pigment cells beneath the skin that expand and contract, letting octopuses change color and camouflage in under a second.",
+          "hint": "Pigment cells under the skin."
+        },
+        {
+          "id": "q3",
+          "question": "Why is it unusual that so many octopus neurons are in the arms?",
+          "options": [
+            "Each arm partly thinks independently",
+            "To sleep better",
+            "They stay silent",
+            "Plastic pollution"
+          ],
+          "correctIndex": 0,
+          "revealHint": "The story said: \"Arms partly think for themselves.\" — the answer is **Each arm partly thinks independently**.",
+          "explanation": "About two-thirds of an octopus's neurons are in its arms, so each tentacle can process information and act with partial independence while coordinating with the body.",
+          "hint": "Arms partly think for themselves."
+        },
+        {
+          "id": "q4",
+          "question": "What evidence showed octopuses use tools in the wild?",
+          "options": [
+            "Distributed intelligence in limbs",
+            "Only at night",
+            "Empty space",
+            "Coconut shell shelters"
+          ],
+          "correctIndex": 3,
+          "revealHint": "The story said: \"Coconut shells and rocks.\" — the answer is **Coconut shell shelters**.",
+          "explanation": "Researchers documented octopuses carrying coconut shell halves as portable shelters and stacking rocks to barricade their dens—behaviors classified as tool use.",
+          "hint": "Coconut shells and rocks."
+        },
+        {
+          "id": "q5",
+          "question": "What does the passage suggest about cognition and backbones?",
+          "options": [
+            "Using shells and rocks as tools",
+            "Pigment cells for color change",
+            "Through a drainpipe",
+            "Cognition doesn't require a backbone"
+          ],
+          "correctIndex": 3,
+          "revealHint": "The story said: \"Invertebrates can still be smart.\" — the answer is **Cognition doesn't require a backbone**.",
+          "explanation": "Octopus intelligence shows that advanced cognition does not require a backbone or a familiar brain layout—challenging assumptions that only vertebrates think in complex ways.",
+          "hint": "Invertebrates can still be smart."
+        }
+      ],
+      "curiosityHooks": [
+        "Grandpa, if two-thirds of an octopus brain is in its arms, do you think each arm has its own personality?",
+        "Mom, could an octopus really open a childproof pill bottle—and should we childproof our snack jars from one?",
+        "If Inky escaped through a drainpipe to the ocean, do you think he remembered the way back to visit his tank?"
+      ],
+      "shareMessage": "Today's reading was about octopus intelligence! 🐙🧠\n\nInky escaped a New Zealand aquarium by squeezing through his tank lid and sliding down a 50-meter drainpipe to the sea!\n\nOctopuses change color using chromatophores, use tools like coconut shells, and have most of their neurons in their arms. Scientists now know cognition doesn't require a backbone.\n\nAsk us how chromatophores work and why Inky's escape amazed biologists!"
     }
   ]
 }
