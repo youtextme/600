@@ -2,11 +2,11 @@
 <html lang="en">
 <head>
   <meta charset="UTF-8">
-  <meta name="viewport" content="width=device-width, initial-scale=1.0, viewport-fit=cover, user-scalable=no">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0, viewport-fit=cover">
   <meta name="base-path" content="./">
-  <meta name="theme-color" content="#000000">
+  <meta name="theme-color" content="#ffffff">
   <meta name="apple-mobile-web-app-capable" content="yes">
-  <meta name="apple-mobile-web-app-status-bar-style" content="black-translucent">
+  <meta name="apple-mobile-web-app-status-bar-style" content="default">
   <meta name="apple-mobile-web-app-title" content="600">
   <title>600</title>
   <link rel="manifest" href="manifest.json">
@@ -17,73 +17,151 @@
   <link rel="stylesheet" href="css/style.css">
 </head>
 <body>
-  <header class="app-header">
-    <div class="header-row">
-      <div>
-        <div class="logo">600</div>
-        <div class="logo-sub">Daily discovery</div>
+  <div class="app-shell">
+    <header class="app-header">
+      <div class="header-inner">
+        <div class="brand">
+          <span class="logo">600</span>
+          <span class="logo-sub">Daily discovery</span>
+        </div>
+        <div class="header-progress" id="header-progress">
+          <span class="progress-pill" id="streak-badge">0/7</span>
+        </div>
       </div>
-      <div class="streak-badge" id="streak-badge">🎯 Mission</div>
+      <div class="journey-bar" aria-hidden="true">
+        <div class="journey-fill" id="journey-fill"></div>
+      </div>
+    </header>
+
+    <div class="scroll-main">
+      <div class="page-wrap">
+        <section class="week-section" aria-label="This week">
+          <div class="week-head">
+            <span class="week-label">This week</span>
+            <span class="week-range">Mon → Sun</span>
+          </div>
+          <div class="week-scroll-wrap">
+            <div id="week-strip" class="week-strip" role="tablist"></div>
+          </div>
+          <div id="countdown" class="countdown hidden" role="status"></div>
+        </section>
+
+        <div id="loading" class="loading">
+          <div class="loading-ring"></div>
+          <p>Getting today's adventure ready…</p>
+        </div>
+
+        <main id="main-content" class="hidden">
+          <!-- Step nav -->
+          <nav class="step-nav" id="step-nav" aria-label="Today's steps">
+            <button type="button" class="step-btn active" data-step="hook">🔮 Wonder</button>
+            <button type="button" class="step-btn" data-step="words">⚡ Words</button>
+            <button type="button" class="step-btn" data-step="story">📖 Story</button>
+            <button type="button" class="step-btn" data-step="quiz">🧠 Quiz</button>
+          </nav>
+
+          <!-- STEP: Hook -->
+          <section class="panel active" id="panel-hook" data-step="hook">
+            <div class="hero-card">
+              <div class="hero-emoji" id="hero-emoji">✨</div>
+              <span class="mission-tag" id="mission-tag">Today's adventure</span>
+              <h1 class="hero-title" id="essay-title"></h1>
+              <div class="curiosity-box">
+                <p class="curiosity-label">Before you read…</p>
+                <p class="curiosity-hook" id="curiosity-hook"></p>
+              </div>
+              <button type="button" class="btn btn-primary btn-large" id="start-btn">
+                Let's go! →
+              </button>
+            </div>
+          </section>
+
+          <!-- STEP: Words -->
+          <section class="panel" id="panel-words" data-step="words">
+            <div class="card">
+              <h2 class="section-title">5 words to use today</h2>
+              <p class="section-sub">Tap a word to hear it. Try using one at dinner!</p>
+              <div class="vocab-carousel-wrap">
+                <div id="vocab-bar" class="vocab-carousel"></div>
+              </div>
+              <div class="vocab-dots" id="vocab-dots"></div>
+              <button type="button" class="btn btn-primary btn-large" id="words-done-btn">
+                I know these — read the story →
+              </button>
+            </div>
+          </section>
+
+          <!-- STEP: Story -->
+          <section class="panel" id="panel-story" data-step="story">
+            <div class="card card-read">
+              <div class="read-toolbar">
+                <h2 class="section-title">The story</h2>
+                <button type="button" class="btn-ghost" id="read-aloud-btn" aria-label="Read aloud">🔊 Read aloud</button>
+              </div>
+              <div class="read-progress-wrap">
+                <div class="read-progress-bar"><div id="read-progress-fill"></div></div>
+                <span class="read-progress-label" id="read-progress-label">0% read</span>
+              </div>
+              <div id="passage" class="passage"></div>
+              <div class="curiosity card-inset" id="curiosity-section">
+                <h3>Ask someone you love</h3>
+                <ul id="curiosity-list"></ul>
+              </div>
+              <button type="button" class="btn btn-primary btn-large" id="story-done-btn">
+                I'm ready for the quiz! →
+              </button>
+            </div>
+          </section>
+
+          <!-- STEP: Quiz (one question at a time) -->
+          <section class="panel" id="panel-quiz" data-step="quiz">
+            <div class="card">
+              <div class="quiz-top">
+                <h2 class="section-title">Quick quiz</h2>
+                <div class="quiz-dots" id="quiz-dots"></div>
+              </div>
+              <p class="section-sub">One at a time — tap your answer!</p>
+              <div id="quiz-stage"></div>
+            </div>
+          </section>
+
+          <!-- DONE -->
+          <section class="panel hidden" id="panel-done" data-step="done">
+            <div class="card done-card">
+              <div class="done-burst" aria-hidden="true"></div>
+              <div class="done-circle">✓</div>
+              <h2>Mission complete!</h2>
+              <p id="score-message">You crushed today's adventure.</p>
+              <div class="report-stats">
+                <div class="stat-box">
+                  <div class="num" id="first-try-count">0</div>
+                  <div class="label">First try 🎯</div>
+                </div>
+                <div class="stat-box">
+                  <div class="num" id="retry-count">0</div>
+                  <div class="label">Figured it out 💪</div>
+                </div>
+              </div>
+              <div class="actions">
+                <button type="button" class="btn btn-primary btn-large" id="share-btn">📋 Tell my family</button>
+                <button type="button" class="btn btn-secondary" id="retry-quiz-btn">Try quiz again</button>
+              </div>
+            </div>
+          </section>
+        </main>
+      </div>
     </div>
-  </header>
 
-  <div class="container">
-    <div class="week-label">This week · Mon → Sun</div>
-    <div id="week-strip" class="week-strip"></div>
-    <div id="countdown" class="countdown hidden"></div>
-
-    <div id="loading" class="loading">Loading your mission<span class="loading-dots"></span></div>
-
-    <main id="main-content" class="hidden">
-      <article class="card" id="essay-card">
-        <span class="mission-tag" id="mission-tag">Today's mission</span>
-        <h2 id="essay-title"></h2>
-
-        <div class="vocab-section">
-          <h3>⚡ Power words — use these today!</h3>
-          <div id="vocab-bar" class="vocab-bar"></div>
-        </div>
-
-        <div id="passage" class="passage"></div>
-
-        <div class="curiosity" id="curiosity-section">
-          <h3>Ask someone you love 🤔</h3>
-          <ul id="curiosity-list"></ul>
-        </div>
-      </article>
-
-      <section class="card quiz-section" id="quiz-section">
-        <div class="quiz-header">
-          <h2>🧠 Quick quiz</h2>
-          <p>Tap your answer. Wrong? No stress — try again!</p>
-        </div>
-        <div id="questions"></div>
-      </section>
-
-      <section class="card done-banner hidden" id="report-card">
-        <div class="done-circle">✓</div>
-        <h2>Mission complete!</h2>
-        <p id="score-message">You crushed today's reading.</p>
-        <div class="report-stats">
-          <div class="stat-box">
-            <div class="num" id="first-try-count">0</div>
-            <div class="label">First try 🎯</div>
-          </div>
-          <div class="stat-box">
-            <div class="num" id="retry-count">0</div>
-            <div class="label">Took 2 tries 💪</div>
-          </div>
-        </div>
-        <div class="actions">
-          <button class="btn btn-primary" id="share-btn">📋 Share with family</button>
-          <button class="btn btn-secondary" id="retry-quiz-btn">Try quiz again</button>
-        </div>
-      </section>
-    </main>
+    <nav class="bottom-nav hidden" id="bottom-nav" aria-label="Quick navigation">
+      <button type="button" data-step="hook" class="bn-item active"><span>🔮</span><small>Wonder</small></button>
+      <button type="button" data-step="words" class="bn-item"><span>⚡</span><small>Words</small></button>
+      <button type="button" data-step="story" class="bn-item"><span>📖</span><small>Story</small></button>
+      <button type="button" data-step="quiz" class="bn-item"><span>🧠</span><small>Quiz</small></button>
+    </nav>
   </div>
 
-  <div id="toast" class="toast"></div>
-  <footer class="app-footer">New story at 3 PM · Fresh week every Sunday</footer>
+  <div id="toast" class="toast" role="status" aria-live="polite"></div>
+  <canvas id="confetti" class="confetti-canvas" aria-hidden="true"></canvas>
 
   <script src="js/app.js" type="module"></script>
 </body>

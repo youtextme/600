@@ -1,5 +1,5 @@
-const CACHE = '600-v2';
-const ASSETS = ['./', './index.html', './css/style.css', './js/app.js', './js/voice.js', './manifest.json'];
+const CACHE = '600-v3';
+const ASSETS = ['./', './index.html', './css/style.css', './js/app.js', './js/voice.js', './js/expert.js', './manifest.json'];
 
 self.addEventListener('install', e => {
   e.waitUntil(caches.open(CACHE).then(c => c.addAll(ASSETS)).then(() => self.skipWaiting()));

@@ -1,14 +1,13 @@
 /**
- * Kid-friendly voice — warmer, less robotic.
- * Prefers natural premium voices on iOS/Android/desktop.
+ * Warmer, kid-friendly voice selection
  */
-
-let voiceCache = null;
+let voiceCache = [];
 
 const VOICE_PRIORITY = [
-  'Samantha', 'Karen', 'Daniel', 'Moira', 'Tessa',
-  'Google UK English Female', 'Google US English', 'Microsoft Zira',
-  'Microsoft Aria', 'Microsoft Jenny', 'Fiona', 'Victoria',
+  'Samantha', 'Karen', 'Tessa', 'Moira', 'Daniel',
+  'Google UK English Female', 'Google US English',
+  'Microsoft Aria', 'Microsoft Jenny', 'Microsoft Zira',
+  'Fiona', 'Victoria', 'Google UK English Male',
 ];
 
 export function loadVoices() {
@@ -24,12 +23,12 @@ function pickVoice() {
     const v = voices.find(x => x.name.includes(name));
     if (v) return v;
   }
-  return voices.find(v => v.lang.startsWith('en') && !v.name.toLowerCase().includes('compact'))
+  return voices.find(v => v.lang.startsWith('en') && !/compact|novelty/i.test(v.name))
     || voices.find(v => v.lang.startsWith('en'));
 }
 
-export function speak(text, { rate = 0.94, pitch = 1.08, onEnd } = {}) {
-  if (!window.speechSynthesis) return Promise.resolve();
+export function speak(text, { rate = 0.92, pitch = 1.06, onEnd } = {}) {
+  if (!window.speechSynthesis || !text) return Promise.resolve();
 
   return new Promise(resolve => {
     speechSynthesis.cancel();
@@ -39,45 +38,33 @@ export function speak(text, { rate = 0.94, pitch = 1.08, onEnd } = {}) {
     u.pitch = pitch;
     const voice = pickVoice();
     if (voice) u.voice = voice;
-
-    u.onend = () => {
-      onEnd?.();
-      resolve();
-    };
+    u.onend = () => { onEnd?.(); resolve(); };
     u.onerror = () => resolve();
     speechSynthesis.speak(u);
   });
 }
 
-export function speakWord(word) {
-  return speak(word, { rate: 0.82, pitch: 1.0 });
+export function speakWord(word, definition) {
+  const line = definition
+    ? `${word}. ${definition}`
+    : word;
+  return speak(line, { rate: 0.8, pitch: 1.0 });
 }
 
-export function speakEncourage() {
-  const lines = [
-    "Not quite! That's okay — great minds try again. Check the passage if you need to.",
-    "Hmm, not that one! You've got this. Reread the story and pick again.",
-    "So close! Take another look at the passage. I believe in you.",
-  ];
-  return speak(lines[Math.floor(Math.random() * lines.length)], { rate: 0.92, pitch: 1.1 });
+export function speakEncourage(line) {
+  return speak(line, { rate: 0.9, pitch: 1.08 });
 }
 
-export function speakCorrect() {
-  const lines = [
-    "Yes! Nailed it!",
-    "That's right! Brilliant!",
-    "Correct! You're on fire today!",
-  ];
-  return speak(lines[Math.floor(Math.random() * lines.length)], { rate: 0.96, pitch: 1.12 });
+export function speakCorrect(line) {
+  return speak(line, { rate: 0.95, pitch: 1.12 });
 }
 
 export function speakHint(hintText) {
-  const clean = hintText.replace(/\*\*/g, '');
-  return speak(clean, { rate: 0.9, pitch: 1.05 });
+  return speak(hintText.replace(/\*\*/g, ''), { rate: 0.88, pitch: 1.04 });
 }
 
-export function speakCelebrate() {
-  return speak("Amazing! You finished today's mission! Green tick for you!", { rate: 0.95, pitch: 1.15 });
+export function speakCelebrate(line) {
+  return speak(line, { rate: 0.93, pitch: 1.14 });
 }
 
 if (typeof window !== 'undefined' && window.speechSynthesis) {
