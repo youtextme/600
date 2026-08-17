@@ -1,41 +1,41 @@
 {
   "weekId": "2026-W34",
   "weekStart": "2026-08-17",
-  "generatedAt": "2026-08-17T13:05:27.776Z",
+  "generatedAt": "2026-08-17T13:06:59.787Z",
   "timezone": "Asia/Seoul",
   "days": [
     {
       "id": "2026-08-17",
       "date": "2026-08-17",
       "dayIndex": 0,
-      "essayId": "essay-017",
-      "title": "When Gravity Bends Starlight",
-      "topic": "Black Hole Light Bending",
+      "essayId": "essay-007",
+      "title": "The Hummingbird's Impossible Engine",
+      "topic": "Hummingbird Metabolism",
       "words": [
         {
-          "word": "gravitational",
-          "definition": "Relating to the force of attraction between masses, such as gravity",
-          "exampleSentence": "Try saying: \"That is truly gravitational.\""
+          "word": "energy",
+          "definition": "Power that lets you move, think, and stay active",
+          "exampleSentence": "A hummingbird needs tons of energy to hover, Ms. Park said."
         },
         {
-          "word": "lensing",
-          "definition": "The bending and focusing of light by massive objects' gravity",
-          "exampleSentence": "Try saying: \"That is truly lensing.\""
+          "word": "rapid",
+          "definition": "Happening very quickly",
+          "exampleSentence": "Its heart beats at a rapid speed — faster than mine ever could."
         },
         {
-          "word": "singularity",
-          "definition": "A point where density becomes infinite, as theorized at the center of a black hole",
-          "exampleSentence": "Try saying: \"That is truly singularity.\""
+          "word": "consume",
+          "definition": "To eat or use something up",
+          "exampleSentence": "I told Grandpa they consume more sugar than I eat in a week."
         },
         {
-          "word": "relativistic",
-          "definition": "Relating to Einstein's theory describing space, time, and gravity at extreme speeds or masses",
-          "exampleSentence": "Try saying: \"That is truly relativistic.\""
+          "word": "astonishing",
+          "definition": "Extremely surprising — hard to believe",
+          "exampleSentence": "The amount they eat is astonishing for such a tiny bird."
         },
         {
-          "word": "curvature",
-          "definition": "The degree to which space or a surface is bent or deviates from flatness",
-          "exampleSentence": "Try saying: \"That is truly curvature.\""
+          "word": "efficient",
+          "definition": "Getting good results without wasting time or effort",
+          "exampleSentence": "My friend said their wings are incredibly efficient."
         }
       ],
       "grammarRules": [
@@ -52,374 +52,118 @@
           "name": "Em dashes for emphasis"
         }
       ],
-      "passageHtml": "<p>In May 1919, when astronomer Arthur Eddington had photographed a solar eclipse from the island of Príncipe, he had not been chasing darkness for its own sake. He had tested a prediction so strange that newspapers had later announced: light itself could weigh. Stars near the hidden sun had appeared shifted from their expected positions—as if the sun's mass had dented the sky and forced starlight to slide along the dent. Although Newton's gravity had pulled objects, Einstein's newer theory had described space itself bending.</p><p>Einstein's general relativity had proposed that mass and energy had curved spacetime like a mattress under a bowling ball. Planets had rolled along those curves as if pulled by gravity, but light—despite having no rest mass—had still followed the shortest path through bent geometry. The effect was called <span class=\"vocab-word\" data-word=\"gravitational\" title=\"Relating to the force of attraction between masses, such as gravity\">gravitational</span> <span class=\"vocab-word\" data-word=\"lensing\" title=\"The bending and focusing of light by massive objects' gravity\">lensing</span>. Even though starlight had seemed straight for everyday life, a <span class=\"vocab-word\" data-word=\"relativistic\" title=\"Relating to Einstein's theory describing space, time, and gravity at extreme speeds or masses\">relativistic</span> correction had been required near massive bodies.</p><p>Black holes had pushed the idea to extremes. When a massive star had collapsed at the end of its life, <span class=\"vocab-word\" data-word=\"curvature\" title=\"The degree to which space or a surface is bent or deviates from flatness\">curvature</span> near the remnant had grown so steep that not even light could climb out. The boundary— the event horizon—had marked the point of no return. Inside, theory had predicted a <span class=\"vocab-word\" data-word=\"singularity\" title=\"A point where density becomes infinite, as theorized at the center of a black hole\">singularity</span> where known physics had broken down. Although no human had visited such a place, mathematics had drawn the portrait in equations.</p><p>Telescopes had later seen <span class=\"vocab-word\" data-word=\"gravitational\" title=\"Relating to the force of attraction between masses, such as gravity\">gravitational</span> <span class=\"vocab-word\" data-word=\"lensing\" title=\"The bending and focusing of light by massive objects' gravity\">lensing</span> everywhere. Galaxy clusters had acted like cosmic magnifying glasses, stretching background galaxies into arcs and rings—Einstein rings when alignment had been perfect. Astronomers had used these natural telescopes to study galaxies too faint to see otherwise. Even though the clusters had been invisible in ordinary light, their mass—mostly dark matter—had betrayed them through bent starlight.</p><p>In 2019, the Event Horizon Telescope collaboration had released the first image of a black hole's shadow in galaxy M87—a glowing doughnut of gas swirling around darkness. The ring's size had matched <span class=\"vocab-word\" data-word=\"relativistic\" title=\"Relating to Einstein's theory describing space, time, and gravity at extreme speeds or masses\">relativistic</span> predictions; the dark center had been where light had fallen inward forever. Although the image had looked simple, it had confirmed decades of theory born from eclipse plates and chalkboards.</p><p>Closer home, GPS satellites had needed relativistic clock corrections—gravity had slowed time slightly in orbit compared to Earth's surface. Without Einstein's math, your phone's map had drifted by miles daily. Although black holes had seemed exotic, <span class=\"vocab-word\" data-word=\"curvature\" title=\"The degree to which space or a surface is bent or deviates from flatness\">curvature</span> had touched everyday technology.</p><p>Next time you see a photo of a black hole's ring, remember Eddington's eclipse—proof that space had been malleable and starlight had obeyed hidden geometry. Although the <span class=\"vocab-word\" data-word=\"singularity\" title=\"A point where density becomes infinite, as theorized at the center of a black hole\">singularity</span> remained a mystery, the bending of light had been real enough to weigh worlds. Gravity had not merely pulled—it had sculpted the paths photons had traveled since the universe had first turned on its lamps.</p><p>Einstein's general relativity had predicted the bending of starlight decades before astronomers had photographed it. During a 1919 solar eclipse, Arthur Eddington's expedition had measured stars near the sun appearing slightly out of place—their light deflected by the sun's gravitational field. Although the shift had been tiny, newspapers had declared that space itself could curve, and a theory born at a desk had passed its first public test.</p><p>Modern observatories had turned gravitational lensing into a measuring tool. When distant galaxies had lined up behind massive clusters, their images had stretched into arcs and rings—Einstein rings—that had magnified light from objects too faint to see directly. Although the effect had once been a curiosity, cosmologists had used it to map dark matter that had never emitted a photon yet had bent light like invisible glass. Even though black holes had remained the most dramatic lenses, every massive object had tugged photons off straight lines—reminding stargazers that looking upward had always meant looking through gravity's sculpture.</p><p>",
+      "passageHtml": "<p>At dawn in an Arizona canyon, a bird no heavier than a nickel had hung in the air as if pinned by an invisible thread. Its wings had blurred into figure-eights sixty times per second—so fast the human eye had seen only a halo of motion. It was a hummingbird, and by breakfast it had already burned more fuel per gram than a marathon runner would use in a full race. Although it looked delicate, with an <span class=\"vocab-word\" data-word=\"iridescent\" title=\"Showing shifting rainbow-like colors that change with the angle of light\">iridescent</span> throat flashing green and ruby, its body had been running an engine hotter than biology textbooks had once thought possible.</p><p>Hummingbirds are <span class=\"vocab-word\" data-word=\"nectarivorous\" title=\"Feeding primarily on nectar from flowers\">nectarivorous</span>—built to drink sugar water from flowers with long bills and tongues that had worked like tiny pumps. Nectar provides quick energy but little protein, so the birds had hunted small insects too, snatching gnats mid-air between sips. <span class=\"vocab-word\" data-word=\"Hovering\" title=\"Remaining suspended in the air without moving forward or landing\">Hovering</span>—staying aloft without a perch—had demanded extraordinary power. Only hummingbirds among birds could sustain true <span class=\"vocab-word\" data-word=\"hovering\" title=\"Remaining suspended in the air without moving forward or landing\">hovering</span> flight, rotating their wings in both directions rather than merely flapping up and down. Although airplanes had required runways, this bird had treated the sky like a chair.</p><p>Scientists had measured the numbers and blinked. A hummingbird's heart had raced up to twelve hundred beats per minute during flight. Its <span class=\"vocab-word\" data-word=\"metabolic\" title=\"Relating to the chemical processes that produce energy in living organisms\">metabolic</span> rate at peak activity had exceeded that of mammals twenty times its size. If a human had burned energy at the same relative rate, he would have needed hundreds of pounds of food daily. Even though nectar had been rich in sugar, the bird had still faced starvation within hours if flowers had failed. Evolution had answered with speed—visit a thousand blossoms before noon—and with memory sharp enough to map every reliable patch in a territory.</p><p>Night had brought a different trick. When temperatures had dropped and food had become unreachable, hummingbirds had entered <span class=\"vocab-word\" data-word=\"torpor\" title=\"A state of lowered body temperature and slowed metabolism to conserve energy\">torpor</span>—a nightly near-hibernation. Body temperature had fallen from about 104°F to near ambient chill. Heart rate had collapsed from hundreds of beats per minute to fewer than fifty. Although the bird had looked dead on its branch, it had been saving itself. At first light, metabolism had ramped up again—an internal furnace reigniting before the next marathon of <span class=\"vocab-word\" data-word=\"hovering\" title=\"Remaining suspended in the air without moving forward or landing\">hovering</span>. Researchers had once thought such swings would damage organs; instead, hummingbirds had made flexibility their superpower.</p><p>Migration had pushed the system further. Ruby-throated hummingbirds had crossed the Gulf of Mexico—roughly five hundred miles over open water without stopping. Before departure, they had gorged until they had nearly doubled weight, storing fat like a backpack of fuel. Although the journey had taken eighteen to twenty-two hours, the birds had arrived exhausted on Yucatan beaches at dawn. Even though winds had sometimes blown them off course, their compass—likely sensing Earth's magnetic field and the sun—had kept most on track.</p><p>The <span class=\"vocab-word\" data-word=\"iridescent\" title=\"Showing shifting rainbow-like colors that change with the angle of light\">iridescent</span> throat feathers had not contained green or red pigment. Microscopic platelets had bent light so colors had shifted with angle—structure, not paint. Females and rivals had judged health from shine. Although beauty had mattered for mating, the glow had also signaled vigorous <span class=\"vocab-word\" data-word=\"metabolic\" title=\"Relating to the chemical processes that produce energy in living organisms\">metabolic</span> engines capable of defending territory.</p><p>Climate change had shifted flower timing, and habitat loss had shrunk migratory stopovers. Although hummingbirds had adapted for millennia, feeders and gardens had become unexpected lifelines in suburbs. Biologists had urged native plantings so <span class=\"vocab-word\" data-word=\"nectarivorous\" title=\"Feeding primarily on nectar from flowers\">nectarivorous</span> travelers had found fuel along ancient routes.</p><p>Watch one at a feeder: a living contradiction—fragile bones, furious heart, wings writing infinity signs in air. It had mastered <span class=\"vocab-word\" data-word=\"torpor\" title=\"A state of lowered body temperature and slowed metabolism to conserve energy\">torpor</span> to survive darkness and <span class=\"vocab-word\" data-word=\"metabolic\" title=\"Relating to the chemical processes that produce energy in living organisms\">metabolic</span> fire to conquer daylight. Although it will never know the word engine, the hummingbird had been one long before humans had built the first piston. The next flower had always been worth the impossible cost of flight.</p>",
       "questions": [
         {
           "id": "q1",
-          "question": "What did Eddington's 1919 eclipse experiment demonstrate?",
+          "question": "Why must hummingbirds enter torpor at night?",
           "options": [
-            "Solar panels",
-            "Light bends around the sun",
-            "Computer code",
-            "Gravity slows clocks differently"
+            "They compete only",
+            "Conserve energy",
+            "Insects for protein",
+            "To sleep better"
           ],
           "correctIndex": 1,
-          "revealHint": "The story said: \"Star positions shifted near the sun.\" — the answer is **Light bends around the sun**.",
-          "explanation": "During the 1919 solar eclipse, Eddington measured star positions near the sun and found light bent due to gravity, confirming Einstein's general relativity prediction.",
-          "hint": "Star positions shifted near the sun."
+          "revealHint": "The story said: \"Their metabolism is extremely high during the day.\" — the answer is **Conserve energy**.",
+          "explanation": "Hummingbirds burn energy so fast they risk starving within hours; torpor lowers body temperature and heart rate dramatically to survive nights without feeding.",
+          "hint": "Their metabolism is extremely high during the day."
         },
         {
           "id": "q2",
-          "question": "What is gravitational lensing?",
+          "question": "What makes hummingbird hovering different from other birds' flight?",
           "options": [
-            "Gravity slows clocks differently",
-            "Einstein rings",
-            "Gravity bends light",
-            "They stay silent"
+            "Wings rotate in both directions",
+            "Radio waves",
+            "Prevent starvation overnight",
+            "Light angle changes color"
           ],
-          "correctIndex": 2,
-          "revealHint": "The story said: \"Mass bends light like a lens.\" — the answer is **Gravity bends light**.",
-          "explanation": "Gravitational lensing is the bending and focusing of light when it passes near massive objects whose gravity curves spacetime.",
-          "hint": "Mass bends light like a lens."
+          "correctIndex": 0,
+          "revealHint": "The story said: \"Their wings move in figure-eights.\" — the answer is **Wings rotate in both directions**.",
+          "explanation": "Hummingbirds rotate their wings in figure-eight patterns in both directions, generating lift on upstroke and downstroke—unique among birds for sustained hovering.",
+          "hint": "Their wings move in figure-eights."
         },
         {
           "id": "q3",
-          "question": "What is a singularity in black hole theory?",
+          "question": "How do ruby-throated hummingbirds prepare for crossing the Gulf of Mexico?",
           "options": [
-            "Ancient myths only",
-            "Gravitational lensing of starlight",
-            "One year exactly",
-            "Infinite density point"
+            "To look pretty",
+            "They avoid water",
+            "Gorge on food and store fat",
+            "For no reason"
           ],
-          "correctIndex": 3,
-          "revealHint": "The story said: \"Center where physics breaks down.\" — the answer is **Infinite density point**.",
-          "explanation": "A singularity is the theorized point at a black hole's center where density becomes infinite and known physical laws no longer apply.",
-          "hint": "Center where physics breaks down."
+          "correctIndex": 2,
+          "revealHint": "The story said: \"They nearly double their weight.\" — the answer is **Gorge on food and store fat**.",
+          "explanation": "Before the five-hundred-mile nonstop Gulf crossing, ruby-throated hummingbirds gorge until they nearly double body weight, storing fat as fuel for the journey.",
+          "hint": "They nearly double their weight."
         },
         {
           "id": "q4",
-          "question": "How do galaxy clusters act as natural telescopes?",
+          "question": "Why do iridescent throat feathers change color when you move your head?",
           "options": [
-            "To scare humans",
-            "Gravitational lensing magnifies",
-            "Plastic pollution",
-            "Volcanic eruptions"
+            "Gnats because nectar lacks protein",
+            "Burning wood",
+            "Computer code",
+            "Microscopic platelets bend light"
           ],
-          "correctIndex": 1,
-          "revealHint": "The story said: \"They magnify background galaxies.\" — the answer is **Gravitational lensing magnifies**.",
-          "explanation": "Massive galaxy clusters gravitationally lens background galaxies, stretching them into arcs and rings that magnify otherwise too-faint objects for study.",
-          "hint": "They magnify background galaxies."
+          "correctIndex": 3,
+          "revealHint": "The story said: \"Not pigment—microscopic structures.\" — the answer is **Microscopic platelets bend light**.",
+          "explanation": "Iridescent feathers use microscopic platelets that bend light rather than pigment, so colors shift with viewing angle—a structural optical effect.",
+          "hint": "Not pigment—microscopic structures."
         },
         {
           "id": "q5",
-          "question": "Why does GPS need relativistic corrections?",
+          "question": "Besides nectar, what do hummingbirds eat and why?",
           "options": [
-            "Center of black hole",
-            "Gravity slows clocks differently",
-            "Gravity bends light",
-            "Light bends around the sun"
+            "Eat until they nearly double weight",
+            "Insects for protein",
+            "Wings rotate in both directions",
+            "Never"
           ],
           "correctIndex": 1,
-          "revealHint": "The story said: \"Gravity affects time in orbit.\" — the answer is **Gravity slows clocks differently**.",
-          "explanation": "GPS satellites experience slightly different gravitational time dilation than receivers on Earth; without relativistic corrections, navigation would drift by miles daily.",
-          "hint": "Gravity affects time in orbit."
+          "revealHint": "The story said: \"Nectar lacks something essential.\" — the answer is **Insects for protein**.",
+          "explanation": "Nectar provides sugar energy but little protein, so hummingbirds also catch small insects and gnats to meet their protein needs.",
+          "hint": "Nectar lacks something essential."
         }
       ],
       "curiosityHooks": [
-        "Grandpa, starlight bends around the sun like it's sliding on a curved slide—does that mean space is actually dented?",
-        "Mom, if black holes eat light, how did we take a picture of one in 2019?",
-        "GPS needs Einstein's math or our maps drift miles—should we thank relativity for pizza delivery?"
+        "Grandma, a hummingbird's heart beats 1,200 times a minute in flight—can you feel your pulse and imagine that speed?",
+        "Dad, if we didn't feed our feeder for a day, could the hummingbirds really starve that fast?",
+        "They cross 500 miles of ocean without landing—how do you think they sleep on that trip?"
       ],
-      "shareMessage": "Today's essay was about black hole light bending! 🕳️✨\n\nEddington's 1919 eclipse proved starlight bends around the sun—confirming Einstein's gravitational lensing. Black holes curve spacetime so steeply light can't escape!\n\nGalaxy clusters magnify distant galaxies; the 2019 Event Horizon Telescope imaged a black hole's shadow. Even GPS needs relativistic corrections.\n\nAsk us what a singularity is and why light has weight!"
+      "shareMessage": "Today's essay was about hummingbird metabolism! 🐦⚡\n\nTheir hearts hit 1,200 beats/minute while hovering—wings blur 60 times per second! They're nectarivorous but also eat insects for protein.\n\nAt night they enter torpor, slowing their metabolism like mini-hibernation. Ruby-throated hummingbirds double their weight in fat, then fly 500 miles nonstop over the Gulf of Mexico!\n\nAsk us why their throat colors shift and what torpor means."
     },
     {
       "id": "2026-08-18",
       "date": "2026-08-18",
       "dayIndex": 1,
-      "essayId": "essay-013",
-      "title": "Stars on the Cave Ceiling",
-      "topic": "Bioluminescent Caves",
-      "words": [
-        {
-          "word": "subterranean",
-          "definition": "Existing, occurring, or found below the surface of the earth",
-          "exampleSentence": "Try saying: \"That is truly subterranean.\""
-        },
-        {
-          "word": "speleological",
-          "definition": "Relating to the scientific study of caves and cave systems",
-          "exampleSentence": "Try saying: \"That is truly speleological.\""
-        },
-        {
-          "word": "guano",
-          "definition": "Accumulated droppings of seabirds or bats, often rich in nutrients",
-          "exampleSentence": "Try saying: \"That is truly guano.\""
-        },
-        {
-          "word": "phototrophic",
-          "definition": "Capable of using light as an energy source for growth",
-          "exampleSentence": "Try saying: \"That is truly phototrophic.\""
-        },
-        {
-          "word": "troglodytic",
-          "definition": "Adapted to living in caves or underground environments",
-          "exampleSentence": "Try saying: \"That is truly troglodytic.\""
-        }
-      ],
-      "grammarRules": [
-        {
-          "id": "past-perfect",
-          "name": "Past Perfect (had + verb)"
-        },
-        {
-          "id": "although",
-          "name": "Although / Even though"
-        },
-        {
-          "id": "em-dash",
-          "name": "Em dashes for emphasis"
-        }
-      ],
-      "passageHtml": "<p>When explorer Floyd Collins had crawled into Kentucky limestone in the 1920s, he had carried lanterns—not because he had expected treasure, but because darkness there had been absolute. Yet in caves halfway around the world, from New Zealand to Vietnam, visitors today had witnessed something that had looked like bottled galaxies: thousands of blue-green points hanging from ceilings, drifting on threads, pulsing softly as if breathing. Although these were not stars, they had fooled the eye with the same quiet wonder.</p><p>Waitomo Cave on New Zealand's North Island had become famous for <span class=\"vocab-word\" data-word=\"subterranean\" title=\"Existing, occurring, or found below the surface of the earth\">subterranean</span> glowworm displays. The worms—actually larval fungus gnats—had spun silk snares beaded with sticky droplets and had lit their tails with biochemical light to lure flying insects into traps. Tour boats had drifted beneath constellations reflected in underground rivers while guides had spoken in whispers so as not to disturb hunting. Even though the scene had looked magical, it had been predation dressed as astronomy.</p><p>Other glowing caves had hosted <span class=\"vocab-word\" data-word=\"phototrophic\" title=\"Capable of using light as an energy source for growth\">phototrophic</span> bacteria on walls fed by minerals in dripping water. <span class=\"vocab-word\" data-word=\"Speleological\" title=\"Relating to the scientific study of caves and cave systems\">Speleological</span> teams had mapped chambers where microbial mats had shone faintly green, powered not by sun but by chemical energy in the rock. Although life without daylight had once seemed impossible, <span class=\"vocab-word\" data-word=\"troglodytic\" title=\"Adapted to living in caves or underground environments\">troglodytic</span> ecosystems had proved otherwise—bats, blind fish, pale crayfish, and fungi all threading a food web in perpetual twilight.</p><p>Bat colonies had often anchored these systems. Centuries of <span class=\"vocab-word\" data-word=\"guano\" title=\"Accumulated droppings of seabirds or bats, often rich in nutrients\">guano</span> had piled on cave floors, feeding insects and fungi that had in turn fed other cave dwellers. When tourists had first entered some chambers with torches, sensitive glowworm colonies had blinked out—disturbed by light, air currents, or carbon dioxide from breath. Although guides had switched to red-filtered lamps, conservationists had still debated how many visitors a fragile ceiling could tolerate.</p><p>Photographers had struggled to capture the glow without flash that would harm larvae. Long exposures had turned underground streams into mirrors doubling the illusion of sky. Scientists had measured light output per worm and had found it remarkably efficient—cold radiance evolved to attract prey, not heat the cave. Even though engineers had copied firefly chemistry for sensors, glowworms had perfected lure design without patents.</p><p>Climate change and land use had threatened water tables that had fed these caves. Pollution from agriculture had altered drip chemistry; drought had slowed the growth of stalactites that had taken millennia to form. Although <span class=\"vocab-word\" data-word=\"speleological\" title=\"Relating to the scientific study of caves and cave systems\">speleological</span> surveys had documented new chambers with remote robots, many glowworm populations had remained vulnerable to a single season of wrong humidity.</p><p>Next time you flip off a bedroom light, imagine a boat gliding under a <span class=\"vocab-word\" data-word=\"subterranean\" title=\"Existing, occurring, or found below the surface of the earth\">subterranean</span> firmament woven from silk and <span class=\"vocab-word\" data-word=\"guano\" title=\"Accumulated droppings of seabirds or bats, often rich in nutrients\">guano</span>-fed insects—each point a <span class=\"vocab-word\" data-word=\"troglodytic\" title=\"Adapted to living in caves or underground environments\">troglodytic</span> hunter advertising dinner in photons. Although the cave had never seen sunrise, it had invented its own night sky—and had kept it burning since before the first human had thought to strike flint.</p><p>Not every glowing cave had belonged to glowworms. In Puerto Rico's Río Camuy system and Vietnam's Hang Thung, explorers had documented fungal bioluminescence on rotting wood carried underground by floods. Although the light had been fainter than Waitomo's constellations, speleological teams had mapped chambers where entire fallen trees had glowed green like submerged auroras. Even though the fungi had gained no obvious benefit from shining in total darkness, insects attracted to light had spread spores along the cave floor—another predatory partnership written in photons.</p><p>Indigenous peoples had known some glowing caves long before tourism. Māori guides in New Zealand had passed stories about starless skies underground, treating the worms as taonga—treasures to protect rather than commodities to exploit. Although modern visitor centers had brought economic benefits to rural regions, elders had reminded managers that the cave had been a living river system, not a theater with a switch. When water quality had declined, glowworm numbers had dropped within a single season—proof that the ceiling's stars had depended on hillsides no tourist had ever photographed.</p><p>",
-      "questions": [
-        {
-          "id": "q1",
-          "question": "What creates the glowing display in New Zealand's Waitomo Cave?",
-          "options": [
-            "Glowworm larvae",
-            "Sensitive to torchlight and breath",
-            "Wind and storms",
-            "Solar panels"
-          ],
-          "correctIndex": 0,
-          "revealHint": "The story said: \"Larvae, not stars.\" — the answer is **Glowworm larvae**.",
-          "explanation": "Waitomo's glowworms are larval fungus gnats that produce bioluminescent light at their tails to lure insects into sticky silk snares.",
-          "hint": "Larvae, not stars."
-        },
-        {
-          "id": "q2",
-          "question": "Why is guano important in cave ecosystems?",
-          "options": [
-            "Chemical energy from minerals",
-            "Volcanic eruptions",
-            "Protect glowworm colonies",
-            "Nutrient source on cave floor"
-          ],
-          "correctIndex": 3,
-          "revealHint": "The story said: \"Bat droppings feed other life.\" — the answer is **Nutrient source on cave floor**.",
-          "explanation": "Guano from bat colonies piles on cave floors, providing nutrients that support insects, fungi, and other organisms in the underground food web.",
-          "hint": "Bat droppings feed other life."
-        },
-        {
-          "id": "q3",
-          "question": "What does troglodytic mean for cave organisms?",
-          "options": [
-            "Plastic pollution",
-            "Fungus gnat larvae",
-            "They avoid water",
-            "Adapted to cave life"
-          ],
-          "correctIndex": 3,
-          "revealHint": "The story said: \"Adapted to underground life.\" — the answer is **Adapted to cave life**.",
-          "explanation": "Troglodytic describes organisms adapted to cave or underground environments—often with specialized traits for darkness, humidity, and limited food.",
-          "hint": "Adapted to underground life."
-        },
-        {
-          "id": "q4",
-          "question": "Why do tour guides limit light and noise in glowworm caves?",
-          "options": [
-            "Glowworm larvae",
-            "Feeds insects and fungi",
-            "Only in summer",
-            "Protect glowworm colonies"
-          ],
-          "correctIndex": 3,
-          "revealHint": "The story said: \"Disturbance harms larvae.\" — the answer is **Protect glowworm colonies**.",
-          "explanation": "Bright light, air currents, and carbon dioxide from tourists can disturb or harm glowworm larvae, so guides use dim red-filtered lamps and quiet voices.",
-          "hint": "Disturbance harms larvae."
-        },
-        {
-          "id": "q5",
-          "question": "How can bacteria glow in caves without sunlight?",
-          "options": [
-            "Gravity alone",
-            "Light and CO2 disturb larvae",
-            "They never change",
-            "Phototrophic bacteria on walls"
-          ],
-          "correctIndex": 3,
-          "revealHint": "The story said: \"Phototrophic from chemical energy.\" — the answer is **Phototrophic bacteria on walls**.",
-          "explanation": "Some cave bacteria are phototrophic in a broader ecological sense, using energy from minerals in dripping water rather than sunlight to grow on cave walls.",
-          "hint": "Phototrophic from chemical energy."
-        }
-      ],
-      "curiosityHooks": [
-        "Grandma, glowworm caves look like riding a boat under the Milky Way—would you go if the ceiling is made of hungry larvae?",
-        "Mom, if bat poop feeds the whole cave food web, who do you think is the real landlord—the bats or the glowworms?",
-        "Tour guides whisper so they don't scare the worms—do you think the cave notices when we visit?"
-      ],
-      "shareMessage": "Today's essay was about bioluminescent caves! ✨🦇\n\nWaitomo Cave in New Zealand glows with fungus gnat larvae that use tail-light to lure prey into silk traps—like stars made of hunters!\n\nBat guano feeds underground ecosystems; speleologists study troglodytic life adapted to eternal dark. Tourist lights can harm fragile glowworm colonies.\n\nAsk us what guano is and why cave ceilings look like galaxies!"
-    },
-    {
-      "id": "2026-08-19",
-      "date": "2026-08-19",
-      "dayIndex": 2,
-      "essayId": "essay-020",
-      "title": "The Reef's Single Night of Fire",
-      "topic": "Coral Spawning Sync",
-      "words": [
-        {
-          "word": "gamete",
-          "definition": "A reproductive cell such as a sperm or egg that fuses with another to form a new organism",
-          "exampleSentence": "Try saying: \"That is truly gamete.\""
-        },
-        {
-          "word": "synchrony",
-          "definition": "The state of happening at the same time or operating in unison",
-          "exampleSentence": "Try saying: \"That is truly synchrony.\""
-        },
-        {
-          "word": "polyps",
-          "definition": "Small tube-shaped animals that form coral colonies and secrete hard skeletons",
-          "exampleSentence": "Try saying: \"That is truly polyps.\""
-        },
-        {
-          "word": "lunar",
-          "definition": "Relating to the moon or its cycles",
-          "exampleSentence": "Try saying: \"That is truly lunar.\""
-        },
-        {
-          "word": "broadcast",
-          "definition": "To release or send out widely, as coral releasing eggs and sperm into water",
-          "exampleSentence": "Try saying: \"That is truly broadcast.\""
-        }
-      ],
-      "grammarRules": [
-        {
-          "id": "past-perfect",
-          "name": "Past Perfect (had + verb)"
-        },
-        {
-          "id": "although",
-          "name": "Although / Even though"
-        },
-        {
-          "id": "em-dash",
-          "name": "Em dashes for emphasis"
-        }
-      ],
-      "passageHtml": "<p>On one moonlit night each year near the Great Barrier Reef, the ocean had sometimes looked as if it had snowed upside down—billions of pink and orange globules had risen from coral heads, drifting upward until the surface had shimmered like a sunset had dissolved into water. Divers who had witnessed the event had described silence broken only by bubbles and awe. Although any single coral polyp had seemed stationary and rock-like, entire reefs had coordinated the greatest group release of <span class=\"vocab-word\" data-word=\"gamete\" title=\"A reproductive cell such as a sperm or egg that fuses with another to form a new organism\">gamete</span>s on Earth.</p><p>Corals are colonies of tiny <span class=\"vocab-word\" data-word=\"polyps\" title=\"Small tube-shaped animals that form coral colonies and secrete hard skeletons\">polyps</span>—animals related to jellyfish that had built limestone apartments over generations. Most had reproduced sexually by <span class=\"vocab-word\" data-word=\"broadcast\" title=\"To release or send out widely, as coral releasing eggs and sperm into water\">broadcast</span> spawning: eggs and sperm had been dumped into currents to meet by chance. That strategy had only worked if neighbors had released at once; otherwise gametes had diluted into useless soup. Even though individual polyps had lacked eyes, the reef had synchronized like an orchestra without a visible conductor.</p><p>Scientists had pinned timing to <span class=\"vocab-word\" data-word=\"lunar\" title=\"Relating to the moon or its cycles\">lunar</span> cues—often a full moon in spring or summer depending on species and latitude—combined with water temperature and sunset light. When conditions had aligned, chemical signals had rippled through colonies and <span class=\"vocab-word\" data-word=\"synchrony\" title=\"The state of happening at the same time or operating in unison\">synchrony</span> had exploded within hours. Although researchers had once guessed spawning had been random, night dives had proved otherwise; calendars had now been published predicting peak nights for tour boats and graduate students alike.</p><p>The <span class=\"vocab-word\" data-word=\"broadcast\" title=\"To release or send out widely, as coral releasing eggs and sperm into water\">broadcast</span> cloud had fed plankton and fish while fertilized eggs had developed into larvae that had drifted days or weeks before settling on hard substrate. One successful night had seeded reefs miles away. Climate change had threatened the ritual— overheated water had caused bleaching that had weakened polyps and disrupted timing. Even though some colonies had spawned after partial recovery, mismatched <span class=\"vocab-word\" data-word=\"synchrony\" title=\"The state of happening at the same time or operating in unison\">synchrony</span> had reduced fertilization when neighbors had died.</p><p>Aquarium biologists had replicated <span class=\"vocab-word\" data-word=\"lunar\" title=\"Relating to the moon or its cycles\">lunar</span> cycles in tanks to induce spawning for restoration projects, collecting larvae to seed damaged reefs. Although lab coral had never matched wild spectacle, the technique had offered hope where storms and heat had scraped reefs bare.</p><p>Indigenous reef cultures had long noticed seasonal rises of slick spawn slicks on water—signs that fish runs would follow. Marine parks had restricted anchoring on predicted nights so propellers had not shredded floating <span class=\"vocab-word\" data-word=\"gamete\" title=\"A reproductive cell such as a sperm or egg that fuses with another to form a new organism\">gamete</span> clouds. Although tourists had booked flights to glimpse the snowstorm, the event had remained fundamentally fragile—one warm year could shift everything.</p><p>Next time you see a coral photo, imagine what had happened after dark when millions of <span class=\"vocab-word\" data-word=\"polyps\" title=\"Small tube-shaped animals that form coral colonies and secrete hard skeletons\">polyps</span> had opened like tiny chimneys and the sea had filled with future reefs. Although the colony had looked like stone by day, it had <span class=\"vocab-word\" data-word=\"broadcast\" title=\"To release or send out widely, as coral releasing eggs and sperm into water\">broadcast</span> life by moonlight—proof that the quietest neighborhoods had sometimes thrown the wildest parties on the planet.</p><p>Divers who had witnessed a mass spawn had described the ocean turning into a blizzard of pink and white—millions of egg and sperm bundles rising toward the surface in synchronized clouds. Although individual polyps had looked like static rocks by day, they had become fountains after dark, releasing gametes within minutes of neighbors both near and far. Satellite temperature data and lunar calendars had helped scientists predict the night, but local cues—water chemistry, sunset light—had still mattered enough that predictions had occasionally missed by a day.</p><p>Climate stress had threatened the timing. When seas had warmed too quickly, some reefs had spawned out of sync, reducing fertilization because eggs and sperm had drifted alone. Although captive breeding programs had collected gametes in floating nurseries, restoration had depended on wild reefs still firing together like biological fireworks. Even though a single polyp had seemed insignificant, its willingness to release on the same moon as thousands of cousins had been the difference between a reef reborn and a reef remembered only in photographs.</p><p>",
-      "questions": [
-        {
-          "id": "q1",
-          "question": "What is coral broadcast spawning?",
-          "options": [
-            "They never change",
-            "Gravity alone",
-            "Releasing gametes into water",
-            "Only on land"
-          ],
-          "correctIndex": 2,
-          "revealHint": "The story said: \"Releasing eggs and sperm into water.\" — the answer is **Releasing gametes into water**.",
-          "explanation": "Broadcast spawning is when coral polyps simultaneously release eggs and sperm into the water column for external fertilization by chance meeting in currents.",
-          "hint": "Releasing eggs and sperm into water."
-        },
-        {
-          "id": "q2",
-          "question": "Why must corals spawn in synchrony?",
-          "options": [
-            "Increase fertilization success",
-            "Small coral animals",
-            "One year exactly",
-            "Radio waves"
-          ],
-          "correctIndex": 0,
-          "revealHint": "The story said: \"Gametes must meet before diluting.\" — the answer is **Increase fertilization success**.",
-          "explanation": "Synchronized spawning ensures enough gametes are present at once for successful fertilization before they disperse and dilute in ocean currents.",
-          "hint": "Gametes must meet before diluting."
-        },
-        {
-          "id": "q3",
-          "question": "What cues trigger synchronized coral spawning?",
-          "options": [
-            "Small coral animals",
-            "Lunar cycles and temperature",
-            "Only at night",
-            "To make noise"
-          ],
-          "correctIndex": 1,
-          "revealHint": "The story said: \"Moon, temperature, sunset.\" — the answer is **Lunar cycles and temperature**.",
-          "explanation": "Coral spawning typically aligns with lunar cycles—often full moons—combined with seasonal water temperature and sunset light patterns.",
-          "hint": "Moon, temperature, sunset."
-        },
-        {
-          "id": "q4",
-          "question": "What are coral polyps?",
-          "options": [
-            "Photosynthesis only",
-            "Small coral animals",
-            "To scare humans",
-            "For no reason"
-          ],
-          "correctIndex": 1,
-          "revealHint": "The story said: \"Tiny animals building reefs.\" — the answer is **Small coral animals**.",
-          "explanation": "Polyps are small tube-shaped animals that form coral colonies, secrete hard limestone skeletons, and collectively build reef structures.",
-          "hint": "Tiny animals building reefs."
-        },
-        {
-          "id": "q5",
-          "question": "How does climate change threaten coral spawning?",
-          "options": [
-            "Photosynthesis only",
-            "Eggs and sperm dumped into currents",
-            "To look pretty",
-            "Bleaching weakens polyps"
-          ],
-          "correctIndex": 3,
-          "revealHint": "The story said: \"Bleaching disrupts timing and health.\" — the answer is **Bleaching weakens polyps**.",
-          "explanation": "Ocean warming causes bleaching that weakens polyps, kills colonies, and disrupts the synchronized timing needed for successful mass spawning.",
-          "hint": "Bleaching disrupts timing and health."
-        }
-      ],
-      "curiosityHooks": [
-        "Grandma, the whole reef 'snows' eggs one moonlit night a year—would you go diving if it looks like sunset in the water?",
-        "Mom, corals sync spawning like a secret calendar—how do you think they agree without phones?",
-        "If climate change messes up the sync, baby corals might never meet—what can we do to keep the reef's party on schedule?"
-      ],
-      "shareMessage": "Today's reading was about coral spawning sync! 🪸🌕\n\nCoral polyps release gametes together on predicted full-moon nights—broadcast spawning that looks like an underwater snowstorm!\n\nSynchrony ensures fertilization before gametes drift away. Scientists track lunar and temperature cues; climate bleaching threatens the timing.\n\nAsk us what a gamete is and why the whole reef spawns on one night!"
-    },
-    {
-      "id": "2026-08-20",
-      "date": "2026-08-20",
-      "dayIndex": 3,
       "essayId": "essay-012",
       "title": "Songs That Cross Oceans",
       "topic": "Whale Song Culture",
       "words": [
         {
-          "word": "cetacean",
-          "definition": "A marine mammal such as a whale, dolphin, or porpoise",
-          "exampleSentence": "Try saying: \"That is truly cetacean.\""
+          "word": "communicate",
+          "definition": "To share messages or information",
+          "exampleSentence": "Whales communicate through songs that travel for miles underwater."
         },
         {
-          "word": "dialect",
-          "definition": "A regional or group-specific form of language or communication",
-          "exampleSentence": "Try saying: \"That is truly dialect.\""
+          "word": "gradually",
+          "definition": "Slowly, little by little over time",
+          "exampleSentence": "The melody gradually changed over many years, Ms. Flynn explained."
         },
         {
-          "word": "acoustic",
-          "definition": "Relating to sound or the sense of hearing",
-          "exampleSentence": "Try saying: \"That is truly acoustic.\""
+          "word": "significant",
+          "definition": "Important and meaningful",
+          "exampleSentence": "I told Grandpa that whale songs are significant to their culture."
         },
         {
-          "word": "pod",
-          "definition": "A social group of whales or dolphins that travel and feed together",
-          "exampleSentence": "Try saying: \"That is truly pod.\""
+          "word": "culture",
+          "definition": "Shared customs, beliefs, and ways of a group",
+          "exampleSentence": "My friend said each pod has its own song culture."
         },
         {
-          "word": "repertoire",
-          "definition": "The full set of songs, calls, or performances an individual or group can produce",
-          "exampleSentence": "Try saying: \"That is truly repertoire.\""
+          "word": "extraordinary",
+          "definition": "Very unusual and impressively special",
+          "exampleSentence": "It is extraordinary that songs cross entire oceans."
         }
       ],
       "grammarRules": [
@@ -517,6 +261,262 @@
       "shareMessage": "Today's reading was about whale song culture! 🐋🎵\n\nHumpback whales sing structured songs that change like pop charts, spreading new phrases between pods across oceans. Roger Payne's 1970 recordings proved they weren't random noise.\n\nDifferent regions have dialects; orcas and sperm whales pass vocal traditions too. Quieter seas during COVID lowered whale stress!\n\nAsk us what a cetacean repertoire is and how whale songs travel like trends!"
     },
     {
+      "id": "2026-08-19",
+      "date": "2026-08-19",
+      "dayIndex": 2,
+      "essayId": "essay-016",
+      "title": "Palaces Built Inside the Mind",
+      "topic": "Memory Palace Technique History",
+      "words": [
+        {
+          "word": "memorize",
+          "definition": "To learn something well enough to remember it",
+          "exampleSentence": "I use a memory palace to memorize my spelling words, I told Ms. Walsh."
+        },
+        {
+          "word": "imagine",
+          "definition": "To picture something in your mind",
+          "exampleSentence": "Grandpa taught me to imagine each fact in a room of my house."
+        },
+        {
+          "word": "technique",
+          "definition": "A special method or way of doing something",
+          "exampleSentence": "My friend said this technique helps her remember speeches."
+        },
+        {
+          "word": "organize",
+          "definition": "To put things in a clear, useful order",
+          "exampleSentence": "I organize ideas by placing them on familiar shelves in my mind."
+        },
+        {
+          "word": "consider",
+          "definition": "To think carefully about something before deciding",
+          "exampleSentence": "My teacher asked me to consider using it for history dates too."
+        }
+      ],
+      "grammarRules": [
+        {
+          "id": "past-perfect",
+          "name": "Past Perfect (had + verb)"
+        },
+        {
+          "id": "although",
+          "name": "Although / Even though"
+        },
+        {
+          "id": "em-dash",
+          "name": "Em dashes for emphasis"
+        }
+      ],
+      "passageHtml": "<p>Before printing presses had existed, a Roman lawyer standing in the Forum had been expected to recite hours of testimony without notes—names, dates, statutes, precedents flowing like water from memory alone. How had anyone done it? Cicero, one of Rome's greatest <span class=\"vocab-word\" data-word=\"orator\" title=\"A skilled public speaker, especially one who addresses formal audiences\">orator</span>s, had described a trick still taught to memory champions today: the method of <span class=\"vocab-word\" data-word=\"loci\" title=\"Latin for 'places'; in memory techniques, familiar locations where information is stored mentally\">loci</span>, building a palace inside the mind.</p><p>The technique had likely originated with Greek poets who had competed in oral epic performance. Simonides of Ceos, legend had claimed, had survived a banquet roof collapse and had identified victims by remembering where each guest had sat—discovering that spatial memory had been extraordinarily sticky. Although words alone had faded quickly, places had lingered. Students of <span class=\"vocab-word\" data-word=\"rhetoric\" title=\"The art of effective or persuasive speaking and writing\">rhetoric</span> had begun placing images of ideas along familiar routes— the forum's statues, a childhood home's rooms—so recalling a walk had retrieved speeches in order.</p><p>A <span class=\"vocab-word\" data-word=\"mnemonic\" title=\"A device such as a pattern of letters or images that aids memory\">mnemonic</span> palace had worked because brains had evolved to navigate geography, not spreadsheets. You had chosen a building you had known intimately and had assigned vivid, even absurd, images to each corner—a red elephant juggling laws in the hallway, a laughing judge on the stairs. During delivery, the <span class=\"vocab-word\" data-word=\"orator\" title=\"A skilled public speaker, especially one who addresses formal audiences\">orator</span> had mentally strolled the route, collecting images like packages. Even though the images had been invented, the <span class=\"vocab-word\" data-word=\"loci\" title=\"Latin for 'places'; in memory techniques, familiar locations where information is stored mentally\">loci</span> had been real enough to anchor them.</p><p>Medieval monks had adapted the method to memorize scripture; Renaissance humanists had taught it alongside Latin grammar. Giordano Bruno had wandered Europe claiming fantastical memory systems tied to astrology—some had admired his <span class=\"vocab-word\" data-word=\"visualization\" title=\"The practice of forming clear mental images to represent ideas or information\">visualization</span> skills, others had feared them as sorcery. Although the Church had eventually burned Bruno for other heresies, his memory treatises had survived to intrigue modern psychologists.</p><p>Brain scans in the twenty-first century had shown memory athletes using spatial networks in the hippocampus while memorizing shuffled decks of cards. They had not been born different—they had trained <span class=\"vocab-word\" data-word=\"mnemonic\" title=\"A device such as a pattern of letters or images that aids memory\">mnemonic</span> palaces for months until recall had looked like magic. Even though smartphones had outsourced names and numbers, competitive memorizers had proved ancient <span class=\"vocab-word\" data-word=\"rhetoric\" title=\"The art of effective or persuasive speaking and writing\">rhetoric</span> tools had still worked on modern brains.</p><p>Students today had applied the method to anatomy, languages, and history timelines—any ordered list that had benefited from a walk through an imagined house. Teachers had encouraged exaggerated <span class=\"vocab-word\" data-word=\"visualization\" title=\"The practice of forming clear mental images to represent ideas or information\">visualization</span> because dull images had slipped away; violent or humorous scenes had stuck. Although the palace had existed only in mind, its rooms had been as navigable as any street the learner had walked since childhood.</p><p>Next time you forget where you put your keys, remember Cicero pacing mental marble halls—each statue a speech, each doorway a chapter. Although empires had fallen and libraries had burned, the method of <span class=\"vocab-word\" data-word=\"loci\" title=\"Latin for 'places'; in memory techniques, familiar locations where information is stored mentally\">loci</span> had outlasted them all. The cheapest palace had required no stone—only <span class=\"vocab-word\" data-word=\"visualization\" title=\"The practice of forming clear mental images to represent ideas or information\">visualization</span>, patience, and a route you had already known by heart.</p><p>Medieval monks had copied manuscripts in scriptoria while memorizing long liturgical passages using similar spatial tricks. Although parchment had been precious, oral rehearsal had remained essential because books had been scarce and candles had been rationed. A novice had walked mentally through the abbey cloister, placing each psalm verse on a column or fountain until the route had become a library no fire could burn. Even though the method had predated Rome, Christian monasteries had preserved it through centuries when literacy had been rare.</p><p>Modern memory athletes had pushed the palace far beyond speeches. Competitors had memorized shuffled decks of cards in under twenty seconds by assigning each card an image in a familiar gymnasium or childhood street. Although neuroscience had shown such training had thickened connections in spatial memory regions, schoolteachers had begun adapting simplified versions for vocabulary lists and history timelines. When a student had complained that facts had slipped away overnight, coaches had asked where in the mental house the dates had been stored—and whether the images had been vivid enough to steal attention from a phone screen.</p><p>",
+      "questions": [
+        {
+          "id": "q1",
+          "question": "What is the method of loci?",
+          "options": [
+            "Memory palace technique",
+            "Absurd scenes are easier to recall",
+            "Only in summer",
+            "Orator who described method of loci"
+          ],
+          "correctIndex": 0,
+          "revealHint": "The story said: \"Memory palace using familiar places.\" — the answer is **Memory palace technique**.",
+          "explanation": "The method of loci (memory palace) places vivid mental images along familiar locations so walking the route in imagination retrieves information in order.",
+          "hint": "Memory palace using familiar places."
+        },
+        {
+          "id": "q2",
+          "question": "What story is told about Simonides and the origin of spatial memory techniques?",
+          "options": [
+            "Solar panels",
+            "Hippocampus spatial networks active",
+            "One year exactly",
+            "Identified bodies by seat location"
+          ],
+          "correctIndex": 3,
+          "revealHint": "The story said: \"Banquet collapse and seating positions.\" — the answer is **Identified bodies by seat location**.",
+          "explanation": "Legend says Simonides identified banquet victims by remembering where each guest had sat, revealing how strongly spatial memory anchors recall.",
+          "hint": "Banquet collapse and seating positions."
+        },
+        {
+          "id": "q3",
+          "question": "Why does the memory palace technique use vivid or absurd images?",
+          "options": [
+            "They stay silent",
+            "Never",
+            "Ancient myths only",
+            "Memorable images stick"
+          ],
+          "correctIndex": 3,
+          "revealHint": "The story said: \"Dull images are forgotten.\" — the answer is **Memorable images stick**.",
+          "explanation": "Memory palaces use exaggerated, humorous, or bizarre images because vivid scenes are far easier to recall than dull, generic ones.",
+          "hint": "Dull images are forgotten."
+        },
+        {
+          "id": "q4",
+          "question": "Who was Cicero in the context of this passage?",
+          "options": [
+            "Electric light bulbs",
+            "Photosynthesis only",
+            "Magnetic fields",
+            "Roman orator"
+          ],
+          "correctIndex": 3,
+          "revealHint": "The story said: \"Roman orator who described the technique.\" — the answer is **Roman orator**.",
+          "explanation": "Cicero was a renowned Roman orator and lawyer who described using the method of loci to memorize long legal speeches without written notes.",
+          "hint": "Roman orator who described the technique."
+        },
+        {
+          "id": "q5",
+          "question": "What did modern brain scans show about memory athletes?",
+          "options": [
+            "Placing images along a route",
+            "To scare humans",
+            "They never change",
+            "Hippocampus spatial networks active"
+          ],
+          "correctIndex": 3,
+          "revealHint": "The story said: \"They use spatial brain networks.\" — the answer is **Hippocampus spatial networks active**.",
+          "explanation": "Brain scans show memory athletes activate spatial navigation networks in the hippocampus when memorizing, confirming they use trained mnemonic palace techniques.",
+          "hint": "They use spatial brain networks."
+        }
+      ],
+      "curiosityHooks": [
+        "Grandma, Roman lawyers memorized entire trials by walking through imaginary houses—want us to build a memory palace for your grocery list?",
+        "Mom, memory champions memorize decks of cards using rooms in their mind—could you walk through our kitchen and 'see' your speech notes?",
+        "They burned Giordano Bruno but kept his memory books—do you think remembering everything is a superpower or a curse?"
+      ],
+      "shareMessage": "Today's reading was about memory palace history! 🏛️🧠\n\nAncient Greek and Roman orators used the method of loci—placing vivid images in familiar mental rooms to memorize hours of speech.\n\nLegend says Simonides invented it after a banquet collapse. Cicero used it in Roman courts; modern memory athletes still train the same way!\n\nAsk us what a mnemonic palace is and why absurd images stick better!"
+    },
+    {
+      "id": "2026-08-20",
+      "date": "2026-08-20",
+      "dayIndex": 3,
+      "essayId": "essay-006",
+      "title": "The Viking Stone That Found the Sun",
+      "topic": "Viking Sunstone Navigation",
+      "words": [
+        {
+          "word": "navigate",
+          "definition": "To find your way across land or sea",
+          "exampleSentence": "Vikings used a sunstone to navigate across foggy seas, I learned."
+        },
+        {
+          "word": "direction",
+          "definition": "The way something is moving or facing",
+          "exampleSentence": "The stone helped them find direction when the sun was hidden."
+        },
+        {
+          "word": "determine",
+          "definition": "To figure out or decide something carefully",
+          "exampleSentence": "I asked my teacher how they determined north without a compass."
+        },
+        {
+          "word": "ancient",
+          "definition": "Very, very old — from long ago",
+          "exampleSentence": "Grandpa said this ancient trick was smarter than it sounds."
+        },
+        {
+          "word": "clever",
+          "definition": "Smart in a quick, creative way",
+          "exampleSentence": "My friend agreed the Vikings were clever navigators."
+        }
+      ],
+      "grammarRules": [
+        {
+          "id": "past-perfect",
+          "name": "Past Perfect (had + verb)"
+        },
+        {
+          "id": "although",
+          "name": "Although / Even though"
+        },
+        {
+          "id": "em-dash",
+          "name": "Em dashes for emphasis"
+        }
+      ],
+      "passageHtml": "<p>When Viking longships had cut westward toward Iceland and Greenland, their crews had faced a problem no compass could solve—because no compass had yet existed in Europe. Clouds had rolled for days. Fog had swallowed the <span class=\"vocab-word\" data-word=\"horizon\" title=\"The line where the earth's surface appears to meet the sky\">horizon</span>. Yet sagas had described sailors locating the hidden sun with a mysterious \"sunstone.\" For centuries, historians had treated the detail as poetic license. Although archaeologists had found swords and ships, no one had proven the stone was real—until modern optics had retested an old idea.</p><p>The North Atlantic is a brutal classroom for <span class=\"vocab-word\" data-word=\"navigational\" title=\"Relating to finding direction and planning a route for travel\">navigational</span> skill. Latitude could be guessed from the height of stars; longitude was largely guesswork. A <span class=\"vocab-word\" data-word=\"mariner\" title=\"A sailor or person who navigates the sea\">mariner</span> who lost the sun's position in daylight had risked drifting off course into open ocean. Medieval Icelandic texts had mentioned sunstones in passages about clearing weather. Even though skeptics had argued the word referred to sun-lit fire steel, physicists had wondered whether a crystal could detect light humans could not see directly.</p><p>Light from the sky is <span class=\"vocab-word\" data-word=\"polarized\" title=\"Light waves vibrating in a single plane rather than in all directions\">polarized</span>—its waves aligned in patterns that shift with the sun's position, even when clouds hide the disk. Certain crystals, including <span class=\"vocab-word\" data-word=\"calcite\" title=\"A transparent mineral that splits light into two images and affects polarized light\">calcite</span> (Iceland spar), split a view into two images whose brightness changes when the crystal is rotated. Hold the stone toward the sky, turn it slowly, and the pair of images had equalized when the crystal aligned with the hidden sun. Although the effect had been known in laboratories since the 1800s, Viking sailors had possibly exploited it a thousand years earlier without equations.</p><p>Researchers in 2011 had tested the theory aboard a ship under overcast skies near Tunisia. Participants had used <span class=\"vocab-word\" data-word=\"calcite\" title=\"A transparent mineral that splits light into two images and affects polarized light\">calcite</span> crystals to estimate the sun's position within a few degrees—accurate enough for open-sea steering. Although the experiment had not recreated a full Viking voyage, it had shown the method worked on a moving deck. Later teams had repeated trials in Arctic fog. Even though no sunstone had been found in a confirmed Viking navigation kit, a piece of calcite had been recovered from the wreck of an Elizabethan warship near Alderney—suggesting seafarers had valued the tool long after the Viking Age.</p><p>How would a crew use it in practice? A navigator had likely held the crystal overhead, sighting through it while rotating the stone until the twin images matched. Cross-checking with a shadow stick or known landmark had refined bearing. Although stars had guided night travel, the sunstone had filled the daylight gap when clouds had erased the <span class=\"vocab-word\" data-word=\"horizon\" title=\"The line where the earth's surface appears to meet the sky\">horizon</span>. Greenland's settlement had depended on repeatable crossings; losing a day's heading had meant missing a fjord entirely. Saga writers had preserved these techniques in verse long after the craftsmen who cut the crystals had died—proof that <span class=\"vocab-word\" data-word=\"navigational\" title=\"Relating to finding direction and planning a route for travel\">navigational</span> knowledge had passed mouth to mouth across generations.</p><p>Modern pilots and photographers still manage <span class=\"vocab-word\" data-word=\"polarized\" title=\"Light waves vibrating in a single plane rather than in all directions\">polarized</span> light with filters. Fish eyes had evolved to detect polarization to spot prey beneath glare. Although GPS had made crystal navigation obsolete, the Viking trick had reminded scientists that ancient <span class=\"vocab-word\" data-word=\"mariner\" title=\"A sailor or person who navigates the sea\">mariners</span> had been careful observers of physics they could not name. They had read the sky like a map written in invisible lines.</p><p>Next time fog hides the sun, imagine a Viking helmsman raising a cloudy chunk of <span class=\"vocab-word\" data-word=\"calcite\" title=\"A transparent mineral that splits light into two images and affects polarized light\">calcite</span>, turning it until the world doubled and then balanced—finding north's reference point without seeing fire in the sky. The sea had tested them; the stone had answered. Although their ships had rotted away, the <span class=\"vocab-word\" data-word=\"navigational\" title=\"Relating to finding direction and planning a route for travel\">navigational</span> cleverness that had stitched continents together had left a trail written in sagas, wrecks, and light itself.</p>",
+      "questions": [
+        {
+          "id": "q1",
+          "question": "How does a calcite sunstone reveal the sun's position on cloudy days?",
+          "options": [
+            "To look pretty",
+            "Detects polarized light",
+            "Ancient myths only",
+            "Computer code"
+          ],
+          "correctIndex": 1,
+          "revealHint": "The story said: \"It splits light into two images.\" — the answer is **Detects polarized light**.",
+          "explanation": "Calcite splits skylight into two images whose brightness equalizes when rotated to align with the sun's polarized light pattern, even behind clouds.",
+          "hint": "It splits light into two images."
+        },
+        {
+          "id": "q2",
+          "question": "Why couldn't Viking sailors rely on compasses during their Atlantic crossings?",
+          "options": [
+            "Gravity alone",
+            "Compasses did not exist yet",
+            "Only on land",
+            "To sleep better"
+          ],
+          "correctIndex": 1,
+          "revealHint": "The story said: \"Think about when compasses reached Europe.\" — the answer is **Compasses did not exist yet**.",
+          "explanation": "European sailors in the Viking Age did not yet have magnetic compasses, so they needed other methods like sun position and possibly sunstones.",
+          "hint": "Think about when compasses reached Europe."
+        },
+        {
+          "id": "q3",
+          "question": "What evidence supports sunstones beyond Viking sagas?",
+          "options": [
+            "Empty space",
+            "Gravity alone",
+            "2011 ship experiment",
+            "Volcanic eruptions"
+          ],
+          "correctIndex": 2,
+          "revealHint": "The story said: \"2011 ship experiment and a wreck find.\" — the answer is **2011 ship experiment**.",
+          "explanation": "Researchers successfully tested calcite navigation aboard ships in overcast conditions, and calcite was found on the Alderney Elizabethan wreck, supporting historical use.",
+          "hint": "2011 ship experiment and a wreck find."
+        },
+        {
+          "id": "q4",
+          "question": "What is polarized light?",
+          "options": [
+            "Compasses did not exist yet",
+            "Wind and storms",
+            "Light waves in a single plane",
+            "Repeatable crossings needed precise heading"
+          ],
+          "correctIndex": 2,
+          "revealHint": "The story said: \"Waves aligned in one plane.\" — the answer is **Light waves in a single plane**.",
+          "explanation": "Polarized light has waves vibrating primarily in one plane, creating patterns in skylight that shift with the sun's position even when clouds hide it.",
+          "hint": "Waves aligned in one plane."
+        },
+        {
+          "id": "q5",
+          "question": "Why was accurate daylight navigation especially important for reaching Greenland?",
+          "options": [
+            "Plastic pollution",
+            "Missing fjords by drifting off course",
+            "They compete only",
+            "2011 ship experiment"
+          ],
+          "correctIndex": 1,
+          "revealHint": "The story said: \"Missing a fjord by a day's drift.\" — the answer is **Missing fjords by drifting off course**.",
+          "explanation": "Greenland crossings required precise headings because even small drift over a day could cause ships to miss narrow fjords entirely in open ocean.",
+          "hint": "Missing a fjord by a day's drift."
+        }
+      ],
+      "curiosityHooks": [
+        "Grandpa, Vikings may have navigated with a crystal instead of a compass—would you trust a rock more than your phone GPS?",
+        "Mom, can we buy Iceland spar calcite and try to find the hidden sun on a cloudy day?",
+        "If fish eyes detect polarized light to hunt, do you think Vikings learned the trick from watching nature?"
+      ],
+      "shareMessage": "We learned about Viking sunstones today! ⚓🪨\n\nBefore compasses, North Atlantic sailors may have used calcite crystals to find the hidden sun through clouds by detecting polarized skylight. Rotating the crystal until twin images match reveals the sun's direction!\n\nScientists tested this on ships in 2011—it worked within a few degrees. Calcite was even found on an Elizabethan shipwreck.\n\nAsk us what polarized light means and why losing the sun was dangerous near Greenland!"
+    },
+    {
       "id": "2026-08-21",
       "date": "2026-08-21",
       "dayIndex": 4,
@@ -525,29 +525,29 @@
       "topic": "Pompeii Bread Ovens",
       "words": [
         {
-          "word": "thermopolium",
-          "definition": "An ancient Roman street-side food counter where hot food and drinks were sold",
-          "exampleSentence": "Try saying: \"That is truly thermopolium.\""
+          "word": "ancient",
+          "definition": "Very, very old — from long ago",
+          "exampleSentence": "The bread ovens in Pompeii are ancient, my history teacher said."
         },
         {
-          "word": "carbonized",
-          "definition": "Turned into carbon; preserved by charring rather than decay",
-          "exampleSentence": "Try saying: \"That is truly carbonized.\""
+          "word": "preserve",
+          "definition": "To keep something from being destroyed over time",
+          "exampleSentence": "Ash helped preserve the bakery for almost two thousand years."
         },
         {
-          "word": "pumice",
-          "definition": "Light volcanic rock full of air bubbles, formed during explosive eruptions",
-          "exampleSentence": "Try saying: \"That is truly pumice.\""
+          "word": "discover",
+          "definition": "To find something that was hidden or unknown",
+          "exampleSentence": "Archaeologists discover loaves still marked with baker stamps."
         },
         {
-          "word": "artisan",
-          "definition": "A skilled craftsperson who makes things by hand using traditional methods",
-          "exampleSentence": "Try saying: \"That is truly artisan.\""
+          "word": "tradition",
+          "definition": "A custom passed down through many generations",
+          "exampleSentence": "Grandma said baking bread is a tradition in almost every culture."
         },
         {
-          "word": "fermentation",
-          "definition": "The chemical breakdown of substances by yeast or bacteria, often producing gas that makes dough rise",
-          "exampleSentence": "Try saying: \"That is truly fermentation.\""
+          "word": "appreciate",
+          "definition": "To value something and be thankful for it",
+          "exampleSentence": "I appreciate that we can still see how Romans made their daily bread."
         }
       ],
       "grammarRules": [
@@ -648,34 +648,34 @@
       "id": "2026-08-22",
       "date": "2026-08-22",
       "dayIndex": 5,
-      "essayId": "essay-021",
-      "title": "When Animals Feel the Earth Shift",
-      "topic": "Earthquake Animal Behavior",
+      "essayId": "essay-009",
+      "title": "The Compass Hidden in a Bird's Eye",
+      "topic": "Quantum Bird Navigation",
       "words": [
         {
-          "word": "seismic",
-          "definition": "Relating to earthquakes or vibrations of the earth",
-          "exampleSentence": "Try saying: \"That is truly seismic.\""
+          "word": "navigate",
+          "definition": "To find your way across long distances",
+          "exampleSentence": "Birds navigate thousands of miles without maps, I explained to Dad."
         },
         {
-          "word": "precursory",
-          "definition": "Serving as a warning sign that something larger is about to happen",
-          "exampleSentence": "Try saying: \"That is truly precursory.\""
+          "word": "mysterious",
+          "definition": "Hard to understand or explain — full of secrets",
+          "exampleSentence": "Grandpa called their inner compass mysterious and amazing."
         },
         {
-          "word": "anomaly",
-          "definition": "Something that deviates from what is standard, normal, or expected",
-          "exampleSentence": "Try saying: \"That is truly anomaly.\""
+          "word": "direction",
+          "definition": "The way something is moving or facing",
+          "exampleSentence": "My teacher said they sense direction using light in their eyes."
         },
         {
-          "word": "evacuation",
-          "definition": "The organized removal of people or animals from a dangerous place",
-          "exampleSentence": "Try saying: \"That is truly evacuation.\""
+          "word": "investigate",
+          "definition": "To look closely and ask questions to find answers",
+          "exampleSentence": "Scientists investigate how birds know where to fly each season."
         },
         {
-          "word": "tremor",
-          "definition": "A small earthquake or slight shaking of the ground",
-          "exampleSentence": "Try saying: \"That is truly tremor.\""
+          "word": "remarkable",
+          "definition": "Worthy of attention — surprisingly impressive",
+          "exampleSentence": "I told my friend it is remarkable that robins find the same yard every year."
         }
       ],
       "grammarRules": [
@@ -692,118 +692,118 @@
           "name": "Em dashes for emphasis"
         }
       ],
-      "passageHtml": "<p>On February 4, 1975, officials in Haicheng, China, had ordered an <span class=\"vocab-word\" data-word=\"evacuation\" title=\"The organized removal of people or animals from a dangerous place\">evacuation</span> that had saved tens of thousands of lives hours before a magnitude 7.3 earthquake had struck. The warning had not come from satellites or smartphone alerts—those had not existed. Instead, reports had piled up of strange animal behavior: snakes had surfaced from hibernation in freezing weather, cattle had refused to enter barns, rats had run in daylight. Although skeptics had called it folklore, the city had emptied—and when buildings had collapsed, many people had been elsewhere.</p><p>Animals had sensed <span class=\"vocab-word\" data-word=\"seismic\" title=\"Relating to earthquakes or vibrations of the earth\">seismic</span> signals humans had missed. Dogs had barked without cause; fish had jumped in still ponds; birds had flushed from roosts minutes before <span class=\"vocab-word\" data-word=\"tremor\" title=\"A small earthquake or slight shaking of the ground\">tremor</span>s humans had finally felt. Researchers had proposed several mechanisms— animals had detected P-waves, the faster but weaker seismic waves that had arrived seconds before destructive S-waves; they had felt ground tilt or groundwater changes; they had heard infrasound below human hearing. Even though no single explanation had fit every story, the pattern had appeared often enough to study.</p><p>Scientists had searched for <span class=\"vocab-word\" data-word=\"precursory\" title=\"Serving as a warning sign that something larger is about to happen\">precursory</span> <span class=\"vocab-word\" data-word=\"anomaly\" title=\"Something that deviates from what is standard, normal, or expected\">anomaly</span>s in reliable data. Japan had monitored catfish in tanks; China had maintained observation networks for snakes and rodents near fault lines. Although Haicheng had seemed like proof, later quakes had hit without animal warnings—false negatives had undermined confidence. Statisticians had also noted false positives: animals had acted oddly on calm days too.</p><p>Modern seismology had focused on instruments—gps creep, strain meters, aftershock patterns—rather than zoo behavior. Yet pet owners had continued reporting dogs pacing before quakes worldwide. Some biologists had suggested evolution had favored <span class=\"vocab-word\" data-word=\"seismic\" title=\"Relating to earthquakes or vibrations of the earth\">seismic</span> sensitivity in burrowing species because falling tunnels had killed careless ones. Even though city pigeons had faced fewer cave-ins, nervous systems had sometimes retained ancient alarms.</p><p>Technology had merged old and new in limited ways. Motion sensors on farms had logged cattle clustering hours before Italian <span class=\"vocab-word\" data-word=\"tremor\" title=\"A small earthquake or slight shaking of the ground\">tremor</span>s; apps had invited citizens to report pet <span class=\"vocab-word\" data-word=\"anomaly\" title=\"Something that deviates from what is standard, normal, or expected\">anomaly</span>s alongside instrument readings. Although prediction had remained imperfect, rapid <span class=\"vocab-word\" data-word=\"evacuation\" title=\"The organized removal of people or animals from a dangerous place\">evacuation</span> after early shaking had saved lives where building codes had been weak.</p><p>Haicheng's success had been unique—foreshocks, odd weather, and animal reports had combined with brave officials willing to act. Most earthquakes had still arrived without dress rehearsal. Although we had not built a zoo-based early-warning system, the stories had reminded us that biology had sometimes felt the planet flex before our calendars had noticed.</p><p>Next time your dog stares at the wall and whines, you will probably blame squirrels—but remember Haicheng's snakes in snow, a <span class=\"vocab-word\" data-word=\"precursory\" title=\"Serving as a warning sign that something larger is about to happen\">precursory</span> whisper from faults deep below. Although instruments had mapped <span class=\"vocab-word\" data-word=\"seismic\" title=\"Relating to earthquakes or vibrations of the earth\">seismic</span> waves with precision, animals had remained Earth's older sensors—imperfect, mysterious, and occasionally right when seconds had mattered most.</p><p>Historical accounts had mixed folklore with observation. In 373 BC, Greek writers had recorded rats, snakes, and weasels fleeing Helice days before an earthquake—stories repeated so often that modern seismologists had treated them cautiously yet had not dismissed them entirely. Although mass animal movement could have unrelated causes, repeated reports from China, Japan, and California had suggested some species might detect precursory signals humans had ignored.</p><p>Today sensor networks had outpaced anecdote. Seismologists had deployed accelerometers, gas sniffers, and strain gauges along fault lines, searching for reliable precursors that animals might feel first. Although no zookeeper had yet run a perfect earthquake forecast from restless elephants alone, researchers had documented anomalous behavior—unusual barking, refusals to enter stalls, restless fish in ponds—minutes to hours before some tremors. Even though evacuation based solely on animal oddities would have caused chaos, combining biological anomalies with instrument data had remained an active frontier—one where the dog scratching at the door might someday contribute to a warning humans could trust before the ground had finished arguing with itself.</p><p>",
+      "passageHtml": "<p>Every autumn, when frost had begun to silver the meadows of northern Europe, a small songbird called the European robin had vanished from garden feeders as if pulled by an invisible thread. Within weeks, the same individuals had appeared in olive groves along the Mediterranean—hundreds of miles south—without maps, without GPS, without parents to guide them. Ornithologists had tracked these <span class=\"vocab-word\" data-word=\"migratory\" title=\"Relating to seasonal movement from one region to another\">migratory</span> routes for decades, yet one mystery had refused to fade: how did a creature weighing less than a deck of cards navigate across continents in darkness and storm?</p><p>Scientists had long suspected birds could sense Earth's magnetic field—a sense called <span class=\"vocab-word\" data-word=\"magnetoreception\" title=\"The ability to detect Earth's magnetic field for orientation or navigation\">magnetoreception</span>. Experiments in the 1960s had shown caged robins attempted to hop in the correct seasonal direction even when they had never seen the sky outdoors. Although magnets placed beside cages had confused them, researchers had still lacked a mechanism. Even though iron filings in beaks had once been proposed, later studies had found no reliable magnetic mineral in most songbirds.</p><p>The breakthrough had come from an unlikely marriage—biology and quantum physics. In the early 2000s, biophysicists had proposed that a protein called <span class=\"vocab-word\" data-word=\"cryptochrome\" title=\"A light-sensitive protein found in plants and animals that may react to magnetic fields\">cryptochrome</span> in a robin's retina might act as a living compass. When blue light struck the protein, electrons had jumped between linked molecules in a way physicists called radical pairs. Earth's magnetic field had subtly altered how those pairs evolved, creating a chemical signal the brain could read as <span class=\"vocab-word\" data-word=\"orientation\" title=\"The ability to determine one's position or direction relative to surroundings\">orientation</span> data. Although the idea had sounded bizarre, lab tests had shown robins became disoriented under radio waves that should disturb quantum states—but not under other frequencies.</p><p>Quantum <span class=\"vocab-word\" data-word=\"entanglement\" title=\"A quantum physics phenomenon where paired particles remain linked across distance\">entanglement</span>—spooky linked behavior between particles—had usually been discussed in particle colliders, not in feathers. Yet the radical-pair model had suggested birds might harness effects that had once seemed too fragile for warm, noisy living tissue. Even though skeptics had argued biological systems could not preserve quantum coherence, robin experiments had kept pointing toward the retina. Migratory warblers, finches, and geese had likely shared similar machinery, tuned by evolution across millions of years of night flights.</p><p>Navigation had never relied on magnetism alone. Birds had also used the sun's arc, star patterns, landmarks, and even smells carried on wind. Young birds on their first journey had often traveled with experienced adults, learning routes that had been refined across generations. Although a single sense could fail beneath cloud or pollution, the combined toolkit had made <span class=\"vocab-word\" data-word=\"migratory\" title=\"Relating to seasonal movement from one region to another\">migratory</span> flight remarkably reliable. Radar had recorded vast rivers of birds moving on clear nights—millions of beating hearts steering by rules humans had only begun to decode.</p><p>Climate change had shifted timing and habitats, forcing some populations to arrive after peak food had passed. Light pollution had blurred star fields above cities, and electromagnetic noise from human devices had raised new questions about whether quantum compasses could still calibrate cleanly. Conservationists had urged darker skies along flyways because even though satellites now tracked flocks from space, each bird still had to find its own way on the wing.</p><p>Next time you hear a robin in spring, consider what had happened in the months you had not seen it—a crossing of seas and mountains guided partly by light hitting <span class=\"vocab-word\" data-word=\"cryptochrome\" title=\"A light-sensitive protein found in plants and animals that may react to magnetic fields\">cryptochrome</span> molecules in the eye. Although we had invented compasses from lodestone and silicon, evolution had beat us to quantum <span class=\"vocab-word\" data-word=\"magnetoreception\" title=\"The ability to detect Earth's magnetic field for orientation or navigation\">magnetoreception</span> by ages. The robin had carried a map written in physics too strange for the birds themselves to name—and precise enough to bring them home.</p><p>European robins had become the poster birds for the quantum hypothesis. When researchers had placed them inside shielded chambers that had blocked normal magnetic cues, the birds had still oriented correctly—until wavelengths of light that could affect cryptochrome had been filtered out. Although the evidence had remained debated, physicists and ornithologists had begun collaborating in ways no textbook had predicted. Even though a robin's brain had weighed less than a grape, it had possibly been performing calculations at the edge of what laboratories had measured in chilled crystals.</p><p>Homing pigeons had offered another puzzle. For decades, trainers had released birds hundreds of miles from lofts they had never seen from the air, yet most had returned by afternoon. Magnets taped to their heads had confused some; olfactory maps and visual landmarks had explained others. Although no single sense had accounted for every journey, magnetoreception had remained the ghost in the compass—always present in the data, never fully captured in a cage.</p><p>",
       "questions": [
         {
           "id": "q1",
-          "question": "What happened in Haicheng, China in 1975 before the major earthquake?",
+          "question": "What is magnetoreception in birds?",
           "options": [
-            "Only in summer",
-            "Ancient myths only",
-            "Mass evacuation",
-            "Wind and storms"
+            "Empty space",
+            "Detecting Earth's magnetic field",
+            "Multiple navigation cues combined",
+            "Disrupt quantum radical pairs"
           ],
-          "correctIndex": 2,
-          "revealHint": "The story said: \"Animals acted strangely; city evacuated.\" — the answer is **Mass evacuation**.",
-          "explanation": "Before the 1975 Haicheng earthquake, unusual animal behavior reports combined with other signs prompted officials to evacuate, saving tens of thousands of lives.",
-          "hint": "Animals acted strangely; city evacuated."
+          "correctIndex": 1,
+          "revealHint": "The story said: \"Sensing Earth's magnetic field.\" — the answer is **Detecting Earth's magnetic field**.",
+          "explanation": "Magnetoreception is the ability to detect Earth's magnetic field, which birds use alongside other cues to navigate during migration.",
+          "hint": "Sensing Earth's magnetic field."
         },
         {
           "id": "q2",
-          "question": "What are P-waves and why might animals detect them before humans?",
+          "question": "What role might cryptochrome play in robin navigation?",
           "options": [
-            "Photosynthesis only",
-            "Faster seismic waves first",
-            "Magnetic fields",
-            "Only in summer"
+            "Quantum compass in the eye",
+            "Only at night",
+            "Plastic pollution",
+            "Sun and stars"
           ],
-          "correctIndex": 1,
-          "revealHint": "The story said: \"Faster, weaker seismic waves arrive first.\" — the answer is **Faster seismic waves first**.",
-          "explanation": "P-waves are faster, weaker seismic waves that arrive seconds before destructive S-waves; animals may feel or hear these precursory tremors before humans notice shaking.",
-          "hint": "Faster, weaker seismic waves arrive first."
+          "correctIndex": 0,
+          "revealHint": "The story said: \"Light-sensitive protein in the retina.\" — the answer is **Quantum compass in the eye**.",
+          "explanation": "Cryptochrome in the retina may form radical pairs when hit by blue light; Earth's magnetic field alters their behavior, producing signals the brain interprets as directional information.",
+          "hint": "Light-sensitive protein in the retina."
         },
         {
           "id": "q3",
-          "question": "Why is animal earthquake prediction considered unreliable?",
+          "question": "Why did radio waves of specific frequencies disorient robins in experiments?",
           "options": [
-            "Computer code",
-            "False positives and false negatives",
-            "Animal behavior warnings",
-            "Officials evacuated before quake"
+            "They compete only",
+            "Gravity alone",
+            "Disrupt quantum radical pairs",
+            "Ancient myths only"
           ],
-          "correctIndex": 1,
-          "revealHint": "The story said: \"False positives and missed quakes.\" — the answer is **False positives and false negatives**.",
-          "explanation": "Animal behavior anomalies occur on non-earthquake days too (false positives), and many earthquakes strike without reported animal warnings (false negatives), making prediction unreliable.",
-          "hint": "False positives and missed quakes."
+          "correctIndex": 2,
+          "revealHint": "The story said: \"They disturb quantum states.\" — the answer is **Disrupt quantum radical pairs**.",
+          "explanation": "Researchers found robins lost orientation under radio waves expected to disrupt quantum radical-pair states, supporting the quantum compass hypothesis.",
+          "hint": "They disturb quantum states."
         },
         {
           "id": "q4",
-          "question": "What does precursory mean in earthquake studies?",
+          "question": "Besides magnetoreception, what other cues do migratory birds use?",
           "options": [
-            "Never",
-            "Many quakes have no animal warnings",
-            "Warning before main event",
-            "They stay silent"
+            "Sun and stars",
+            "Creates chemical signals from radical pairs",
+            "Computer code",
+            "Affect quantum navigation"
           ],
-          "correctIndex": 2,
-          "revealHint": "The story said: \"Warning signs before a larger event.\" — the answer is **Warning before main event**.",
-          "explanation": "Precursory signals or behaviors are changes that may appear before a larger earthquake, though they are not consistently reliable for prediction.",
-          "hint": "Warning signs before a larger event."
+          "correctIndex": 0,
+          "revealHint": "The story said: \"Sun, stars, landmarks, smells.\" — the answer is **Sun and stars**.",
+          "explanation": "Birds combine magnetic sensing with the sun's position, star patterns, landmarks, wind-borne smells, and social learning from experienced flock members.",
+          "hint": "Sun, stars, landmarks, smells."
         },
         {
           "id": "q5",
-          "question": "What evolutionary reason might explain seismic sensitivity in some animals?",
+          "question": "Why is quantum entanglement mentioned in a bird navigation essay?",
           "options": [
-            "Ancient myths only",
-            "Primary waves seconds earlier",
+            "Radical pairs use quantum effects",
+            "Echoes and sound",
             "Empty space",
-            "Burrowing species avoid collapse"
+            "Reacts to light and magnetic field"
           ],
-          "correctIndex": 3,
-          "revealHint": "The story said: \"Burrowing animals survive tunnel collapses.\" — the answer is **Burrowing species avoid collapse**.",
-          "explanation": "Burrowing animals that sensed seismic vibrations early may have survived collapsing tunnels, so evolution may have favored seismic sensitivity in some species.",
-          "hint": "Burrowing animals survive tunnel collapses."
+          "correctIndex": 0,
+          "revealHint": "The story said: \"Radical pairs link quantum physics to biology.\" — the answer is **Radical pairs use quantum effects**.",
+          "explanation": "The radical-pair model connects bird navigation to quantum phenomena like entanglement, suggesting living systems may exploit fragile quantum effects for orientation.",
+          "hint": "Radical pairs link quantum physics to biology."
         }
       ],
       "curiosityHooks": [
-        "Grandpa, China evacuated a whole city because snakes woke up in winter—would you leave home if our dog acted that weird?",
-        "Mom, dogs might feel earthquake P-waves seconds before we do—should we trust Fido more than my phone alert?",
-        "Haicheng saved thousands but most quakes have no animal warning—why do you think snakes got it right that one time?"
+        "Grandpa, do you think robins see a colorful magnetic field overlay on the world like a video game map?",
+        "Mom, if our phones give off radio waves, could they confuse migrating birds flying over our house?",
+        "Scientists put magnets next to bird cages and the birds got lost—should we hide our fridge magnets during migration season?"
       ],
-      "shareMessage": "Today's essay was about earthquake animal behavior! 🐍🌍\n\nBefore the 1975 Haicheng earthquake, snakes, rats, and cattle acted strangely—and officials evacuated in time to save tens of thousands!\n\nAnimals may detect P-waves, infrasound, or groundwater changes before we feel tremors. But false alarms make zoo-based prediction unreliable.\n\nAsk us what a precursory anomaly is and why Haicheng was special!"
+      "shareMessage": "Today's essay was about quantum bird navigation! 🐦🧭\n\nMigratory birds like robins may use a protein called cryptochrome in their eyes as a quantum compass, detecting Earth's magnetic field through radical-pair chemistry.\n\nExperiments show specific radio waves disorient them—supporting a quantum magnetoreception theory! They also navigate by sun, stars, landmarks, and smells.\n\nAsk us what cryptochrome is and why quantum entanglement matters to songbirds!"
     },
     {
       "id": "2026-08-23",
       "date": "2026-08-23",
       "dayIndex": 6,
-      "essayId": "essay-008",
-      "title": "The Eight-Armed Escape Artist",
-      "topic": "Octopus Intelligence",
+      "essayId": "essay-003",
+      "title": "The Rainbow Punch of the Sea",
+      "topic": "Mantis Shrimp",
       "words": [
         {
-          "word": "cephalopod",
-          "definition": "A marine mollusk such as an octopus or squid with a large head and tentacles",
-          "exampleSentence": "Try saying: \"That is truly cephalopod.\""
+          "word": "incredible",
+          "definition": "Hard to believe but true — amazing",
+          "exampleSentence": "\"That mantis shrimp is incredible,\" I told my lab partner."
         },
         {
-          "word": "cognition",
-          "definition": "The mental process of acquiring knowledge through thought, experience, and senses",
-          "exampleSentence": "Try saying: \"That is truly cognition.\""
+          "word": "powerful",
+          "definition": "Having great strength or force",
+          "exampleSentence": "My friend said its punch is powerful enough to break aquarium glass."
         },
         {
-          "word": "chromatophore",
-          "definition": "A pigment cell that allows some animals to change color by expanding or contracting",
-          "exampleSentence": "Try saying: \"That is truly chromatophore.\""
+          "word": "colorful",
+          "definition": "Full of bright, varied colors",
+          "exampleSentence": "Grandpa laughed when I said the shrimp is more colorful than my art box."
         },
         {
-          "word": "dexterous",
-          "definition": "Skillful and coordinated, especially with the hands or limbs",
-          "exampleSentence": "Try saying: \"That is truly dexterous.\""
+          "word": "compare",
+          "definition": "To look at two things and notice how they are alike or different",
+          "exampleSentence": "Ms. Ortiz asked us to compare the shrimp's eyes to ours."
         },
         {
-          "word": "invertebrate",
-          "definition": "An animal without a backbone, such as an octopus, insect, or jellyfish",
-          "exampleSentence": "Try saying: \"That is truly invertebrate.\""
+          "word": "protective",
+          "definition": "Keeping someone or something safe from harm",
+          "exampleSentence": "I said the hard shell is protective, like wearing a helmet."
         }
       ],
       "grammarRules": [
@@ -820,85 +820,85 @@
           "name": "Em dashes for emphasis"
         }
       ],
-      "passageHtml": "<p>In 2016, when keepers at the New Zealand National Aquarium had arrived one morning, their most famous resident—a common octopus named Inky—had vanished. Security cameras later showed he had squeezed through a gap in his tank lid, crossed the floor, and slid down a drainpipe fifty meters long to reach the open sea. Although the escape had looked like a cartoon caper, biologists had recognized something deeper: Inky had planned. He had tested the lid, remembered the drain's location, and timed his move when the building had been quiet. Even though octopuses had lived only two or three years, this <span class=\"vocab-word\" data-word=\"invertebrate\" title=\"An animal without a backbone, such as an octopus, insect, or jellyfish\">invertebrate</span> had outsmarted a facility built to contain sharks.</p><p>Octopuses belong to the <span class=\"vocab-word\" data-word=\"cephalopod\" title=\"A marine mollusk such as an octopus or squid with a large head and tentacles\">cephalopod</span> family—soft-bodied hunters whose ancestors had discarded shells millions of years ago and replaced armor with brains. Roughly two-thirds of an octopus's neurons sit in its arms, not its head, so each tentacle had partly thought for itself while still coordinating with the whole animal. Researchers had watched octopuses unscrew jar lids from the inside, open childproof pill bottles, and navigate mazes they had learned yesterday. Although birds and mammals had usually claimed the spotlight in animal-intelligence studies, cephalopods had forced scientists to ask whether <span class=\"vocab-word\" data-word=\"cognition\" title=\"The mental process of acquiring knowledge through thought, experience, and senses\">cognition</span> required a skeleton—or even a familiar brain layout.</p><p>Their camouflage had been equally astonishing. Millions of <span class=\"vocab-word\" data-word=\"chromatophore\" title=\"A pigment cell that allows some animals to change color by expanding or contracting\">chromatophore</span>s—tiny sacs of pigment beneath the skin—had expanded and contracted under neural control until the animal matched coral, sand, or a threatening predator's pattern in less than a second. Some species had rippled waves of color across their bodies during courtship, a display researchers had compared to living video screens. Even though the octopus had possessed no bones, its body had been <span class=\"vocab-word\" data-word=\"dexterous\" title=\"Skillful and coordinated, especially with the hands or limbs\">dexterous</span> enough to manipulate tools—coconut shells carried as portable shelters, rocks used to barricade den entrances. Divers had filmed veined octopuses stacking shells like stone walls before bedtime.</p><p>Tool use had once been considered uniquely human, then extended to chimpanzees and crows. When Jennifer Mather and colleagues had documented octopuses collecting coconut halves, the definition of intelligence had widened again. Although an octopus brain had been shaped like a doughnut—wrapping around its esophagus—experiments had shown long-term memory, discrimination between individual humans, and playful behavior. One lab octopus had learned to squirt water at a researcher it disliked while staying polite to others. Even though the animal had never seen that person harm it, it had remembered a prior unpleasant handling session.</p><p>Wild octopuses had also solved ecological puzzles. They had raided crab traps, entered them through the bait door, eaten the catch, and left the way they had come. Fishermen had cursed the losses until cameras had proved the thief was an armored ghost with no bones—only <span class=\"vocab-word\" data-word=\"cognition\" title=\"The mental process of acquiring knowledge through thought, experience, and senses\">cognition</span> and patience. Although humans had built locks and alarms, the octopus had treated obstacles as puzzles worth tasting with suckers lined with chemoreceptors—each arm had literally smelled its way forward.</p><p>Conservation had grown urgent as warming oceans had stressed reef habitats. Because octopuses had matured fast and died young, populations had bounced back quickly when protected—but trawling and pollution had still erased local giants like the giant Pacific octopus. Marine biologists had argued that respecting <span class=\"vocab-word\" data-word=\"cephalopod\" title=\"A marine mollusk such as an octopus or squid with a large head and tentacles\">cephalopod</span> intelligence meant tighter welfare rules in labs and restaurants. Several countries had already tightened laws on boiling live animals without stunning.</p><p>Next time you see a photo of an octopus changing color like a LED screen, remember Inky sliding toward freedom through a drain meant for rainwater. The animal had possessed no passport, no map, no thumbs—only eight <span class=\"vocab-word\" data-word=\"dexterous\" title=\"Skillful and coordinated, especially with the hands or limbs\">dexterous</span> arms, a doughnut brain, and a <span class=\"vocab-word\" data-word=\"chromatophore\" title=\"A pigment cell that allows some animals to change color by expanding or contracting\">chromatophore</span> wardrobe. Although we had spent centuries calling spineless creatures simple, the octopus had rewritten the syllabus. Evolution had built a mind from slime and nerve—and it had escaped before breakfast.</p>",
+      "passageHtml": "<p>On a coral reef in Indonesia, a creature the length of a candy bar had been hiding in a burrow lined with shell fragments. Divers had swum past it a thousand times without noticing. It was not a shrimp in the dinner-plate sense—not mild, not pink, not passive. It was a mantis shrimp, and it had earned a reputation among marine biologists as one of the most <span class=\"vocab-word\" data-word=\"formidable\" title=\"Inspiring fear or respect through being powerful or capable\">formidable</span> small animals in the ocean. Although it looked decorative, like a tropical jewel with waving arms, researchers had learned to handle it with extreme care.</p><p>The punch comes from a raptorial appendage—a hinged club that had evolved not to slice but to strike. When the mantis shrimp had cocked its arm and released it, the club had accelerated faster than a .22 caliber bullet leaving a barrel. The <span class=\"vocab-word\" data-word=\"velocity\" title=\"The speed of something in a given direction\">velocity</span> was so extreme that water near the impact had boiled briefly, producing tiny bubbles that collapsed with a flash of heat and light—a phenomenon called cavitation. Even though the target might be a thick snail shell, the strike had often shattered it in one blow. Crabs, clams, and rival shrimp had all fallen to the same physics.</p><p>Engineers had studied the club's structure for years. It was not solid bone but a <span class=\"vocab-word\" data-word=\"compound\" title=\"Made up of several parts combined into a whole\">compound</span> material—layers of mineral and organic fibers arranged so cracks could not spread easily. Although the shrimp had fired thousands of blows against rock-hard prey, the club remained <span class=\"vocab-word\" data-word=\"resilient\" title=\"Able to recover quickly or withstand difficult conditions\">resilient</span>. Materials scientists had copied the design for lightweight armor and sports helmets. Even though humans had invented ceramics centuries ago, this animal had perfected shock absorption on the reef long before anyone had written a formula for it.</p><p>Then there were the eyes—perhaps the strangest part of all. Human eyes use three color receptors. Mantis shrimp had sixteen. Their <span class=\"vocab-word\" data-word=\"compound\" title=\"Made up of several parts combined into a whole\">compound</span> eyes—bulging spheres on stalks—could detect ultraviolet light, polarized glare, and a <span class=\"vocab-word\" data-word=\"chromatic\" title=\"Relating to colors or the full range of colors in light\">chromatic</span> range we can barely imagine. Although scientists had first assumed more receptors meant richer color vision like ours, experiments had suggested something different: the shrimp might process color quickly, almost like a scanner, rather than blending hues the way painters do. Even though their world looked <span class=\"vocab-word\" data-word=\"chromatic\" title=\"Relating to colors or the full range of colors in light\">chromatic</span> beyond our dreams, they had never needed to admire sunsets—they had needed to spot transparent prey against shifting coral.</p><p>Some species—called smashers—had specialized in the club strike. Others—spearers—had barbed arms for snatching fish. Although both types had shared the legendary eyes, their hunting tools had diverged over millions of years. Aquarium keepers had learned painful lessons: a mantis shrimp could crack glass tanks if the walls were too thin. One enthusiast had returned home to find his prized fish gone and the shrimp sitting calmly on a fortress of broken coral. The animal had not been cruel—it had simply been built for a <span class=\"vocab-word\" data-word=\"formidable\" title=\"Inspiring fear or respect through being powerful or capable\">formidable</span> job.</p><p>Biologists had also recorded complex communication. Mantis shrimp had flashed colors across their bodies—bright patches that had shifted during fights and courtship. Although their brains were small, the behaviors had shown memory and territory defense. When two neighbors had disputed a burrow, the contest had sometimes ended without a strike—warnings delivered through posture and hue.</p><p>Next time you see a photo of a mantis shrimp glowing in neon blues and reds, remember what the image hides: a <span class=\"vocab-word\" data-word=\"resilient\" title=\"Able to recover quickly or withstand difficult conditions\">resilient</span> club moving at bullet <span class=\"vocab-word\" data-word=\"velocity\" title=\"The speed of something in a given direction\">velocity</span>, and eyes that had split light into a <span class=\"vocab-word\" data-word=\"chromatic\" title=\"Relating to colors or the full range of colors in light\">chromatic</span> alphabet we still struggle to read. The reef's quiet candy-bar assassin had been perfecting its design since long before the first diver had thought to look closer.</p>",
       "questions": [
         {
           "id": "q1",
-          "question": "How did Inky the octopus escape from the New Zealand aquarium?",
+          "question": "What physical phenomenon creates a flash of heat and light when the mantis shrimp strikes?",
           "options": [
-            "Coconut shell shelters",
-            "Solar panels",
-            "Through a drainpipe",
-            "Radio waves"
+            "Cavitation",
+            "16",
+            "Computer code",
+            "They never change"
           ],
-          "correctIndex": 2,
-          "revealHint": "The story said: \"Think drainpipe and tank lid.\" — the answer is **Through a drainpipe**.",
-          "explanation": "Inky squeezed through a gap in his tank lid, crossed the floor, and slid down a fifty-meter drainpipe to reach the open sea.",
-          "hint": "Think drainpipe and tank lid."
+          "correctIndex": 0,
+          "revealHint": "The story said: \"It involves bubbles in water.\" — the answer is **Cavitation**.",
+          "explanation": "The club moves so fast it creates cavitation bubbles in water; when those bubbles collapse, they produce a brief flash of heat and light.",
+          "hint": "It involves bubbles in water."
         },
         {
           "id": "q2",
-          "question": "What are chromatophores and what do they allow octopuses to do?",
+          "question": "How many color receptors do mantis shrimp eyes have compared to humans?",
           "options": [
-            "Solar panels",
-            "Electric light bulbs",
-            "Pigment cells for color change",
-            "Volcanic eruptions"
+            "They stay silent",
+            "Shock absorption",
+            "Sixteen",
+            "Only on land"
           ],
           "correctIndex": 2,
-          "revealHint": "The story said: \"Pigment cells under the skin.\" — the answer is **Pigment cells for color change**.",
-          "explanation": "Chromatophores are pigment cells beneath the skin that expand and contract, letting octopuses change color and camouflage in under a second.",
-          "hint": "Pigment cells under the skin."
+          "revealHint": "The story said: \"Humans have three.\" — the answer is **Sixteen**.",
+          "explanation": "Mantis shrimp have sixteen color receptors, while humans have only three, allowing them to detect ultraviolet and polarized light.",
+          "hint": "Humans have three."
         },
         {
           "id": "q3",
-          "question": "Why is it unusual that so many octopus neurons are in the arms?",
+          "question": "Why have engineers copied the structure of the mantis shrimp's club?",
           "options": [
-            "Each arm partly thinks independently",
-            "To sleep better",
-            "They stay silent",
+            "Detect rather than blend hues",
+            "Shock absorption",
+            "Electric light bulbs",
             "Plastic pollution"
           ],
-          "correctIndex": 0,
-          "revealHint": "The story said: \"Arms partly think for themselves.\" — the answer is **Each arm partly thinks independently**.",
-          "explanation": "About two-thirds of an octopus's neurons are in its arms, so each tentacle can process information and act with partial independence while coordinating with the body.",
-          "hint": "Arms partly think for themselves."
+          "correctIndex": 1,
+          "revealHint": "The story said: \"Think about armor and helmets.\" — the answer is **Shock absorption**.",
+          "explanation": "The club's compound layered structure resists cracking under repeated high-impact strikes, inspiring designs for armor and sports helmets.",
+          "hint": "Think about armor and helmets."
         },
         {
           "id": "q4",
-          "question": "What evidence showed octopuses use tools in the wild?",
+          "question": "What is the difference between 'smashers' and 'spearers'?",
           "options": [
-            "Distributed intelligence in limbs",
-            "Only at night",
-            "Empty space",
-            "Coconut shell shelters"
+            "For helmets and armor design",
+            "Radio waves",
+            "Smashers use clubs, spearers use barbed arms",
+            "Empty space"
           ],
-          "correctIndex": 3,
-          "revealHint": "The story said: \"Coconut shells and rocks.\" — the answer is **Coconut shell shelters**.",
-          "explanation": "Researchers documented octopuses carrying coconut shell halves as portable shelters and stacking rocks to barricade their dens—behaviors classified as tool use.",
-          "hint": "Coconut shells and rocks."
+          "correctIndex": 2,
+          "revealHint": "The story said: \"One strikes shells; one snatches fish.\" — the answer is **Smashers use clubs, spearers use barbed arms**.",
+          "explanation": "Smasher species use hinged clubs to shatter hard shells, while spearer species use barbed appendages to snatch softer prey like fish.",
+          "hint": "One strikes shells; one snatches fish."
         },
         {
           "id": "q5",
-          "question": "What does the passage suggest about cognition and backbones?",
+          "question": "Why might mantis shrimp process color differently from humans despite having more receptors?",
           "options": [
-            "Using shells and rocks as tools",
-            "Pigment cells for color change",
-            "Through a drainpipe",
-            "Cognition doesn't require a backbone"
+            "16",
+            "Quick scanning not blending",
+            "Collapsing bubbles",
+            "Solar panels"
           ],
-          "correctIndex": 3,
-          "revealHint": "The story said: \"Invertebrates can still be smart.\" — the answer is **Cognition doesn't require a backbone**.",
-          "explanation": "Octopus intelligence shows that advanced cognition does not require a backbone or a familiar brain layout—challenging assumptions that only vertebrates think in complex ways.",
-          "hint": "Invertebrates can still be smart."
+          "correctIndex": 1,
+          "revealHint": "The story said: \"Like a scanner, not a painter.\" — the answer is **Quick scanning not blending**.",
+          "explanation": "Research suggests mantis shrimp may rapidly scan color information to detect prey rather than blending hues into rich pictures the way human vision does.",
+          "hint": "Like a scanner, not a painter."
         }
       ],
       "curiosityHooks": [
-        "Grandpa, if two-thirds of an octopus brain is in its arms, do you think each arm has its own personality?",
-        "Mom, could an octopus really open a childproof pill bottle—and should we childproof our snack jars from one?",
-        "If Inky escaped through a drainpipe to the ocean, do you think he remembered the way back to visit his tank?"
+        "Grandpa, could a mantis shrimp really break an aquarium glass—and has that actually happened to someone?",
+        "Mom, if they see colors we can't imagine, what do you think a coral reef looks like to them?",
+        "Scientists copied the shrimp's club for helmets—would you trust armor designed by a shrimp?"
       ],
-      "shareMessage": "Today's reading was about octopus intelligence! 🐙🧠\n\nInky escaped a New Zealand aquarium by squeezing through his tank lid and sliding down a 50-meter drainpipe to the sea!\n\nOctopuses change color using chromatophores, use tools like coconut shells, and have most of their neurons in their arms. Scientists now know cognition doesn't require a backbone.\n\nAsk us how chromatophores work and why Inky's escape amazed biologists!"
+      "shareMessage": "Today's essay was about mantis shrimp—the tiny reef boxer! 🦐💥\n\nIts club strikes faster than a bullet, creating bubbles that flash with heat. Engineers copy its layered structure for armor. Its compound eyes have 16 color receptors (we have 3!) and detect ultraviolet and polarized light.\n\nSmashers break shells; spearers hunt fish. Don't let the pretty colors fool you—this candy-bar-sized creature is formidable!\n\nAsk us to explain cavitation and why aquarium owners fear them."
     }
   ]
 }
